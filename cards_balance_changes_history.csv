@@ -1,0 +1,814 @@
+Card No., Card name, When released, When released another format, History of the card, Number of times the card was changed
+1,Knight,4 January 2016,04/01/2016,"29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Knight. The Knight's card image was also changed.
+18/05/2016|On 18/5/2016, a Balance Update, increased the Knight's hitpoints by 10%.
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Knight’s hit speed to 1.2 seconds (from 1.1 seconds).
+12/02/2018|On 12/2/2018, a Balance Update, decreased the Knight's hitpoints by 6%.
+25/04/2018|On 25/4/2018, the Clan Wars Update, increased the Knight’s hitpoints by 3%.
+06/08/2018|On 6/8/2018, a Balance Update, increased the Knight's damage by 5%.
+04/02/2019|On 4/2/2019, a Balance Update, increased the Knight's hitpoints by 2.5%.
+01/07/2019|On 1/7/2019, the July 2019 Update, increased the Knight's range to 1.2 tiles (from 1 tile), now classified as Melee: Medium.
+02/12/2019|On 2/12/2019, a Balance Update, increased the Knight's hitpoints by 5%.
+30/03/2021|On 30/3/21, a Balance Update decreased the Knight's hitpoints by 5%.",10
+2,Archers,4 January 2016,04/01/2016,"29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Archers.
+23/03/2016|On 23/3/2016, a Balance Update, made their initial attack quicker (identical to Spear Goblins).
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Common card level cap to 13 (from 12). The update also fixed the “range bug”, which decreased the Archers' range to 5 (from 5.5) but their effective range was unchanged.
+24/08/2016|On 24/8/2016, a Balance Update, increased the Archers' damage by 2%. Before this update, level 9 or level 13 Archers used to take 3 shots to kill an equal level Goblin instead of 2 when they are at the same level.
+19/09/2016|On 19/9/2016, the September 2016 Update, changed the description slightly. It used to say: “A pair of unarmored ranged attackers. They'll help you with ground and air unit attacks, but you're on your own with coloring your hair.""
+23/01/2017|On 23/1/2017, a Balance Update, decreased the Archers' hitpoints by 4%.
+16/03/2017|On 16/3/2017, a maintenance break, fixed some unexpected behaviour that the Archers showed.
+03/12/2018|On 3/12/2018, a Balance Update, increased the Archers’ damage by 2.5%, but also decreased their hitpoints by 1%.
+05/12/2018|On 5/12/2018, the December 2018 Update, increased the Archer's range to 5.5 tiles (from 5 tiles). This change was not mentioned in any change notes and was later said to be unintentional by Supercell, and as such it got reverted in 7/12/2018, in a maintenance break.
+02/06/2020|On 2/6/2020, a Balance Update, gave the Archers a new 0.1 second deploy stagger from each other.
+04/04/2022|On 4/4/22, a Balance Update increased the Archers' hit speed to 1.1 sec (from 1.2 sec).",11
+3,Goblins,4 January 2016,04/01/2016,"29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Goblins.
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Goblins' damage by 6%.
+02/07/2018|On 2/7/2018, a Balance Update, decreased the Goblins' hitpoints by 1%. This was to fix an inconsistency with Minions that could not take out Goblins in two hits at the same level.
+02/06/2020|On 2/6/2020, a Balance Update, gave the Goblins a new 0.1 second deploy stagger from each other.
+06/09/2021|On 6/9/21, a Balance Update increased the distance between the Goblins upon deployment.",5
+4,Giant,4 January 2016,04/01/2016,"09/02/2016|On 9/2/2016, the Chest Rewards & Card Balance Update, increased the Giant's hitpoints by 5%.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Giant.
+23/03/2016|On 23/3/2016, a Balance Update, increased the Giant's damage by 5%.
+19/09/2016|On 19/9/2016, the September 2016 Update, decreased the Giant's damage by 5%.
+20/10/2016|On 20/10/2016, a Balance Update, decreased the Giant's hitpoints by 5%.
+05/11/2018|On 5/11/2018, a Balance Update, decreased the Giant's hitpoints by 2%.
+03/02/2021|On 3/2/21, a Balance Update increased the Giant's hitpoints by 4%.",7
+5,P.E.K.K.A,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, decreased the P.E.K.K.A's hitpoints by 13% and decreased the Elixir cost to 7 (from 8).
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the P.E.K.K.A.
+21/06/2016|On 21/6/2016, a Balance Update, increased the P.E.K.K.A's damage by 8%.
+24/08/2016|On 24/8/2016, a Balance Update, increased the P.E.K.K.A's damage by 5%.
+13/02/2017|On 13/2/2017, a Balance Update, decreased the P.E.K.K.A's deploy time to 1 second (from 3 seconds).
+05/08/2019|On 5/8/2019, a Balance Update, decreased the P.E.K.K.A's hitpoints by 9.5% but increased her range to 1.6 tiles (from 0.7 tiles), now classified as Melee: Long.
+02/09/2019|On 2/9/2019, a Balance Update, decreased the P.E.K.K.A's range to 1.2 tiles (from 1.6 tiles), now classified as Melee: Medium.",7
+6,Minions,4 January 2016,04/01/2016,"29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Minions.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Common card level cap to 13 (from 12). The update also fixed the ""range bug"", which decreased the Minions' range to 2 tiles (from 2.5 tiles) but their effective range was unchanged.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, gave the Minions a new 0.15 seconds deploy stagger from each other. It also moved the Arena to unlock this card from Bone Pit (Arena 2) to Training Camp.
+01/07/2019|On 1/7/2019, the July 2019 Update, decreased the Minions' range to 1.6 tiles (from 2 tiles), now classified as Melee: Long.
+02/06/2020|On 2/6/2020, a Balance Update, decreased the deploy stagger for each Minion to 0.1 seconds (from 0.15 seconds).",5
+7,Balloon,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, added the death damage statistic to the Balloon's card info screen.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Balloon.
+23/03/2016|On 23/3/2016, a Balance Update, increased the Balloon's hitpoints by 5%.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the size of the Balloon's hitpoint bar to prevent it from being recognized as a low-health troop when encountered.
+15/12/2016|On 15/12/2016, the December 2016 Update, increased the Balloon's death damage by 105% and its death damage explosion radius by 50% (from 2 tiles to 3 tiles).
+19/04/2017|On 19/4/2017, a Balance Update, increased the Balloon's death damage delay to 3 seconds (from 1 second).
+06/08/2018|On 6/8/2018, a Balance Update, allowed the Balloon to be knocked back.
+28/01/2019|On 28/1/2019, the January 2019 Update, moved the Arena to unlock the Balloon from Bone Pit (Arena 2) to Builder’s Workshop (Arena 6).
+30/03/2021|On 30/3/21, a Balance Update decreased the Balloon's death damage by 27%.
+03/02/2022|On 3/2/22, a Balance Update decreased the Balloon's damage by 33% but also decreased its hitspeed to 2 seconds (from 3 seconds).",10
+8,Witch,4 January 2016,04/01/2016,"11/01/2016|On 11/1/2016, the First Update, decreased the Witch's spawned Skeletons level by 1. Before this update, a Level 13 Witch would be able to spawn level 14 Skeletons.
+02/02/2016|On 2/2/2016, the February 2016 Update, fixed a bug where the Witch would get stuck if placed in the corner behind a building.
+19/02/2016|On 19/2/2016, a Balance Update, increased her damage by 3%. Additionally, all Skeletons' hitpoints and damage were increased by 11%.
+29/02/2016|On 29/2/2016, the March 2016 Update, changed the Witch so that it would no longer stop its attack if its target dies during the attack animation. It also decreased the sight range of the Witch and her Skeletons.
+23/03/2016|On 23/3/2016, a Balance Update, increased her damage by 5%.
+03/05/2016|On 3/5/2016, the May 2016 Update, fixed the ""range bug"" and decreased the Witch's range to 5 tiles (from 5.5 tiles) but her effective range is unchanged. Also, before the change Witch was able to summon level 13 Skeletons while the level cap for the Skeletons card was 12. The Goblin Barrel was able to do the same with the Goblins.
+18/05/2016|On 18/5/2016, a Balance Update, increased the Witch's damage by 10%. In addition, the Skeletons' hitpoints and damage were increased by 5%.
+21/06/2016|On 21/6/2016, a Balance Update, increased the Witch's damage by 17%.
+13/02/2017|On 13/2/2017, a Balance Update, increased the Witch's damage by 6%.
+12/06/2017|On 12/6/2017, the June 2017 Update, increased the Witch's hitpoints by 5%, increased her area damage radius by 10%, decreased spawn speed to 7 seconds (from 7.5 seconds), and slowed the spawn speed of her first wave.
+25/04/2018|On 25/4/2018, the Clan Wars Update, fixed a bug where the Witch would switch targets if spawning Skeletons pushed her target out of range.
+02/07/2018|On 2/7/2018, a Balance Update, increased the Witch's hitpoints by 17%, decreased her spawn speed to 5 seconds (from 7 seconds), and decreased her hit speed to 1 second (from 0.7 seconds).
+03/09/2018|On 3/9/2018, a Balance Update, decreased the Witch's hitpoints by 3.5%.
+01/04/2019|On 1/4/2019, a Balance Update, made the Witch spawn 3 additional Skeletons upon death.
+07/10/2019|On 7/10/2019, a Balance Update, increased the Witch's damage by 220%, reduced her area damage radius by 45%, decreased her health by 12%, increased her attack speed to 1.4 seconds (from 1 second), and removed the 3 Skeletons that spawned upon death. Her skeleton summoning speed also changed to 7 sec (from 5 sec), and she now spawns Skeletons in a plus shape around her. Her sound effects also changed slightly.
+04/11/2019|On 4/11/2019, a Balance Update, removed the Witch's area damage, decreased her attack speed from 1.4 to 1.7 seconds and set the first Skeleton spawn from 1 second to 3.5 seconds. Her mass also increased by 100% so that she could no longer be pushed by Skeletons.
+26/11/2019|On 26/11/2019, the End of November 2019 Update, added Area Damage to the Witch's attacks, decreased her damage by 49%, and increased her hit speed to 1.1 seconds (from 1.7 seconds).
+04/02/2020|On 4/2/2020, a Balance Update, decreased the Witch's first attack to 0.7 seconds (from 1 second).
+09/12/2020|On 9/12/2020, a Balance Update, increased the speed of her first Skeleton spawn to 1 sec (from 3.5 sec).
+30/03/2021|On 30/3/2021, a Balance Update increased her range to 5.5 tiles (from 5 tiles).",20
+9,Barbarians,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, decreased the Barbarians' hitpoints by 3%.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Barbarians.
+04/06/2018|On 4/6/2018, a Balance Update, increased the Barbarians‘ hit speed to 1.4 seconds (from 1.5 seconds). It also increased the distance between the Barbarians upon deployment.
+04/03/2019|On 4/3/2019, a Balance Update, decreased the Barbarians' hitpoints by 13%. It also increased the Barbarians' count to 5 (from 4) and gave the Barbarians a new 0.15 second deploy stagger from each other.
+02/06/2020|On 2/6/2020, a Balance Update, decreased the deploy stagger for each Barbarian to 0.1 seconds (from 0.15 seconds).
+07/06/2022|On 7/6/22, a Balance Update increased the Barbarians‘ hit speed to 1.3 seconds (from 1.4 seconds).",6
+10,Golem,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, increased the Golem's hitpoints, attack damage and death damage by 43%, and decreased the same stats on the Golemite by 43%. It also added the death damage on the Golem's card info screen.
+19/02/2016|On 19/2/2016, a Balance Update, decreased the Golem's and Golemite's hitpoints by 5%.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Golem and his Golemites.
+18/05/2016|On 18/5/2016, a Balance Update, increased the Golem and Golemite's hitpoints by 5%.
+24/08/2016|On 24/8/2016, a Balance Update, increased the Golem's hit and death damage by 5% and hitpoints by 1%. The Golemites had their hit and death damage increased by 8% and their hitpoints by 3.2%.
+20/10/2016|On 20/10/2016, a Balance Update, allowed its death damage to affect flying troops, but Supercell called it a bug fix.
+07/01/2019|On 7/1/2019, a Balance Update, halved the amount of pushback caused by a Golemite's death damage (from 1.8 tiles to 0.9 tiles).
+03/03/2020|On 3/3/2020, a Balance Update, decreased the Golemites' damage by 22.5%, but also increased their Death Damage by 55%.
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update decreased the Golem's death damage by 28%. It also moved the Arena to unlock the Golem from Barbarian Bowl (Arena 3) to Hog Mountain (Arena 10).",9
+11,Skeletons,4 January 2016,04/01/2016,"19/02/2016|On 19/2/2016, the Balance Update, increased the Skeletons' hitpoints and damage by 11%.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Skeletons.
+18/05/2016|On 18/5/2016, a Balance Update, increased the Skeletons' hitpoints and damage by 5%.
+21/06/2016|On 21/6/2016, a Balance Update, decreased the number of Skeletons spawned to 3 (from 4).
+13/02/2017|On 13/2/2017, a Balance Update, increased the number of Skeletons spawned to 4 (from 3). This also changed the numeral ""Three"" to ""Four"" in the description.
+12/06/2017|On 12/6/2017, the June 2017 Update, decreased the number of Skeletons spawned to 3 (from 4). This changed the numeral ""Four"" to ""Three"" in the description.",6
+12,Valkyrie,4 January 2016,04/01/2016,"09/02/2016|On 9/2/2016, the Chest Reward & Card Balance Update, increased the Valkyrie's hitpoints and damage by 10%.
+29/02/2016|On 29/2/2016, the March 2016 Update, changed the Valkyrie so that it would no longer stop its attack if its target dies during the attack animation. It also decreased the sight range of the Valkyrie.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Rare card level cap to 11 (from 10). The update also allowed the Valkyrie to be knocked back.
+09/10/2017|On 9/10/2017, the Epic Quests Update, increased the Valkyrie's damage by 5%.
+12/02/2018|On 12/2/2018, a Balance Update, increased the Valkyrie's hit speed to 1.4 seconds (from 1.5 seconds).
+04/06/2018|On 4/6/2018, a Balance Update, increased the Valkyrie‘s hitpoints by 7% and made her first attack faster.
+03/09/2018|On 3/9/2018, a Balance Update, decreased the Valkyrie's hit speed to 1.6 seconds (from 1.4 seconds).
+07/01/2019|On 7/1/2019, a Balance Update, increased the Valkyrie's hit speed to 1.5 seconds (from 1.6 seconds).
+01/07/2019|On 1/7/2019, the July 2019 Update, increased the Valkyrie's range to 1.2 tiles (from 1 tile), now classified as Melee: Medium, and increased its splash radius to 2.4 tiles (from 2 tiles).
+05/08/2019|On 5/8/2019, a Balance Update, fixed a bug where the Valkyrie's range was actually 1.9 tiles (decreased by 0.7 tiles to correctly match Melee: Medium's 1.2 tiles).
+04/04/2022|On 4/4/22, a Balance Update decreased the Valkyrie's hitpoints by 4%.",11
+13,Skeleton Army,4 January 2016,04/01/2016,"19/02/2016|On 19/2/2016, a Balance Update, increased the Skeletons' hitpoints and damage by 11%.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Skeletons.
+18/05/2016|On 18/5/2016, a Balance Update, increased the Skeletons' hitpoints and damage by 5%.
+04/07/2016|On 4/7/2016, the Tournaments Update, increased the number of Skeletons spawned to 21 (from 20).
+20/10/2016|On 20/10/2016, a Balance Update, decreased the Skeleton Army's Elixir cost to 3 (from 4), increased the Skeletons' levels by 5 (to match the tournament standard) and reduced the number of Skeletons spawned to 16 (from 21).
+13/02/2017|On 13/2/2017, a Balance Update, decreased the number of Skeletons spawned to 15 (from 16).
+19/04/2017|On 19/4/2017, a Balance Update, decreased the number of Skeletons spawned to 14 (from 15).
+01/10/2018|On 1/10/2018, a Balance Update, increased the number of Skeletons spawned to 15 (from 14).
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update moved the Arena to unlock the Skeleton Army from Training Camp (Tutorial) to Bone Pit (Arena 2).",9
+14,Bomber,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, increased the Bomber's hit speed to 1.9 seconds (from 2 seconds).
+29/02/2016|On 29/2/2016, the March 2016 Update, changed the Bomber so that he would no longer stop his attack if his target dies during the attack animation. It also decreased the sight range of the Bomber.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Common card level cap to 13 (from 12). The update also fixed the ""range bug"", which decreased the Bomber's range to 4.5 tiles (from 5 tiles) but his effective range was unchanged.
+18/05/2016|On 18/5/2016, a Balance Update, increased the Bomber's damage by 10%.
+04/07/2016|On 4/7/2016, the Tournaments Update, increased the Bomber's damage by 9%.
+19/09/2016|On 19/9/2016, the September 2016 Update, decreased the Bomber's hitpoints by 2% and increased his damage by 2.5%. This resolved a minor issue where Goblins could not defeat an equal level Bomber in 3 hits at some levels, e.g. Level 7.
+15/12/2016|On 15/12/2016, the December 2016 Update, increased the Bomber's damage by 4%. This lets the Bomber one shot equally leveled Archers.
+02/07/2018|On 2/7/2018, a Balance Update, increased the Bomber's range to 5 tiles (from 4.5 tiles).
+06/05/2019|On 6/5/2019, a Balance Update, increased the Bomber's hitpoints by 28%.
+09/09/2020|On 9/9/2020, a Balance Update, decreased the Bomber's hitspeed to 1.8 seconds (from 1.9 seconds).
+30/03/2021|On 30/3/21, a Balance Update decreased the Bomber's Elixir cost to 2 (from 3), decreased his hitpoints by 31%, and decreased his damage by 32%.
+06/09/2021|On 6/9/21, a Balance Update decreased the Bomber's attacking range to 4.5 tiles (from 5 tiles).",12
+15,Musketeer,4 January 2016,04/01/2016,"09/02/2016|On 9/2/2016, the Chest Rewards & Card Balance Update, decreased the Musketeer's damage by 25% and her Elixir cost to 4 (from 5).
+19/02/2016|On 19/2/2016, a Balance Update, increased the Musketeer's damage by 11%.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Musketeer.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Rare card level cap to 11 (from 10). The update also fixed the ""range bug"", which decreased the Musketeer's range to 6 (from 6.5) but her effective range was unchanged.
+04/02/2019|On 4/2/2019, a Balance Update, increased the Musketeer's damage by 3%.
+06/10/2020|On 6/10/2020, a Balance Update, decreased the Musketeer's first attack speed to 0.8 seconds (from 0.5 seconds).
+03/02/2022|On 3/2/22, a Balance Update increased the Musketeer's hit speed to 1 sec (from 1.1 sec).",7
+16,Baby Dragon,4 January 2016,04/01/2016,"29/02/2016|On 29/2/2016, the March 2016 Update, changed the Baby Dragon so that it would no longer stop its attack if its target dies during the attack animation. It also decreased the sight range of the Baby Dragon.
+03/05/2016|On 3/5/2016, the May 2016 Update, fixed the ""range bug"" and decreased the Baby Dragon's range to 3 (from 3.5), but its effective range remained unchanged.
+24/08/2016|On 24/8/2016, a Balance Update, increased the Baby Dragon's hit speed to 1.6 seconds (from 1.8 seconds).
+13/02/2017|On 13/2/2017, a Balance Update, increased the Baby Dragon's range to 3.5 tiles (from 3 tiles).
+06/08/2018|On 6/8/2018, a Balance Update, increased the Baby Dragon's hit speed to 1.5 seconds (from 1.6 seconds) but allow it to be knocked back as well.
+04/11/2019|On 4/11/2019, a Balance Update, decreased the Baby Dragon's hitpoints by 4%.
+05/05/2020|On 5/5/2020, a Balance Update, decreased the Baby Dragon's hitpoints by 6.5%.
+30/07/2020|On 30/7/2020, a maintenance break, changed the Baby Dragon's card render.",8
+17,Prince,4 January 2016,04/01/2016,"11/01/2016|On 11/1/2016, the First Update, decreased the Prince's hitpoints by 4%.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Prince.
+23/03/2016|On 23/3/2016, a Balance Update, decreased the Prince's charge speed by 13%.
+03/05/2016|On 3/5/2016, the May 2016 Update, fixed the ""range bug"" and decreased the Prince's range to Melee (from 2.5 tiles), but his effective range remained unchanged.
+21/06/2016|On 21/6/2016, a Balance Update, increased the Prince's damage by 9%.
+24/08/2016|On 24/8/2016, a Balance Update, increased the Prince's damage by 2%. This means that a level 13 Prince will now be able to defeat level 13 Barbarians in 2 hits or 1 charge strike.
+12/12/2017|On 12/12/2017, the Electrifying Update, increased the Prince’s hitpoints by 5% and his hit speed to 1.4 seconds (from 1.5 seconds).
+20/06/2018|On 20/6/2018, the Summer 2018 Update, increased the distance required for charging to 3.5 tiles (from 2.5 tiles).
+03/09/2018|On 3/9/2018, a Balance Update, increased the Prince's hitpoints by 5%.
+01/07/2019|On 1/7/2019, the July 2019 Update, decreased the Prince's range to 1.6 tiles (from 1.85 tiles), now classified as Melee: Long.
+01/06/2020|On 1/6/2020, a Balance Update, increased the Prince's hitpoints by 3%.
+03/02/2022|On 3/2/22, a Balance Update decreased the Prince's hitpoints by 4% and made him able to jump over the river.
+02/08/2022|On 2/8/22, a Balance Update decreased the distance required for charging to 3 tiles (from 3.5 tiles).",13
+18,Wizard,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, decreased the Wizard's damage by 7%.
+29/02/2016|On 29/2/2016, the March 2016 Update, changed the Wizard so that he would no longer stop its attack if his target dies during the attack animation. It also decreased the sight range of the Wizard.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Rare card level cap to 11 (from 10). The update also fixed the ""range bug"", which decreased the Wizard's range to 5 tiles (from 5.5 tiles) but his effective range is unchanged.
+04/07/2016|On 4/7/2016, the Tournaments Update, increased the Wizard's attack speed to 1.6 seconds (from 1.7 seconds). This update also revealed that the Ice Wizard is his cousin.
+15/12/2016|On 15/12/2016, the December 2016 Update, increased the Wizard's hit speed to 1.4 seconds (from 1.6 seconds) but delayed his initial attack by 0.2 seconds.
+23/01/2017|On 23/1/2017, a Balance Update, increased the Wizard's range to 5.5 tiles (from 5 tiles).
+04/06/2018|On 4/6/2018, a Balance Update, increased the Wizard’s damage by 2% and his area damage radius by 25%.",7
+19,Mini P.E.K.K.A,4 January 2016,04/01/2016,"09/02/2016|On 9/2/2016, the Chest Rewards & Card Balance Update, increased the Mini P.E.K.K.A's hitpoints by 3%.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Mini P.E.K.K.A.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Rare card level cap to 11 (from 10). The Mini P.E.K.K.A. was changed to be affected by pushback. Additionally, the Mini P.E.K.K.A's sound effect when deployed was updated. The sound effect now sounds like “Pancakes”, and a tweet by the Clash Royale official Twitter account implied that that was the correct interpretation. It had a real life Mini P.E.K.K.A standing next to a Giant Skeleton, with the caption “Who wants pancakes?”.
+11/08/2017|On 11/8/2017, a Balance Update, increased the Mini P.E.K.K.A's damage by 4.6%.
+24/01/2018|On 24/1/2018, a Balance Update, increased the Mini P.E.K.K.A's hitpoints by 7%.
+01/07/2019|On 1/7/2019, the July 2019 Update, increased the Mini P.E.K.K.A's range to 1.2 tiles (from 1.05 tiles), now classified as Melee: Medium.
+05/05/2020|On 5/5/2020, a Balance Update, decreased the Mini P.E.K.K.A's range from Melee: Medium to Melee: Short (1.2 tiles -> 0.8 tiles).
+03/11/2020|On 3/11/2020, a Balance Update, increased the Mini P.E.K.K.A's attack speed to 1.7 seconds (from 1.8 seconds) and its first attack speed to 0.4 seconds (from 0.5 seconds).
+03/02/2022|On 3/2/22, a Balance Update increased the Mini P.E.K.K.A's attack speed to 1.6 seconds (from 1.7 seconds)",9
+20,Spear Goblins,4 January 2016,04/01/2016,"29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Spear Goblins.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Common card level cap to 13 (from 12). The update also fixed the ""range bug"", which decreased the Spear Goblins' range to 5 tiles (from 5.5 tiles) but their effective range is unchanged.
+09/10/2017|On 9/10/2017, the Epic Quests Update, increased the Spear Goblins' hit speed to 1.1 seconds (from 1.3 seconds).
+25/04/2018|On 25/4/2018, the Clan Wars Update, decreased the Spear Goblins‘ hit speed to 1.2 seconds (from 1.1 seconds).
+04/06/2018|On 4/6/2018, a Balance Update, increased the Spear Goblins’ damage by 34%, but also increased their hit speed to 1.7 seconds (from 1.2 seconds) and made their first attack slower.
+02/06/2020|On 2/6/2020, a Balance Update, gave the Spear Goblins a new 0.1 second deploy stagger from each other.",6
+21,Giant Skeleton,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, added the death damage on the Giant Skeleton's card info screen.
+29/02/2016|On 29/2/2016, the March 2016 Update, increased the Giant Skeleton's hitpoints by 11% and bomb timer to 3 seconds (from 1 second). It also decreased the sight range of the Giant Skeleton.
+04/07/2016|On 4/7/2016, the Tournaments Update, increased the Giant Skeleton's damage by 20%.
+15/12/2016|On 15/12/2016, the December 2016 Update, increased the Giant Skeleton's damage by 8%.
+12/12/2017|On 12/12/2017, the Electrifying Update, increased the Giant Skeleton‘s hitpoints by 5%.
+01/04/2019|On 1/4/2019, a Balance Update, made the Giant Skeleton’s first attack delay shorter (from 0.5 seconds to 0.3 seconds) and increased his mass from 15 to 18.
+30/03/2021|On 30/3/21, a Balance Update decreased the Giant Skeleton's death damage by 54% and increased his attack damage by 29%.
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update gave Giant Skeleton's bomb the ability to inflict double damage on Crown Towers. It also moved the Arena to unlock the Giant Skeleton from Bone Pit (Arena 2) to P.E.K.K.A's Playhouse (Arena 4).
+04/04/2022|On 4/4/22, the Giant Skeleton’s hitpoints and attack speed were increased by 7%.
+12/09/2022|On 12/9/22, a maintenance break decreased the Giant Skeleton's HP by 5%.",10
+22,Hog Rider,4 January 2016,04/01/2016,"29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Hog Rider.
+21/06/2016|On 21/6/2016, a Balance Update, decreased the Hog Rider's damage by 6%.
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Hog Rider’s hit speed to 1.6 seconds (from 1.5 seconds) and delayed his first attack by 0.1 seconds.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, moved the Arena to unlock the Hog Rider from P.E.K.K.A's Playhouse (Arena 4) to Goblin Stadium (Arena 1).",4
+23,Minion Horde,4 January 2016,04/01/2016,"29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Minions.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Common card level cap to 13 (from 12), and fixed the “range bug” and decreased the Minions' range to 2 tiles (from 2.5 tiles) but their effective range is unchanged.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, gave the Minion Horde a new 0.15 seconds deploy stagger from each other.
+01/07/2019|On 1/7/2019, the July 2019 Update, decreased the Minions' range to 1.6 tiles (from 2 tiles), now classified as Melee: Long.
+02/06/2020|On 2/6/2020, a Balance Update, decreased the deploy stagger for each Minion to 0.1 seconds (from 0.15 seconds).",5
+24,Ice Wizard,29 February 2016,29/02/2016,"23/03/2016|On 23/3/2016, a Balance Update, increased the Ice Wizard's damage by 5%.
+03/05/2016|On 3/5/2016, the May 2016 Update, decreased the Legendary card level cap to 5 (from 6) and fixed the ""range bug"" and decreased the Ice Wizard's range to 5.5 (from 6) but his effective range is unchanged. Also, this update changed his description. It used to read, ""This chill caster hails from the far North. He shoots ice shards at enemies, slowing down their movement and attack speed.""
+04/07/2016|On 4/7/2016, the Tournaments Update, allowed the Elixir Collector to be affected by the Ice Wizard's slowing.
+24/08/2016|On 24/8/2016, a Balance Update, decreased the Ice Wizard's hitpoints by 5%.
+11/08/2017|On 11/8/2017, a Balance Update, increased the Ice Wizard's damage by 10% and decreased his hit speed to 1.7 seconds (from 1.5 seconds).
+01/10/2018|On 1/10/2018, a Balance Update, increased the Ice Wizard's slowdown duration to 2.5 seconds (from 2 seconds). This card won the vote for the 8th card of the balance update.
+03/12/2018|On 3/12/2018, a Balance Update, decreased the Ice Wizard’s hitpoints by 11% but also increased his damage by 10%.
+07/06/2021|On 7/6/21, a Balance Update decreased the Ice Wizard's hitpoints by 3%.
+10/06/2021|On 10/6/21, a maintenance break decreased the Ice Wizard's hitpoints by 0.1%. An equal level Ice Wizard will now be one-shot by an equal level Fireball.
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update granted the Ice Wizard Spawn Damage with a slow effect.",10
+25,Royal Giant,29 February 2016,29/02/2016,"23/03/2016|On 23/3/2016, a Balance Update, increased the Royal Giant's damage by 20%.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Common card level cap to 13 (from 12), increased the Royal Giant's range by 1 tile and also changed his description. It used to say, “Sighting his massive cannon at enemy buildings, the Royal Giant comes in like a wrecking ball.” The same update also fixed the “range bug” and decreased the range by 0.5 tiles with no change to effective range, thereby providing a 0.5 tile increase (effectively a 1 tile increase in range).
+18/05/2016|On 18/5/2016, a Balance Update, decreased the Royal Giant's damage by 4%.
+24/08/2016|On 24/8/2016, a Balance Update, decreased the Royal Giant's hit speed to 1.7 seconds (from 1.5 seconds).
+19/04/2017|On 19/4/2017, a Balance Update, increased the Royal Giant's deployment time to 2 seconds (from 1 second).
+01/10/2018|On 1/10/2018, a Balance Update, decreased the Royal Giant's range to 5 tiles (from 6.5 tiles), but increased his damage by 60% and decreased the deployment time to 1 second (from 2 seconds).
+06/09/2021|On 6/9/21, a Balance Update decreased the Royal Giant's first attack speed to 0.9 seconds (from 0.7 seconds).",7
+26,Guards,3 May 2016,03/05/2016,"18/05/2016|On 18/5/2016, a Balance Update, increased the Guards' hitpoints and damage by 8%.
+21/06/2016|On 21/6/2016, a Balance Update, removed the pushback when their shields break.
+09/10/2017|On 9/10/2017, the Epic Quests Update, fixed a bug where the Inferno Tower's and Inferno Dragon's damage did not reset after breaking the Guards' shield. This change was reverted on 11/10/2017, in a maintenance break.
+12/12/2017|On 12/12/2017, the Electrifying Update, increased the Guards’ hitpoints and damage by 5% and their hit speed to 1.1 seconds (from 1.2 seconds). It also made it so that the Inferno Tower's and Inferno Dragon's would now reset after breaking the Guards' shield.
+02/06/2020|On 2/6/2020, a Balance Update, gave the Guards a new 0.1 seconds deploy stagger from each other.
+09/12/2020|On 9/12/2020, a Balance Update, decreased the Guards' hit speed to 1 second (from 1.1 seconds) and decreased their hitpoints by 26%.
+06/09/2021|On 6/9/21, a Balance Update increased the Guards' damage by 12%.",7
+27,Princess,29 February 2016,29/02/2016,"23/03/2016|On 23/3/2016, a Balance Update, decreased the Princess' hitpoints by 10%. Before the update, from level 5, the Princess could not be taken out by level 12 Arrows.
+03/05/2016|On 3/5/2016, the May 2016 Update, decreased the Legendary card level cap to 5 (from 6) and fixed the ""range bug"" and decreased the Princess' range to 9 (from 9.5) but her effective range is unchanged. The same update also changed her card description. Prior to this update, it read ""Shoots a volley of flaming arrows halfway across the Arena. The Princess is afraid of germs, so keep the rabble away from her!""
+24/08/2016|On 24/8/2016, a Balance Update, decreased the Princess' area damage radius by 25%. She now has a 2 tile splash instead of a 2.5 tile splash.
+29/08/2016|On 29/8/2016, a Minor Update, increased the Princess' projectile speed. Previously, certain ""Very Fast"" troops could avoid the Princess' attack when approaching her directly.
+06/05/2019|On 6/5/2019, a Balance Update, increased Princess' projectile speed by 33%.
+07/04/2020|On 7/4/2020, a Balance Update, changed the Princess' card render.",6
+28,Dark Prince,29 February 2016,29/02/2016,"23/03/2016|On 23/3/2016, a Balance Update, decreased the Dark Prince's charge speed by 13%.
+03/05/2016|On 3/5/2016, the May 2016 Update, changed the Dark Prince's card description. It used to say, “Dealing area damage with each swing and double after charging, the Dark Prince is a formidable fighter. To harm his squishy core, break his shield first.”
+04/07/2016|On 4/7/2016, the Tournaments Update, increased the Dark Prince's damage by 8% and made him unaffected by pushback.
+24/08/2016|On 24/8/2016, a Balance Update, increased the Dark Prince's damage by 7.5%.
+13/02/2017|On 13/2/2017, a Balance Update, increased the Dark Prince's hitpoints by 5%.
+11/08/2017|On 11/8/2017, a Balance Update, increased the Dark Prince's damage by 6% and increased his hit speed to 1.4 seconds (from 1.5 seconds).
+09/10/2017|On 9/10/2017, the Epic Quests Update, fixed a bug where the Inferno Tower's and Inferno Dragon's damage did not reset after breaking the Dark Prince's shield. This change was reverted on 11/10/2017, in a maintenance break.
+12/12/2017|On 12/12/2017, the Electrifying Update reverted the Dark Prince to his state on 9/10/2017. More specifically, the Inferno Tower's and Inferno Dragon's damage would now reset after breaking the Dark Prince's shield.
+12/02/2018|On 12/2/2018, a Balance Update, increased the Dark Prince's hitpoints by 5% and increased his hit speed to 1.3 seconds (from 1.4 seconds).
+25/04/2018|On 25/4/2018, the Clan Wars Update, decreased the Dark Prince’s Shield hitpoints by 25%.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, increased the distance required for charging to 3.5 tiles (from 2.5 tiles).
+06/05/2019|On 6/5/2019, a Balance Update, increased his range by 20% and increased his area splash radius by 25%. The area splash radius change affects both his normal attack and charging 360º attack.
+01/07/2019|On 1/7/2019, the July 2019 Update, decreased the Dark Prince's range to 1.2 tiles (from 1.25 tiles), now classified as Melee: Medium. This also slightly decreased the splash radius of both his normal attack and charging attack by 5%.
+02/09/2019|On 2/9/2019, a Balance Update, decreased the Dark Prince's splash radius to 1.1 tiles (from 1.2 tiles).
+03/02/2022|On 3/2/22, a a Balance Update decreased the Dark Prince's Hit points by 3% and gave him the ability to jump the river.",15
+29,Three Musketeers,29 February 2016,29/02/2016,"23/03/2016|On 23/3/2016, a Balance Update, decreased the Three Musketeers' Elixir cost to 9 (from 10).
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Rare card level cap to 11 (from 10) and fixed the ""range bug"", decreasing the Three Musketeers' range to 6 tiles (from 6.5 tiles) but with no change to effective range.
+04/02/2019|On 4/2/2019, a Balance Update, increased the Three Musketeers' Elixir cost to 10 (from 9) but also increased the Musketeer's damage by 3%.
+13/02/2019|On 13/2/2019, an Optional Update, made it so that mirroring Three Musketeers would no longer display the cost of 11 Elixir.
+06/05/2019|On 6/5/2019, a Balance Update, decreased the Three Musketeers' cost to 9 (from 10) but also increased their deploy time to 3 seconds (from 1 second) and added a 0.15 second deploy time between each Musketeer.
+02/12/2019|On 2/12/2019, a Balance Update, decreased the Three Musketeers' deploy time to 2 seconds (from 3 seconds) and increased the deploy stagger for each Musketeer to 0.5 seconds (from 0.15 seconds).
+02/06/2020|On 2/6/2020, a Balance Update, decreased the deploy stagger for each Musketeer to 0.1 seconds (from 0.5 seconds).
+04/08/2020|On 4/8/2020, a Balance Update, added a card render to the Three Musketeers' card info screen.
+06/10/2020|On 6/10/2020, a Balance Update, decreased the Musketeer's first attack speed to 0.8 seconds (from 0.5 seconds).
+30/03/2021|On 30/3/21, a Balance Update decreased the Three Musketeers' deploy time to 1 second (from 2 seconds).
+03/02/2022|On 3/2/22, a Balance Update decreased the Musketeer's hit speed to 1 second (from 1.1 seconds).",11
+30,Lava Hound,3 May 2016,03/05/2016,"18/05/2016|On 18/5/2016, a Balance Update, increased the Lava Hound's hitpoints by 3% and Lava Pup's hitpoints by 9%.
+21/06/2016|On 21/6/2016, a Balance Update, increased the Lava Hound's damage by 28%.
+30/11/2016|On 30/11/2016, a Balance Update, decreased the Lava Pup's hitpoints by 1%. This was to fix a rounding error where a level 12 Princess Tower should've been able to kill equivalent level Lava Pups in two shots.
+24/01/2018|On 24/1/2018, a Balance Update, increased the Lava Hounds hitpoints by 5%.
+07/01/2020|On 7/1/2020, a Balance Update, reworked the Lava Hound. Increasing its range from 2 to 3.5 tiles. The damage of the pups was increased by 70%, but the hit speed interval was reduced by 67% (from 1 second to 1.7 seconds). There was also an unannounced change to Lava Hound's pathing, allowing it to bypass some building placements it was not able to bypass before.",5
+31,Ice Spirit,4 July 2016,04/07/2016,"01/11/2016|On 1/11/2016, the November 2016 Update, decreased the Ice Spirit's freeze duration to 1.5 seconds (from 2 seconds).
+23/01/2017|On 23/1/2017, a Balance Update, decreased the Ice Spirit's damage by 10%.
+25/04/2018|On 25/4/2018, the Clan Wars Update, decreased the Ice Spirit's damage by 4% and freeze duration to 1 second (from 1.5 seconds).
+04/04/2022|On 4/4/22, the 2022 Quarter 1 Update increased the Ice Spirit's freeze duration increased to 1.3 seconds (from 1 second).",4
+32,Fire Spirit,3 May 2016,03/05/2016,"18/05/2016|On 18/5/2016, a Balance Update, increased the Fire Spirits' area damage radius by 25%.
+02/07/2018|On 2/7/2018, a Balance Update, increased the Fire Spirits' area damage by 5%.
+01/06/2020|On 1/6/2020, a Balance Update, gave the Fire Spirits a new 0.1 seconds deploy stagger from each other.
+09/09/2020|On 9/9/2020, a Balance Update, increased the Fire Spirits' area damage radius to 1.7 tiles (from 1.5 tiles).
+06/07/2021|On 6/7/21, the 2021 Quarter 2 Update reworked the card, decreasing its Elixir cost to 1 (from 2), its count to 1 (from 3), increasing its hitpoints by 109%, its damage by 6%, its range to 2.5 tiles (from 2 tiles), and its area damage radius to 2.5 tiles (from 1.7 tiles). Its name and description were updated to reflect the count change. Its description previously read, “These three Fire Spirits are on a kamikaze mission to give you a warm hug. It'd be adorable if they weren't on fire.” It also moved the Arena to unlock the Fire Spirit from Spell Valley (Arena 5) to P.E.K.K.A's Playhouse (Arena 4).
+06/09/2021|On 6/9/21, a Balance Update decreased the Fire Spirit's area damage radius to 2.3 tiles (from 2.5 tiles). It can no longer hit all Goblins spawned from the Goblin Barrel when the Goblin Barrel is deployed in the center of a Princess Tower.
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update decreased the range of the Fire Spirit to 2 tiles (from 2.5 tiles).
+02/08/2022|On 2/8/22, a Balance Update decreased the Fire Spirit's area damage by 9%.",8
+33,Miner,3 May 2016,03/05/2016,"18/05/2016|On 18/5/2016, a Balance Update, increased the Miner's hitpoints by 6%.
+04/07/2016|On 4/7/2016, the Tournaments Update, decreased the Miner's deploy time to 0.7 seconds (from 1 second). This change was not mentioned in any change notes and was later said to be unintentional by Supercell.
+24/08/2016|On 24/8/2016, a Balance Update, increased the Miner's deploy time back to 1 second and decreased his hitpoints by 6%.
+01/07/2019|On 1/7/2019, the July 2019 Update, decreased the Miner's range to 1.2 tiles (from 1.3 tiles), now classified as Melee: Medium.
+03/03/2020|On 3/3/2020, a Balance Update, decreased the Miner's Crown Tower damage, from 40% to 35% of the full damage.
+04/08/2020|On 4/8/2020, a Balance Update, decreased the Miner's Crown Tower damage, from 35% to 30% of the full damage.",6
+34,Sparky,3 May 2016,03/05/2016,"09/10/2017|On 9/10/2017, the Epic Quests Update, decreased the Sparky's damage by 15% but increased her hit speed to 4 seconds (from 5 seconds).
+25/04/2018|On 25/4/2018, the Clan Wars Update, fixed a bug where Sparky's hit would reset if she was knocked out of range while charging.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, moved the Arena to unlock the Sparky from Builder's Workshop (Arena 6) to Electro Valley (Arena 11).
+05/12/2018|On 5/12/2018, the December 2018 Update, increased the Sparky's range to 5 tiles (from 4.5 tiles). This change was not mentioned in any change notes and was later said to be unintentional by Supercell, and as such it got reverted in 7/12/2018, in a maintenance break.
+07/01/2019|On 7/1/2019, a Balance Update, reverted the Sparky to her state on 5/12/2018. More specifically, the Sparky's range was increased to 5 tiles (from 4.5 tiles).
+07/01/2020|On 7/1/2020, a Balance Update, removed the Sparky from all Draft selections. However, she remained in Triple Draft.
+03/11/2020|On 3/11/2020, a Balance Update, decreased the Sparky's first attack speed to 1 second (from 0.5 seconds).",7
+35,Bowler,4 July 2016,04/07/2016,"24/08/2016|On 24/8/2016, a Balance Update, decreased the Bowler's Elixir cost to 5 (from 6), decreased its hitpoints by 7%, and decreased its damage by 10%.
+01/11/2016|On 1/11/2016, the November 2016 Update, changed the Bowler's sound effects.
+05/12/2018|On 5/12/2018, the December 2018 Update, increased the Bowler's range to 5.5 tiles (from 5 tiles). This change was not mentioned in any change notes and was later said to be unintentional by Supercell, and as such it got reverted in 7/12/2018, in a maintenance break.
+04/08/2020|On 4/8/2020, a Balance Update, decreased the Bowler's sight range to 4 tiles (from 5 tiles), increased his projectile range 7.5 tiles (from 6 tiles), and increased his hitpoints by 8%.
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update moved the Arena to unlock the Bowler from Frozen Peak (Arena 8) to Rascal's Hideout (Arena 13).",5
+36,Lumberjack,4 July 2016,04/07/2016,"24/08/2016|On 24/8/2016, a Balance Update, changed the Lumberjack's speed from Fast to Very Fast, increased his hit speed from 1.1 seconds to 0.7 seconds and decreased his damage by 23%.
+19/09/2016|On 19/9/2016, the September 2016 Update, decreased the Rage's attack speed boost to 30% (from 40%) and its duration by 2 seconds.
+01/11/2016|On 1/11/2016, the November 2016 Update, increased the Rage's attack speed boost to 35% (from 30%).
+15/12/2016|On 15/12/2016, the December 2016 Update, increased the Lumberjack's hitpoints by 6%.
+13/03/2017|On 13/3/2017, the March 2017 Update, increased the Rage's level such that a Tournament Standard Lumberjack drops a Tournament Standard Rage, a maxed Lumberjack drops a maxed Rage, etc.
+19/04/2017|On 19/4/2017, a Balance Update, increased the Lumberjack's hitpoints by 4%.
+24/01/2018|On 24/1/2018, a Balance Update, increased the Lumberjack´s hitpoints by 7%.
+05/08/2019|On 5/8/2019, a Balance Update, decreased the Lumberjack's hit speed to 0.8 seconds (from 0.7 seconds).",8
+37,Battle Ram,10 February 2017,10/02/2017,"02/02/2017|On 2/2/2017, a maintenance break, made the Battle Ram unaffected by pushback. This was done before the Battle Ram was added in the game, to prepare for the upcoming Challenge.
+11/08/2017|On 11/8/2017, a Balance Update, increased the distance required to initiate charging by 1 tile (to 4 tiles from 3 tiles) and delayed the Barbarians' spawning by 0.2 seconds (from 0.8 seconds after the Battle Ram breaks to 1 second).
+04/06/2018|On 4/6/2018, a Balance Update, increased the Barbarians' hit speed to 1.4 seconds (from 1.5 seconds) and made the Battle Ram affected by all forms of pushback.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, decreased the distance required to charge to 3.5 tiles (from 4 tiles). It also moved the Arena to unlock this card from Builder's Workshop (Arena 6) to Barbarian Bowl (Arena 3).
+07/01/2019|On 7/1/2019, a Balance Update, decreased the Ram's damage and charge damage by 11%.
+04/03/2019|On 4/3/2019, a Balance Update, decreased the Barbarians' hitpoints by 13%.
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update increased the Battle Ram's damage and charge damage by 8%.
+07/06/2022|On 7/6/22, a Balance Update increased the Barbarians‘ hit speed to 1.3 sec (from 1.4 sec).",8
+38,Inferno Dragon,30 September 2016,30/09/2016,"15/12/2016|On 15/12/2016, the December 2016 Update increased the Inferno Dragon's hitpoints by 5% and decreased its re-targeting time by 0.4 seconds.
+12/06/2017|On 12/6/2017, a June 2017 Update, increased the Inferno Dragon's hitpoints by 7%, and decreased its re-targeting speed by 0.2 seconds.
+09/10/2017|On 9/10/2017, the Epic Quests Update, fixed a bug where the Inferno Dragon's damage did not reset after breaking a shield. This change was reverted on 11/10/2017, in a maintenance break.
+12/12/2017|On 12/12/2017, the Electrifying Update, reverted the Inferno Dragon to its state on 9/10/2017. More specifically, the Inferno Dragon's damage would now reset after breaking a shield.
+12/02/2018|On 12/2/2018, a Balance Update, increased the Inferno Dragon’s re-targeting time.
+06/08/2018|On 6/8/2018, a Balance Update, decreased the Inferno Dragon's range to 3.5 (from 4) and allowed it to be knocked back.",6
+39,Ice Golem,14 October 2016,14/10/2016,"20/10/2016|On 20/10/2016, a Balance Update, allowed his death damage to affect flying troops.
+01/11/2016|On 1/11/2016, the Novermber 2016 Update, increased the Ice Golem's death damage by 74%. The update also changed the description. It used to read ""He's tough, targets buildings and explodes when destroyed, slowing nearby enemies. Wears a fashionable collar of coal to match his ears and nails.""
+23/01/2017|On 23/1/2017, a Balance Update, decreased his hitpoints by 5%, his death damage radius to 2 tiles (from 3 tiles), and death damage slow duration to 2 seconds (from 3 seconds).
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Ice Golem‘s slow effect duration to 1 second (from 2 seconds)
+04/06/2018|On 4/6/2018, a Balance Update, decreased the Ice Golem's hitpoints by 5%.
+02/08/2022|On 2/8/22, a Balance Update increased the Ice Golem's slow effect duration to 1.5 seconds (from 1 second).",6
+40,Mega Minion,19 September 2016,19/09/2016,"21/09/2016|On 21/9/2016, a maintenance break, added a Mega Minion offer in the Shop, selling 100 Mega Minion cards.
+30/11/2016|On 30/11/2016, a Balance Update, decreased the Mega Minion's damage by 6% and its hit speed to 1.4 seconds (from 1.3 seconds).
+23/01/2017|On 23/1/2017, a Balance Update, decreased the Mega Minion's damage by 4% and its hit speed to 1.5 seconds (from 1.4 seconds).
+02/07/2018|On 2/7/2018, a Balance Update, decreased the Mega Minion's hit speed to 1.6 seconds (from 1.5 seconds).
+01/07/2019|On 1/7/2019, the July 2019 Update, decreased the Mega Minion's range to 1.6 tiles (from 2 tiles), now classified as Melee: Long.",5
+41,Dart Goblin,13 January 2017,13/01/2017,"16/03/2017|On 16/3/2017, a maintenance break, fixed some unexpected behaviour that the Dart Goblin showed.
+25/04/2018|On 25/4/2018, the Clan Wars Update, increased the Dart Goblin’s damage by 3%. The update also slightly changed his description. It used to read “Runs fast, shoots far and chews gum. How does he blow darts with a mouth full of gum? Years of didgeridoo lessons.”. This was due to the release of the Rascals and their description, “Spawns a mischievous trio of Rascals! The boy takes the lead, while the girls pelt enemies from behind… with slingshots full of Double Trouble Gum!”
+05/11/2018|On 5/11/2018, a Balance Update, increased the Dart Goblin's damage by 4%. This change was voted for by the community.
+04/02/2019|On 4/2/2019, a Balance Update, decreased the Dart Goblin's hit speed to 0.7 sec (from 0.65 sec).
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update, increased the Dart Goblin's damage by 9%.",5
+42,Goblin Gang,24 February 2017,24/02/2017,"12/06/2017|On 12/6/2017, a June 2017 Update, decreased the Goblin Gang's Spear Goblin count by 1 (to 2 from 3). This also changed the description to match the number of troops spawned.
+09/10/2017|On 9/10/2017, the Epic Quests Update, increased the Spear Goblins' hit speed to 1.1 seconds (from 1.3 seconds).
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Goblins’ damage by 6%.
+25/04/2018|On 25/4/2018, the Clan Wars Update, decreased the Spear Goblins' hit speed to 1.2 seconds (from 1.1 seconds).
+04/06/2018|On 4/6/2018, a Balance Update, increased the Spear Goblins’ damage by 34%, but also decreased their hit speed to 1.7 seconds (from 1.2 seconds) and made their first attack slower.
+02/07/2018|On 2/7/2018, a Balance Update, decreased the Goblins' hitpoints by 1%. This was to fix an inconsistency with Minions that could not take out Goblins in two hits at the same level.
+04/03/2019|On 4/3/2019, a Balance Update, gave the Goblin Gang a new 0.15 seconds deploy stagger from each other.
+02/06/2020|On 2/6/2020, a Balance Update, decreased the deploy stagger for each Goblin to 0.1 seconds (from 0.15 seconds).
+04/10/2022|On 4/10/22, a Balance Update increased the Goblin Gang's Spear Goblin count by 1 (from 2 to 3). This also changed the description to match the number of troops spawned.",9
+43,Electro Wizard,30 December 2016,30/12/2016,"23/01/2017|On 23/1/2017, a Balance Update, decreased the Electro Wizard's spawn damage by 6% and the Electro Wizard's health was increased by 9%.
+13/03/2017|On 13/3/2017, the March 2017 Update, removed his ability to permanently stun enemy troops.
+19/04/2017|On 19/4/2017, a Balance Update, decreased his hit speed to 1.8 seconds (from 1.7 seconds).
+11/08/2017|On 11/8/2017, a Balance Update, decreased his hitpoints by 2%. This change was mostly made so that the Mini P.E.K.K.A can defeat him in one shot.
+09/10/2017|On 9/10/2017, the Epic Quests Update, decreased his damage by 4% and delayed his first attack by 0.2 seconds.
+03/11/2020|On 3/11/2020, a Balance Update, decreased his damage by 3.5%.
+09/12/2020|On 9/12/2020, a Balance Update, decreased his damage by 2.5%.",7
+44,Elite Barbarians,25 November 2016,25/11/2016,"15/12/2016|On 15/12/2016, a Balance Update, increased the Elite Barbarians' hit points by 19%, damage by 14% and increased their hit speed to 1.4 seconds (from 1.5 seconds).
+23/01/2017|On 23/1/2017, a Balance Update, decreased the Elite Barbarians' hit points by 4.4%, damage by 4% and decreased their hit speed to 1.5 seconds (from 1.4 seconds).
+19/04/2017|On 19/4/2017, a Balance Update, decreased the Elite Barbarians' hit points by 4%, and delayed their initial attacks by 0.1 seconds.
+03/06/2019|On 3/6/2019, a Balance Update, increased the Elite Barbarians' damage by 18%, but increased their hit speed to 1.7 seconds (from 1.5 seconds).
+01/07/2019|On 1/7/2019, the July 2019 Update, increased the Elite Barbarians' range to 1.2 tiles (from 1 tile), now classified as Melee: Medium.
+02/06/2020|On 2/6/2020, a Balance Update, gave the Elite Barbarians a new 0.1 seconds deploy stagger from each other.
+03/11/2020|On 3/11/2020, a Balance Update, decreased the Elite Barbarians' speed from Very Fast to Fast, decreased their hit speed to 1.5 seconds (from 1.7 seconds), increased their hit points by 14%, and increased their damage by 5.5%. Their first attack speed was also reduced to 0.5 seconds (from 0.7 seconds).
+30/03/2021|On 30/3/21, a Balance Update decreased the hit speed of Elite Barbarians to 1.4 seconds (from 1.5 seconds) and their first attack speed to 0.4 seconds (from 0.5 seconds).
+07/04/2021|On 7/4/21, a maintenance break increased the first attack speed of Elite Barbarians to 0.5 seconds (from 0.4 seconds).
+07/06/2021|On 7/6/21, a Balance Update increased the Elite Barbarians' sight range to 6 tiles (from 5.5 tiles).",10
+45,Hunter,12 December 2017,12/12/2017,"24/01/2018|On 24/1/2018, a Balance Update, decreased the Hunter's range to 4 (from 5), and slightly decreased his bullet spread.
+25/04/2018|On 25/4/2018, the Clan Wars Update, fixed a bug where the Hunter could not hit targets on top of him.
+07/10/2019|On 7/10/2019, a Balance Update, increased the Hunter's damage by 2%.
+30/03/2021|On 30/3/21, a Balance Update decreased the Hunter's first attack speed to 1.1 sec (from 0.7 sec).
+06/09/2021|On 6/9/21, a Balance Update increased the Hunter's first attack speed to 0.9 sec (from 1.1 sec).
+03/02/2022|On 3/2/22, a Balance Update increased the Hunter's first attack speed to 0.8 sec (from 0.9 sec).",6
+46,Executioner,27 January 2017,27/01/2017,"13/02/2017|On 13/2/2017, a Balance Update, decreased the damage of the Executioner by 6%, the range to 4.5 tiles (from 5 tiles), and the axe's radius to 0.9 tiles (from 1 tile). This update also fixed some glitches where the Executioner's axe would hit enemies behind him when it came back, would do damage in front of him when the axe was at its furthest, cause enemy attack animations to reset to 0 when it hit small to medium sized enemies and caused him to sometimes throw his axe out of the Arena and getting stuck.
+13/03/2017|On 13/3/2017, the March 2017 Update, increased the axe's radius to 1 tile (from 0.9 tiles). This update also changed the artwork of the card and fixed all of the bugs of the Executioner mentioned above.
+19/04/2017|On 19/4/2017, a Balance Update, increased the damage of the Executioner by 6%.
+02/09/2019|On 2/9/2019, a Balance Update, reworked the Executioner by increasing his damage by 82% and decreasing his axe return time to 1 second (from 1.5 seconds). However, his range was decreased to be between 3-4.5 tiles (from 4.5-6.5 tiles), and his hitpoints were reduced by 5%.
+05/09/2019|On 5/9/2019, a maintenance break, increased the Executioner's damage by 2% and increased his initiation range to 4 tiles from 3 tiles. His axe still only reaches 4.5 tiles far.
+01/10/2019|On 1/10/2019, a maintenance break, corrected the Executioner's stats.
+04/11/2019|On 4/11/2019, a Balance Update, increased his axe's maximum flying distance to 5 tiles (from 4.5 tiles), increased the axe's hover time by to 1.2 seconds (from 1 second), and decreased his axe's area damage radius to 0.8 tiles (from 1 tile).
+26/11/2019|On 26/11/2019, the End of November 2019 Update, reverted the Executioner's stats to its state in 28/1/2019. More specifically, his hitpoints were increased by 5%, his hit speed was increased to 2.4 seconds (from 2.5 seconds), his sight range was increased to 4.5 tiles (from 4 tiles), his axe's range was increased to 6.5 tiles (from 5 tiles), his axe's radius was increased to 1 tile (from 0.8 tiles), and his damage was decreased by 45%.
+07/06/2021|On 7/6/2021, the 2021 Quarter 2 Update moved the Arena to unlock the Executioner from Spooky Town (Arena 12) to Serenity Peak (Arena 14).
+07/12/2021|On 7/12/21, the 2021 Balance Update increased the hitpoints of the Executioner by 5%.
+02/08/2022|On 2/8/22, a Balance Update increased the Executioner's axe maximum flying distance to 7.5 tiles (from 6.5 tiles).",11
+47,Bandit,24 March 2017,24/03/2017,"12/06/2017|On 12/6/2017, the June 2017 Update, allowed the Bandit to initiate her dash ability quicker.
+13/06/2017|On 13/6/2017, a maintenance break, increased the Bandit's hitpoints by 4%. This was supposed to happen the previous day in the mentioned balance changes, but it did not make it to the game. This got fixed.
+09/10/2017|On 9/10/2017, the Epic Quests Update, fixed a bug where she dashed a shorter distance than she normally should have.
+12/02/2018|On 12/2/2018, a Balance Update, decreased her minimum dash range to 3.5 tiles (from 4 tiles).
+05/09/2018|On 5/9/2018, the September 2018 Update, changed it so that Legendary cards start at level 9 and end at level 13 (from 1 to 5). It also made the Bandit immune to damage while dashing, instead of untargetable.
+01/04/2019|On 1/4/2019, a Balance Update, decreased her hitpoints by 4%.",6
+48,Royal Recruits,7 August 2018,07/08/2018,"27/07/2018|On 27/7/2018, prior to the card's general release, a maintenance break, increased the Royal Recruits' Elixir cost to 8 (from 6).
+03/09/2018|On 3/9/2018, a Balance Update, increased the Royal Recruits damage by 12%, and slightly changed their spawn formation, allowing the Royal Recruits to be split to 2-4 or 4-2.
+03/12/2018|On 3/12/2018, a Balance Update, decreased the Royal Recruit's Elixir cost to 7 (from 8), but also decreased their hit speed to 1.3 seconds (from 1.2 sec).
+02/06/2020|On 2/6/2020, a Balance Update, gave the Royal Recruits a new 0.1 second deploy stagger from each other.
+04/08/2020|On 4/8/2020, a Balance Update, increased the Royal Recruits damage by 8%.",5
+49,Night Witch,31 May 2017,31/05/2017,"12/06/2017|On 12/6/2017, the June 2017 Update, decreased the Night Witch's Bats spawned upon death to 3 (from 4), increased Bat spawn speed to 6 seconds (from 5 seconds), and made her initial Bats spawn slower.
+11/08/2017|On 11/8/2017, a Balance Update, decreased the Night Witch's damage by 9%, her range to 1.65 tiles (from 1.85 tiles), her Bat spawn speed to 7 seconds (from 6 seconds) and the number of Bats spawned upon death to 2 (from 3).
+24/01/2018|On 24/1/2018, a Balance Update, made the Night Witch's initial Bats spawn faster but also decreased her Bats' hit speed to 1.1 seconds (from 1 second).
+01/07/2019|On 1/7/2019, the July 2019 Update, decreased the Night Witch's range to 1.6 tiles (from 1.65 tiles), now classified as Melee: Long.
+07/10/2019|On 7/10/2019, a Balance Update, increased the Night Witch's number of Bats summoned on death to 4 (from 2).
+07/01/2020|On 7/1/2020, a Balance Update, increased the time for the Night Witch's first wave of Bats to spawn to 3.5 seconds (from 1.3 seconds) and made her initial attack slower by 17%.
+04/08/2020|On 4/8/2020, a Balance Update, increased the Bats' hitspeed to 1.3 seconds (from 1.1 seconds).
+09/12/2020|On 9/12/2020, a Balance Update, increased the Bats' first attack speed to 0.6 seconds (from 0.8 seconds).
+06/09/2021|On 6/9/21, a Balance Update increased the speed of her first Bat spawn to 1 second (from 4 seconds), increased her spawn rate to 5 seconds (from 7 seconds), and removed the Night Witch's death spawn.
+07/06/2022|On 7/6/22, a Balance Update increased her hit speed to 1.3 seconds (from 1.5 seconds).",10
+50,Bats,7 July 2017,07/07/2017,"12/06/2017|On 12/6/2017, the June 2017 Update decreased the Bat count to 4 (from 5). The Bats had not been released at the time of the Balance Update.
+11/08/2017|On 11/8/2017, a Balance Update, increased the Bat count to 5 (from 4).
+24/01/2018|On 24/1/2018, a Balance Update, decreased the Bats' hit speed to 1.1 seconds (from 1 second).
+04/03/2019|On 4/3/2019, a Balance Update, gave the Bats a new 0.15 seconds deploy stagger from each other.
+02/06/2020|On 2/6/2020, a Balance Update, decreased the deploy stagger for each Bat to 0.1 seconds (from 0.15 seconds).
+04/08/2020|On 4/8/2020, a Balance Update, increased the Bats' hit speed to 1.3 seconds (from 1.1 seconds).
+09/12/2020|On 9/12/2020, a Balance Update, decreased the Bats' first attack speed to 0.6 seconds (from 0.8 seconds).",7
+51,Royal Ghost,4 January 2018,04/01/2018,"24/01/2018|On 24/1/2018, a Balance Update, decreased the Royal Ghost's damage by 6%, hit speed decreased to 1.8 seconds (from 1.7 seconds), invisibility delay increased to 1.2 seconds (from 0.7 seconds).
+04/06/2018|On 4/6/2018, a Balance Update, delayed the Royal Ghost’s invisibility to 1.6 seconds (from 1.2 seconds).
+05/11/2018|On 5/11/2018, a Balance Update, decreased the Royal Ghost's hitpoints by 9%.
+02/09/2019|On 2/9/2019, a Balance Update, increased the Royal Ghost's splash radius to 1 tile (from 0.8 tiles).
+06/10/2020|On 6/10/2020, a Balance Update, allowed the Royal Ghost to hover, meaning it can cross the river and will collide with air troops instead of ground troops.
+18/11/2020|On 18/11/2020, the Clan Wars Improvement Update, changed the hover mechanic. The Royal Ghost would no longer pass through buildings, push back air troops, or bounce off the river when knocked back.
+07/06/2022|On 7/6/22, a Balance Update delayed the Royal Ghost’s invisibility to 1.8 sec (from 1.6 sec).",7
+52,Ram Rider,25 December 2018,25/12/2018,"28/01/2019|On 28/1/2019, the January 2019 Update, changed the Ram Rider's card description. It used to read “Her bola snares enemy troops while Ram heads for the nearest building! Rams and Hogs don't mingle at parties…”
+01/04/2019|On 1/4/2019, a Balance Update, reduced the Ram Rider's snare movement speed reduction from 100% to 85%.
+03/02/2022|On 3/2/22, a Balance Update made the Ram Rider's snare ability no longer affect the spawn speed of Witch and Night Witch.
+04/04/2022|On 4/4/22, a Balance Update reduced the Ram Rider's snare movement speed reduction from 85% to 70%.
+02/08/2022|On 2/8/22, a Balance Update decreased the distance required for charging to 3 tiles (from 3.5).",5
+53,Zappies,12 December 2017,12/12/2017,"24/01/2018|On 24/1/2018, a Balance Update, gave Zappies the ability to target air troops.
+03/09/2018|On 3/9/2018, a Balance Update, changed the reload mechanics by slowing down their first attack after moving but preventing them from being stun-locked by other Zappies.
+04/02/2020|On 4/2/2020, a Balance Update, increased the Zappies’ damage by 20%, but also decreased their hit speed to 2 sec (from 1.6 sec), increased their initial attack speed to 1 sec (from 1.4 sec) and gave the Zappies a new 0.15 seconds deploy stagger from each other.
+02/06/2020|On 2/6/2020, a Balance Update, decreased the deploy stagger for each Zappy to 0.1 seconds (from 0.15 seconds).
+07/07/2020|On 7/7/2020, a Balance Update, increased the Zappies' damage by 14%, but decreased their hit speed by 5% (from 2 seconds to 2.1 seconds).
+09/09/2020|On 9/9/2020, a Balance Update, decreased the Zappies' first attack speed to 0.9 seconds (from 1.1 seconds).
+30/03/2021|On 30/3/21, a Balance Update increased the Zappies' first attack speed to 1.1 seconds (from 0.9 seconds).",7
+54,Rascals,25 May 2018,25/05/2018,"02/07/2018|On 2/7/2018, a Balance Update, decreased the Rascal Boy's hitpoints by 5.3% and made the Rascal Girls' initial attack slower.
+04/03/2019|On 4/3/2019, a Balance Update, gave the Rascals a new 0.15 seconds deploy stagger from each other.
+11/03/2019|On 11/3/2019, a maintenance break changed the deployment of the Rascals by making the Rascal Boy spawn first instead of the Rascal Girls.
+03/06/2019|On 3/6/2019, a Balance Update, decreased the Rascal Boy’s hit speed by 13% (1.3sec → 1.5sec).
+01/07/2019|On 1/7/2019, the July 2019 Update, decreased the Rascal Boy's range to 0.8 tiles (from 1 tile), now classified as Melee: Short.
+02/06/2020|On 2/6/2020, a Balance Update, decreased the deploy stagger for each Rascal to 0.1 seconds (from 0.15 seconds).
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update decreased the Rascal Girls' first attack speed to 0.8 sec (from 1 sec). It also moved the Arena to unlock the Rascals from Jungle Arena (Arena 9) to Rascal’s Hideout (Arena 13).
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update decreased the Rascal Girls’ hit speed to 1 sec (from 1.1 sec).",8
+55,Cannon Cart,5 August 2017,05/08/2017,"09/10/2017|On 9/10/2017, the Epic Quests Update, increased the Cannon Cart's hitpoints and shield hitpoints by 5%. The same update also fixed a bug where troops would stop targeting the Cannon Cart or get stuck behind a broken Cannon Cart. In addition, it fixed a bug where the Inferno Tower's and Inferno Dragon's damage did not reset after breaking the Cannon Cart's shield. This change was reverted on 11/10/2017, in a maintenance break.
+12/12/2017|On 12/12/2017, the Electrifying Update reverted the Cannon Cart to its state on 9/10/2017. More specifically, the Inferno Tower's and Inferno Dragon's damage would now reset after breaking the Cannon Cart's shield.
+25/04/2018|On 25/4/2018, the Clan Wars Update, changed the death animation of the Cannon Cart. The same update also fixed a bug where the Cannon Cart was not being targeted after losing its shield.
+06/08/2018|On 6/8/2018, a Balance Update, increased the Cannon Cart's cannon phase lifetime to 30 sec (from 20 sec), accelerated the cannon deploy animation and gave it knock-back immunity.
+03/09/2018|On 3/9/2018, a Balance Update, decreased the Cannon Cart's range to 5 tiles (from 5.5 tiles).
+05/11/2018|On 5/11/2018, a Balance Update, decreased the Cannon Cart's hit speed to 1.3 seconds (from 1.2 seconds).
+04/02/2019|On 4/2/2019, a Balance Update, increased the Cannon Cart's hit speed to 1.2 seconds (from 1.3 seconds).
+01/07/2019|On 1/7/2019, the July 2019 Update, increased the Cannon Cart's hitspeed to 1 second (from 1.2 seconds), increased its range to 5.5 tiles (from 5 tiles), and decreased the damage by 17%. It also increased the base hitpoints and shield hitpoints by 1.5%.
+03/03/2020|On 3/3/2020, a Balance Update, increased the Cannon Cart's damage by 5%.
+30/03/2021|On 30/3/21, a Balance Update decreased the Cannon Cart's movement speed to Medium (60) (from Fast (90)).
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update decreased the Cannon Cart's hit speed in its unshielded form to 0.9 sec (from 1 sec). It also moved the Arena to unlock the Cannon Cart from Hog Mountain (Arena 10) to Legendary Arena (Arena 15).
+04/10/2022|On 4/10/22, a Balance Update decreased the Cannon Cart's HP in its unshielded form by 8%.",12
+56,Mega Knight,"September 8th, 2017",08/09/2017,"09/10/2017|On 9/10/2017, the Epic Quests Update, fixed a bug where the Mega Knight would jump even if he was less than 4 tiles away from his target.
+12/02/2018|On 12/2/2018, a Balance Update, decreased both his spawn and jump damage by 25%, and reduced his deployment radius, such that he will no longer be able to hit beyond the river with his spawn damage.
+04/06/2018|On 4/6/2018, a Balance Update, increased both his spawn and jump damage by 23%, but also decreased his area damage by 7.5%.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, decreased his minimum jump range to 3.5 tiles (from 4 tiles).
+05/11/2018|On 5/11/2018, a Balance Update, increased his hitspeed to 1.7 seconds (from 1.8 seconds).
+28/01/2019|On 28/1/2019, the January 2019 Update, moved the Arena to unlock the Mega Knight from Hog Mountain (Arena 10) to Royal Arena (Arena 7).
+01/07/2019|On 1/7/2019, the July 2019 Update, increased the Mega Knight's range to 1.2 tiles (from 1 tile), now classified as Melee: Medium.
+02/04/2022|On 2/4/22, a Balance Update decreased the Mega Knight's spawn damage by 20%.
+02/08/2022|On 2/8/22, a Balance Update increased his jump charge speed from 1.1 seconds to 0.9 seconds.",9
+57,Skeleton Barrel,17 November 2017,17/11/2017,"12/12/2017|On 12/12/2017, the Electrifying Update allowed the Skeleton Barrel to deal Death Damage.
+12/02/2018|On 12/2/2018, a Balance Update, decreased the number of spawned Skeletons to 6 (from 8).
+25/04/2018|On 25/4/2018, the Clan Wars Update, increased the number of spawned Skeletons to 7 (from 6).
+05/11/2018|On 5/11/2018, a Balance Update, increased the Skeleton Barrel's death damage by 62%.
+07/04/2020|On 7/4/2020, a Balance Update, increased the Skeleton Barrel's speed to Fast (90) [from Medium (60)] but decreased its hitpoints by 15%.
+09/12/2020|On 9/12/2020, a Balance Update, decreased the Skeleton Barrel's hitpoints by 19%.",6
+58,Flying Machine,6 October 2017,06/10/2017,"01/04/2019|On 1/4/2019, a Balance Update, reduced the Flying Machine's hit speed to 1.1 seconds (from 1 second).",1
+59,Wall Breakers,26 February 2019,26/02/2019,"04/03/2019|On 4/3/2019, a Balance Update, increased the Wall Breakers' hit speed to 1.2 seconds (from 1.5 seconds).
+06/05/2019|On 6/5/2019, a Balance Update, increased the Wall Breakers' damage by 10%, their range by 100%, and re-centered their splash radius to damage nearby troops when attacking. The damage increase was not stated in the balance update video but is mentioned in the official release notes and on the Clash Royale Twitter page.
+03/06/2019|On 3/6/2019, a Balance Update, changed the sound and visual effects of the Wall Breakers.
+07/10/2019|On 7/10/2019, a Balance Update, lowered the Wall Breaker's Elixir cost to 2 (from 3), their damage was decreased by 10%, and their mass was increased by 100%. The deploy position of the Wall Breakers was also tweaked slightly, putting them a bit closer together.
+04/11/2019|On 4/11/2019, a Balance Update, decreased the Wall Breakers' damage by 19% and decreased their splash radius from 2 tiles to 1.5 tiles. They also now spawn further apart.
+01/06/2020|On 1/6/2020, a Balance Update, gave the Wall Breakers a new 0.1 seconds deploy stagger from each other.",6
+60,Royal Hogs,20 June 2018,20/06/2018,"02/07/2018|On 2/7/2018, a Balance Update, added the Royal Hogs to Clan Wars Collection Day card pool.
+06/08/2018|On 6/8/2018, a Balance Update, made the Royal Hogs' first attack quicker.
+03/09/2018|On 3/9/2018, a Balance Update, decreased the Royal Hogs' hit speed to 1.2 seconds (from 1.1 seconds).
+05/11/2018|On 5/11/2018, a Balance Update, decreased the Royal Hogs' damage by 6%, and reduced their mass by 50%.
+04/11/2019|On 4/11/2019, a Balance Update, moved the Arena to unlock this card from Hog Mountain (Arena 10) to Royal Arena (Arena 7).
+04/02/2020|On 4/2/2020, a Balance Update, increased the Royal Hogs' damage by 6%.
+02/06/2020|On 2/6/2020, a Balance Update, gave the Royal Hogs a new 0.1 seconds deploy stagger from each other.
+06/09/2021|On 6/9/21, a Balance Update, increased the Royal Hogs' damage by 6%.
+03/02/2022|On 3/2/22, a Balance Update, decreased the Royal Hogs' damage by 3%.
+04/10/2022|On 4/10/22, a Balance Update decreased the Royal Hogs' first attack speed to 0.4 seconds (from 0.25 seconds).",10
+61,Goblin Giant,5 September 2018,05/09/2018,"01/10/2018|On 1/10/2018, a Balance Update, increased the Goblin Giant's hitpoints by 6%.
+07/01/2019|On 7/1/2019, a Balance Update, increased the Goblin Giant's hitpoints by 3%, and increased the range of the Spear Goblins in the backpack to 5.5 tiles (from 5 tiles).
+15/04/2019|On 15/4/2019, the April 2019 Update, fixed a bug where the Goblin Giant's Spear Goblins would not despawn correctly if the Goblin Giant scored a Touchdown, causing the Spear Goblins to remain intact and score a consecutive Touchdown immediately upon the beginning of the next round.
+01/07/2019|On 1/7/2019, the July 2019 Update, decreased the Goblin Giant's range to 1.2 tiles (from 1.25 tiles), now classified as Melee: Medium.
+09/12/2020|On 9/12/2020, a Balance Update, increased the Goblin Giant's hit speed to 1.5 seconds (from 1.7 seconds).",5
+62,Fisherman,5 August 2019,05/08/2019,"02/09/2019|On 2/9/2019, a Balance Update, decreased the Fisherman's damage by 11% and his Elixir cost (from 4 to 3 Elixir).
+05/09/2019|On 5/9/2019, a maintenance break, decreased the Fisherman's hitpoints by 5%.
+07/10/2019|On 7/10/2019, a Balance Update, decreased the Fisherman's hitpoints by 5% and his damage by 6%.
+04/11/2019|On 4/11/2019, a Balance Update, decreased the Fisherman's hook range by 1 tile (from 7 tiles to 6 tiles) and increased his hook charge time by 10% (from 1 second to 1.1 seconds).
+07/01/2020|On 7/1/2020, a Balance Update, increased the Fisherman's Hook Range by 1 tile (from 6 to 7 tiles), but increased his hook charge time (from 1.1 seconds to 1.5 seconds).
+07/07/2020|On 7/7/2020, a Balance Update, decreased the Fisherman's hook charge time by 13% (from 1.5 seconds to 1.3 seconds), and increased his hit speed by 13% (from 1.5 seconds to 1.3 seconds).
+09/12/2020|On 9/12/2020, a Balance Update, decreased the Fisherman's hitpoints by 10%.",7
+63,Magic Archer,2 March 2018,02/03/2018,"25/04/2018|On 25/4/2018, the Clan Wars Update, increased the Magic Archer's projectile speed, making him less likely to miss Very Fast moving troops.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, fixed a bug where the Magic Archer would extend his range and accidentally activate the King Tower. It also moved the Arena to unlock the Magic Archer from Electro Valley (Arena 11) to Hog Mountain (Arena 10).
+05/11/2018|On 5/11/2018, a Balance Update, increased the Magic Archer's first attack speed to 0.9 seconds (from 0.4 seconds).
+07/01/2019|On 7/1/2019, a Balance Update, decreased the Magic Archer's first attack speed to 0.6 seconds (from 0.9 seconds).
+05/08/2019|On 5/8/2019, a Balance Update, increased the Magic Archer's damage by 16% but decreased his hit speed to 1.1 seconds (from 1 second).
+07/04/2020|On 7/4/2020, a Balance Update, decreased the Magic Archer's targeting range to 6 tiles (from 7 tiles).
+05/05/2020|On 5/5/2020, a Balance Update, increased the Magic Archer's targeting range to 7 tiles (from 6 tiles), but also decreased his hitpoints by 10%.",7
+64,Electro Dragon,9 November 2018,09/11/2018,"03/12/2018|On 3/12/2018, a Balance Update, decreased the Electro Dragon’s hitpoints by 5% and made its first attack slower.",1
+65,Firecracker,3 February 2020,03/02/2020,"07/07/2020|On 7/7/2020, a Balance Update, decreased the Firecracker's recoil range by 25% (from 2 tiles to 1.5 tiles).",1
+66,Mighty Miner,30 March 2022,30/03/2022,"08/04/2022|On 8/4/22, a maintenance break reduced the Mighty Miner's ability cost to 1 from 2 and gave him immunity to knockback.
+21/04/2022|On 21/4/22, a maintenance break reduced the bomb exploding speed to 1 sec from 3 sec.
+04/10/2022|On 4/10/22, a Balance Update decreased the Mighty Miner's HP by 8%.",3
+67,Elixir Golem,4 November 2019,04/11/2019,"02/12/2019|On 2/12/2019, a Balance Update, normalized the hit speed of all Elixir Golem forms to 1.3 seconds. Being beneficial to the Golem and Golemites, but hurting the blob damage per second significantly.
+07/01/2020|On 7/1/2020, a Balance Update, reduced the hitpoints of all Elixir Golem forms by 6%.
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update moved the Arena to unlock the Elixir Golem from Electro Valley (Arena 11) to Serenity Peak (Arena 14).
+02/08/2022|On 2/8/22, a Balance Update increased the Elixir Golem's hitpoints by 9%, and the Elixir Golemite's hitpoints by 6%. It also increased the Elixir given by the Elixir Golem after being killed to 1 Elixir (from 0), the Elixir given by the Elixir Golemite after being killed to 0.5 Elixir (from 0), and the Elixir given by the Elixir Blob after being killed to 0.5 Elixir (from 1). The card description was also changed. It used to read ""Splits into two Elixir Golemites when destroyed, which split into two sentient Blobs when defeated. A Blob gives your opponent 1 Elixir when destroyed!""
+04/10/2022|On 4/10/22, a Balance Update increased the Elixir Golem's hit speed to 1.1 seconds (from 1.3 seconds). This affects all forms of the troop (Golem, Golemite, Blob).",5
+68,Battle Healer,6 January 2020,06/01/2020,"03/12/2019|On 3/12/2019, a maintenance break, changed the Battle Healer's card info localization. The card description for the Battle Healer was also changed slightly. It used to say, “With each attack, she unleashes a powerful healing aura that restores Hitpoints to friendly Troops. Outside of combat she passively heals herself!”
+05/05/2020|On 5/5/2020, a Balance Update, decreased the Battle Healer's hitpoints by 10%.
+06/10/2020|On 6/10/2020, a Balance Update, allowed the Battle Healer to hover, meaning it can cross the river and will collide with air troops instead of ground troops.
+18/11/2020|On 18/11/2020, the Clan Wars Improvement Update, changed the hover mechanic. The Battle Healer would no longer pass through buildings, push back air troops, or bounce off the river when knocked back.",4
+69,Skeleton King,27 October 2021,27/10/2021,"04/11/2021|On 4/11/21, a maintenance break increased his damage by 14%, area damage radius by 30%, and made him immune to non-Log knockback sources.
+07/06/2022|On 7/6/22, a Balance Update decreased the number of Skeletons which his Soul Summoning ability spawns from 20 to 18.
+02/08/2022|On 2/8/22, a Balance Update decreased the number of Skeletons which his Soul Summoning ability spawns from 18 to 16.",3
+70,Archer Queen,27 October 2021,27/10/2021,"11/04/2021|On 11/04/21, a maintenance break increased the Cloaking Cape's cooldown (from 11 seconds to 15 seconds) and decreased its duration (from 3.5 seconds to 3 seconds).
+03/02/2022|On 3/2/22, a Balance Update decreased the Archer Queen's movement speed to Slow (from Medium) while Cloaking Cape is active.
+04/04/2022|On 4/4/22, the April Update decreased the Archer Queen's hit speed buff while cloaked from 200% to 180%.",3
+71,Golden Knight,27 October 2021,27/10/2021,"03/02/2022|In 3/2/22, a Balance Update decreased the maximum dash range of the Golden Knight's dash to to 5 tiles (from 6 tiles) and increased the cooldown time of Dashing Dash to 11 seconds (from 8 seconds).
+04/04/2022|In 4/4/22, a Balance Update reverted the maximum dash range of the Golden Knight's dash to 6 (from 5 tiles) but made it so that the dash would end if a Crown Tower is hit.
+02/08/2022|On 2/8/22, a Balance Update decreased the Golden Knight's HP by 10%.",3
+72,Skeleton Dragons,6 July 2020,06/07/2020,"07/07/2020|On 7/7/2020, a Balance Update, decreased the Skeleton Dragons' damage by 6%.
+06/10/2020|On 6/10/2020, a Balance Update, decreased the Skeleton Dragons' hit speed by 12% (from 1.7 sec to 1.9 sec).",2
+73,Mother Witch,7 December 2020,07/12/2020,"30/03/2021|On 30/3/21, a Balance Update increased her hit speed to 1.1 sec (from 1.2 sec), increased her first attack speed to 0.4 sec (from 0.5 sec) & increased her damage by 14%.
+06/09/2021|On 6/9/21, a Balance Update decreased the Mother Witch's hitpoints by 4%.
+27/10/2021|On 27/10/21, the 2021 Quarter 3 Update added the level 14 Mother Witch.
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update decreased the hitpoints of the Mother Witch by 18%.
+07/06/2022|On 7/6/22, a Balance Update increased her hit speed to 1 sec (from 1.1 sec).",5
+74,Electro Spirit,2 November 2020,02/11/2020,,0
+75,Electro Giant,2 November 2020,02/11/2020,"14/10/2020|On 14/10/2020, a maintenance break, increased the Electro Giant's hitpoints by 12.5%.
+18/11/2020|On 18/11/2020, the Clan Wars Improvement Update, made the Electro Giant's reflected damage scale with its level. Additionally, certain interactions with the reflected damage were changed. For example, each of the Hunter's pellets no longer count as individual attacks versus the Electro Giant. Previously, if the Hunter hit the Electro Giant from a point-blank range, the Hunter would take reflected damage 10 times and die instantly.
+19/11/2020|On 19/11/2020, a maintenance break, fixed a bug where using Lightning on an Electro Giant would cause the game to crash.
+06/09/2021|On 6/9/21, a Balance Update decreased the Electro Giant's hitpoints by 4%.
+04/04/2022|On 4/4/22, the 2022 Quarter 1 Update decreased the Electro Giant elixir cost to 7 (from 8), but also decreased his hitpoints and damage by 15%.
+07/06/2022|On 7/6/22, a Balance Update increased the Electro Giant's hitpoints by 9%.
+02/08/2022|On 2/8/22, a Balance Update decreased the Electro Giant's reflected tower damage by 33%.",7
+76,Cannon,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, decreased the Cannon's Elixir cost to 3 (from 6), its range to 6 tiles (from 7 tiles), its lifetime to 40 seconds (from 60 seconds), and decreased its hitpoints by 55%.
+23/03/2016|On 23/3/2016, a Balance Update, decreased the Cannon's lifetime to 30 seconds (from 40 seconds).
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Common card level cap to 13 (from 12). The update also fixed the “range bug”, which decreased the Cannon's range to 5.5 tiles (from 6 tiles) but its effective range was unchanged. The Cannon's hitpoints were also decreased by 11%.
+18/05/2016|On 18/5/2016, a Balance Update, decreased the Cannon's hitpoints by 5%.
+21/06/2016|On 21/6/2016, a Balance Update, decreased the Cannon's hitpoints by 8%.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, fixed a bug where the Cannon would occasionally stop shooting at the edge of its range.
+01/07/2019|On 1/7/2019, the July 2019 Update, increased the Cannon's damage by 32% but decreased its hit speed to 1 second (from 0.8 seconds). There was also an unannounced change to Cannon's first hit speed, an increase to 1 second (from 0.7 seconds).
+03/03/2020|On 3/3/2020, a Balance Update, increased the Cannon's damage by 5%.
+07/06/2021|On 7/6/21, a Balance Update increased the Cannon's hit speed to 0.9 seconds (from 1 second).
+04/10/2022|On 4/10/22, a Balance Update decreased the Cannon's HP by 8%.",10
+77,Goblin Hut,4 January 2016,04/01/2016,"29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Spear Goblins.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Rare card level cap to 11 (from 10). The update also fixed the ""range bug"", which decreased the Spear Goblins' range to 5 tiles (from 5.5 tiles) but their effective range is unchanged.
+19/04/2017|On 19/4/2017, a Balance Update, increased the Goblin Hut's hitpoints by 5%.
+09/10/2017|On 9/10/2017, the Epic Quests Update, increased the Spear Goblins' hit speed to 1.1 seconds (from 1.3 seconds).
+24/01/2018|On 24/1/2018, a Balance Update, decreased the spawn speed to 5 seconds (from 4.9 seconds). This change makes the Goblin Hut spawn 1 fewer Spear Goblin.
+25/04/2018|On 25/4/2018, the Clan Wars Update, decreased the Spear Goblins’ hit speed to 1.2 seconds (from 1.1 seconds).
+04/06/2018|On 4/6/2018, a Balance Update, increased the Spear Goblins’ damage by 34%, but also decreased their hit speed to 1.7 seconds (from 1.2 seconds), make their first attack slower and decreased the Goblin Hut’s lifetime to 50 sec (from 60 sec).
+01/10/2018|On 1/10/2018, a Balance Update, increased the Goblin Hut's spawn speed to 4.75 seconds (from 5 seconds). This change made the Goblin Hut spawn 1 more Spear Goblin.
+01/04/2019|On 1/4/2019, a Balance Update, increased the Goblin Hut's spawn speed to 4.5 seconds (from 4.75 seconds).
+15/04/2019|On 15/4/2019, the April 2019 Update, changed the Goblin Hut's card image and also added an extra Star Level. The card's description flavour text was also changed slightly. It used to read “Building that spawns Spear Goblins. But don't look inside. You don't want to see how they are made.”
+07/04/2020|On 7/4/2020, a Balance Update, decreased the Goblin Hut's lifetime to 40 seconds (from 50 seconds) but also made the building spawn three Spear Goblins upon destruction.
+05/05/2020|On 5/5/2020, a Balance Update, decreased the Goblin Hut's hitpoints by 35%.
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update decreased the Goblin Hut's hitpoints by 17%, its lifetime to 31 seconds (from 40 seconds) and its spawn speed interval to 4 seconds (from 4.5 seconds).",13
+78,Mortar,4 January 2016,04/01/2016,"11/01/2016|On 11/1/2016, the First Update, decreased the Mortar's lifetime to 40 seconds (from 60 seconds).
+02/02/2016|On 2/2/2016, the February 2016 Update, decreased the Mortar's cost to 4 Elixir (from 6 Elixir), its damage by 40%, its lifetime to 20 seconds (from 40 seconds), and its maximum range decreased to 12 tiles (from 13 tiles).
+09/02/2016|On 9/2/2016, the Chest Rewards & Card Balance Update, increased the Mortar's lifetime to 30 seconds (from 20 seconds).
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Common card level cap to 13 (from 12), increased the Mortar's deployment time to 5 seconds (from 3 seconds) and decreased its damage by 10%. This update also fixed the “range bug” and decreased the Mortar's range to 4.5-11 tiles (from 5-12 tiles) but its effective range is unchanged.
+21/06/2016|On 21/6/2016, a Balance Update, decreased the Mortar's deployment time to 4 seconds (from 5 seconds).
+15/12/2016|On 15/12/2016, the December 2016 Update, increased the Mortar's Area Damage radius to 2 tiles (from 1.8 tiles).
+11/08/2017|On 11/8/2017, a Balance Update, decreased the Mortar's deployment time to 3.5 seconds (from 4 seconds).
+12/12/2017|On 12/12/2017, the Electrifying Update, fixed a bug where the Mortar would not shoot troops close to its blind spot.
+24/01/2018|On 24/1/2018, a Balance Update, decreased the minimum range to 3.5 tiles (from 4.5 tiles).
+25/04/2018|On 25/4/2018, the Clan Wars Update, changed the Mortar's card description. It used to read “Defensive building with a long range. Shoots exploding boulders that deal area damage. Cannot shoot at targets that get very close!”
+20/06/2018|On 20/6/2018, the Summer 2018 Update, fixed a bug where the Mortar would occasionally stop shooting at the edge of its range.
+02/07/2018|On 2/7/2018, a Balance Update, decreased the Mortar's area damage by 3.5% and its hitpoints by 4%.
+04/10/2022|On 4/10/22, a Balance Update decreased the Mortar's HP by 7%.",13
+79,Inferno Tower,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, decreased the Inferno Tower's lifetime to 45 seconds (from 60 seconds) and reduced its retargeting speed by 50%.
+19/02/2016|On 19/2/2016, a Balance Update decreased the Inferno Tower's hitpoints by 6% and lifetime to 40 seconds (from 45 seconds).
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Rare card level cap to 11 (from 10). The update also fixed the “range bug”, which decreased the Inferno Tower's range to 6 tiles (from 6.5 tiles) but its effective range is unchanged.
+04/07/2016|On 4/7/2016, the Tournaments Update, increased the Inferno Tower's hitpoints by 6%. It also gave Zap and Freeze the ability to reset the damage output.
+01/11/2016|On 1/11/2016, the November 2016 Update, decreased the Inferno Tower's hitpoints by 6%.
+09/10/2017|On 9/10/2017, the Epic Quests Update, fixed a bug where the Inferno Tower's damage did not reset after breaking a shield. This change was reverted on 11/10/2017, in a maintenance break.
+12/12/2017|On 12/12/2017, the Electrifying Update, reverted the Inferno Tower to its state on 9/10/2017. More specifically, the Inferno Tower's damage would now reset after breaking a shield.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, fixed a bug where the Inferno Tower would occasionally stop shooting at the edge of its range.
+05/11/2018|On 5/11/2018, a Balance Update, increased the Inferno Tower's hitpoints by 3%.
+01/07/2019|On 1/7/2019, the July 2019 Update, decreased the Inferno Tower's lifetime to 30 seconds (from 40 seconds).
+03/02/2022|On 3/2/2022, a Balance Update increased the Inferno Tower's first hit speed by 25%",11
+80,Bomb Tower,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, increased the Bomb Tower's hit speed to 1.7 seconds (from 1.8 seconds).
+09/02/2016|On 9/2/2016, the Chest Rewards & Card Balance Update, increased the Bomb Tower's hit speed to 1.6 seconds (from 1.7 seconds).
+29/02/2016|On 29/2/2016, the March 2016 Update, changed the Bomb Tower so that it would no longer stop its attack if its target dies during the attack animation.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Rare card level cap to 11 (from 10), and decreased the Bomb Tower's lifetime to 40 sec (from 60 sec). This update also fixed the ""range bug"" and decreased the Bomb Tower's range to 6 (from 6.5) but its effective range was unchanged.
+04/07/2016|On 4/7/2016, the Tournaments Update, increased the Bomb Tower's hitpoints by 6%.
+13/03/2017|On 13/3/2017, the March 2017 Update, increased the Bomb Tower's projectile speed by 66%.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, moved the Arena to unlock the Bomb Tower from Bone Pit (Arena 2) to Hog Mountain (Arena 10). It also fixed a bug where the Bomb Tower would occasionally stop shooting at the edge of its range.
+06/08/2018|On 6/8/2018, a Balance Update, decreased the Bomb Tower's Elixir cost to 4 (from 5), but also decreased its lifetime to 35 sec (from 40 sec) and its hitpoints by 33%.
+01/10/2018|On 1/10/2018, a Balance Update, increased the Bomb Tower's damage by 5%.
+04/03/2019|On 4/3/2019, a Balance Update, added death damage to the Bomb Tower (does 2x normal damage).
+01/06/2020|On 1/6/2020, a Balance Update, reduced the Bomb Tower's lifetime to 25 seconds (from 35 seconds).
+30/03/2021|On 30/3/21, a Balance Update decreased the Bomb Tower's death damage by 50%.
+06/09/2021|On 6/9/21, a Balance Update increased the Bomb Tower's lifetime from 25 seconds to 30 seconds.",13
+81,Barbarian Hut,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, increased the Barbarian Hut's hitpoints by 10%. However, the same update also decreased the spawned Barbarians' hitpoints by 4%.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Barbarians.
+04/06/2018|On 4/6/2018, a Balance Update, increased the Barbarians‘ hit speed to 1.4 seconds (from 1.5 seconds).
+07/01/2019|On 7/1/2019, a Balance Update, decreased the Barbarian Hut's hitpoints by 7%.
+04/03/2019|On 4/3/2019, a Balance Update, decreased the Barbarians' hitpoints by 13%.
+04/02/2020|On 4/2/2020, a Balance Update, decreased the Barbarian Hut’s lifetime to 50 seconds (from 60 seconds), but also increased spawn speed to 12.5 seconds (from 14 seconds), and made this building spawn two Barbarians upon destruction. A small change was also made to the card's description.
+05/05/2020|On 5/5/2020, a Balance Update, decreased the Barbarian Hut's hitpoints by 19.5%.
+09/12/2020|On 9/12/2020, a Balance Update, decreased the Barbarian Hut's hitpoints by 21%.
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update reduced the hitpoints of the Barbarian Hut by 15%, it's lifetime to 40 seconds (from 50 seconds) and it's spawn speed interval to 10 seconds (from 12.5 seconds).
+07/06/2022|On 7/6/22, a Balance Update increased the Barbarian‘s hit speed to 1.3 seconds (from 1.4 seconds).
+04/10/2022|On 4/10/22, a Balance Update decreased the Barbarian Hut's Elixir cost to 6 (from 7), and its spawn speed to 15 seconds (from 11 seconds). It also made it so 3 Barbarians will spawn (from 2), decreased its lifetime to 30 seconds (from 40 seconds), and decreased its death spawn Barbarians to 1 (from 2).",11
+82,Tesla,4 January 2016,04/01/2016,"09/02/2016|On 9/2/2016, the Chest Rewards & Card Balance Update, increased the Tesla's damage by 7%.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the Tesla's hitpoints by 5%.
+23/03/2016|On 23/3/2016, a Balance Update, decreased the Tesla's hit speed to 0.8 seconds (from 0.7 seconds) and its lifetime to 40 seconds (from 60 seconds).
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Common card level cap to 13 (from 12) and fixed the ""range bug"" and decreased the Tesla's range to 5.5 (from 6) but its effective range is unchanged.
+18/05/2016|On 18/5/2016, a Balance Update, increased the Tesla's hitpoints by 5%.
+21/06/2016|On 21/6/2016, a Balance Update, increased the Tesla's hitpoints by 8%.
+09/10/2017|On 9/10/2017, the Epic Quests Update, increased the Tesla's damage by 41% but decreased its hit speed to 1 second (from 0.8 seconds).
+20/06/2018|On 20/6/2018, the Summer 2018 Update, moved the Arena to unlock the Tesla from P.E.K.K.A.'s Playhouse (Arena 4) to Electro Valley (Arena 11). It also fixed a bug where the Tesla would occasionally stop shooting at the edge of its range.
+06/08/2018|On 6/8/2018, a Balance Update, decreased the Tesla's lifetime to 35 seconds (from 40 seconds) and increased its hit speed to 1.1 seconds (from 1 second).
+03/12/2018|On 3/12/2018, a Balance Update, made the Tesla’s first attack faster.
+03/03/2020|On 3/3/2020, a Balance Update, allowed the Earthquake to affect the Tesla even if it is hidden.
+06/09/2021|On 6/9/21, a Balance Update decreased the Tesla's lifetime to 30 seconds (from 35 seconds).
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update increased the Tesla's hit speed interval to 1.2 seconds (from 1.1 seconds).",13
+83,Elixir Collector,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, increased the Elixir Collector's production speed to 9.8 sec (from 9.9 sec). This was because of a bug where it would produce 6 Elixir instead of 7.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Rare card level cap to 11 (from 10) and decreased the Elixir Collector's hitpoints by 20%.
+18/05/2016|On 18/5/2016, a Balance Update, decreased the Elixir Collector's hitpoints by 9%.
+04/07/2016|On 4/7/2016, the Tournaments Update, made the Elixir Collector's production rate affected by spell effects (Freeze, Zap, and Rage), plus the Ice Wizard's slowing.
+20/10/2016|On 20/10/2016, a Balance Update, increased the Elixir Collector's Elixir cost to 6 (from 5) and increased its lifetime by 10 seconds. This increased lifetime allows it to produce up to 8 Elixir.
+30/11/2016|On 30/11/2016, a Balance Update, increased the Elixir Collector's production speed to 8.5 seconds (from 9.8 seconds) and decreased its lifetime to 70 seconds (from 80 seconds).
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Elixir Collector‘s hitpoints by 13%.
+05/12/2018|On 5/12/2018, the December 2018 Update, changed the Elixir Collector such that, if used in a deck, will never appear as one of the cards in the player's opening hand. Its description was also changed. Previously, its description was ""You gotta spend Elixir to make Elixir!"".
+04/04/2022|On 4/4/22, the 2022 Quarter 1 Update added a 1 Elixir death spawn to the Elixir Collector, decreased its lifetime to 65 sec (from 70 sec) and decreased its production speed to 9 sec (from 8.5 sec).",9
+84,X-Bow,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, decreased the X-Bow's hitpoints by 15% and removed its ability to target air troops.
+09/02/2016|On 9/2/2016, the Chest Rewards & Card Balance Update, increased the X-Bow's deployment time to 5 seconds (from 3 seconds).
+23/03/2016|On 23/3/2016, a Balance Update, decreased the X-Bow's range to 12 tiles (from 13 tiles).
+03/05/2016|On 3/5/2016, the May 2016 Update, fixed the ""range bug"" and decreased the X-Bow's range to 11.5 tiles (from 12 tiles) but its effective range is unchanged.
+21/06/2016|On 21/6/2016, a Balance Update, decreased the X-Bow's deploy time to 4 seconds (from 5 seconds) and increased its hitpoints by 18%.
+16/03/2017|On 16/3/2017, a maintenance break, fixed some unexpected behaviour that the X-Bow showed.
+11/08/2017|On 11/8/2017, a Balance Update, decreased the X-Bow's deploy time to 3.5 seconds (from 4 seconds).
+20/06/2018|On 20/6/2018, the Summer 2018 Update, moved the Arena to unlock the X-Bow from Barbarian Bowl (Arena 3) to Builder's Workshop (Arena 6). It also fixed a bug where the X-Bow would occasionally stop shooting at the edge of its range.
+04/03/2019|On 4/3/2019, a Balance Update, increased the X-Bow's hitpoints by 4%.
+09/12/2020|On 9/12/2020, a Balance Update, increased damage by 30%, reduced its hitpoints by 4%, increased its hit speed to 0.3 sec (from 0.25 sec) and its lifetime to 30 seconds (from 40 seconds).",10
+85,Tombstone,4 January 2016,04/01/2016,"09/02/2016|On 9/2/2016, the Chest Rewards & Card Balance Update, decreased the number of spawned Skeletons when destroyed to 4 (from 6).
+19/02/2016|On 19/2/2016, a Balance Update, decreased its lifetime to 40 seconds (from 60 seconds).
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Skeletons.
+18/05/2016|On 18/5/2016, a Balance Update, increased the Skeletons' hitpoints and damage by 5%. In addition, the hitpoints of the Tombstone were increased by 10%.
+04/07/2016|On 4/7/2016, the Tournaments Update, increased the Tombstone's hitpoints by 9%.
+24/08/2016|On 24/8/2016, a Balance Update, increased the Tombstone's spawn speed to 2.5 seconds (from 2.9 seconds). Between this change and the next, it spawned 16 Skeletons instead of 14.
+30/11/2016|On 30/11/2016, a Balance Update, decreased the Tombstone's spawn speed back to 2.9 seconds.
+05/11/2018|On 5/11/2018, a Balance Update, decreased the Tombstone's spawn speed to 3.1 seconds, and reduced the Skeletons spawned upon death to 3 (from 4). The card's flavor text was likewise updated.
+03/11/2020|On 3/11/2020, a Balance Update, increased the Tombstone's hitpoints by 4%.
+06/09/2021|On 6/9/21, a Balance Update increased the Tombstone's death spawn to 4 (from 3). Its description also changed slightly to account for the death spawn change.
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update decreased the lifetime of the Tombstone to 30 seconds (from 40 seconds), increase its spawn speed interval to 3.8 seconds (from 3.1 seconds) and increase the amount of Skeletons it spawns per wave to 2 (from 1).
+04/04/2022|On 4/4/22, the 2022 Quarter 1 Update increase its spawn speed interval to 4 seconds (from 3.8 seconds).",12
+86,Furnace,3 May 2016,03/05/2016,"18/05/2016|On 18/5/2016, a Balance Update, decreased the Furnace's Elixir cost to 4 (from 5), its hitpoints by 14%, and its lifetime to 40 seconds (from 50 seconds). In addition, the Fire Spirit's area damage radius was increased by 25%.
+21/06/2016|On 21/6/2016, a Balance Update, increased the Furnace's lifetime to 50 sec (from 40 sec).
+19/04/2017|On 19/4/2017, a Balance Update, decreased the Furnace's hitpoints by 5%.
+02/07/2018|On 2/7/2018, a Balance Update, increased the Fire Spirits' area damage by 5%.
+05/05/2020|On 5/5/2020, a Balance Update, decreased the Furnace's hitpoints by 16%.
+09/09/2020|On 9/9/2020, a Balance Update, increased the Fire Spirits' area damage radius to 1.7 tiles (from 1.5 tiles).
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update decreased the time between waves to 7 seconds (from 9 seconds), number of Fire Spirits spawned each wave to 1 (from 2), and decreased its lifetime to 49 seconds (from 50 seconds). Its description was updated to reflect the number for Fire Spirits spawned per wave (previously saying, ""The“Furnace spawns two Fire Spirits at a time. It also makes great brick-oven pancakes.""). In addition, the Fire Spirits' hitpoints were increased by 109%, their damage by 6%, their range to 2.5 tiles (from 2 tiles), and their area damage radius to 2.5 tiles (from 1.7 tiles). It also moved the Arena to unlock the Furnace from Spell Valley (Arena 5) to Hog Mountain (Arena 10).
+06/09/2021|On 6/9/21, a Balance Update decreased the Fire Spirits' area damage radius to 2.3 tiles (from 2.5 tiles).
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update reduced the hitpoints of the Furnace by 17%, its lifetime to 33 seconds (from 49 seconds), and its spawn speed interval to 6 seconds (from 7 seconds) while adding a death spawn of one Fire Spirit. It also decreased the range of the Fire Spirits to 2 tiles (from 2.5 tiles).
+02/08/2022|On 2/8/22, a Balance Update decreased the Fire Spirit's area damage by 9%.",10
+87,Goblin Cage,17 May 2019,17/05/2019,"01/07/2019|On 1/7/2019, the July 2019 Update, increased the Goblin Cage's lifetime to 20 sec (from 15 sec), and also increased the damage of the Goblin Brawler by 25%. His description was also updated; previously saying ""When the Goblin Cage is destroyed, a Goblin Brawler is unleashed into the Arena! Goblin Brawler never skips leg day."" It also added the Goblin Cage as a Trophy Road reward.
+02/09/2019|On 2/9/2019, a Balance Update, decreased the Goblin Brawler's movement speed to Fast (from Very Fast).
+05/05/2020|On 5/5/2020, a Balance Update, increased the Goblin Brawler's damage by 6%.
+07/12/2021|On 7/12/21, the 2021 Quarter 4 Update, decreased the hitpoints of the Goblin Cage's cage by 23%.",4
+88,Goblin Drill,11 July 2021,11/07/2021,"17/06/2021|On 17/6/21, prior to the card's general release, a maintenance break added a 1 second delay before the first Goblin spawn, adjusted the formation of the Goblins which spawned upon the Drill's destruction (now spawning more closely together in the center of the Drill), and reduced the push effect of the Drill's burrowing effect on ground troops.
+06/09/2021|On 6/9/21, a Balance Update decreased the count of the Goblin Drill's death spawn to 2 (from 3).
+27/10/2021|On 27/10/21, the 2021 Quarter 3 Update changed the Goblin Drill's trail to make it more distinct from the Miner's.
+07/06/2022|On 7/6/22, a Balance Update decreased the Goblin Drill‘s burrowing speed by 25%.",4
+89,Fireball,4 January 2016,04/01/2016,"19/02/2016|On 19/2/2016, a Balance Update, decreased the Fireball’s Crown Tower damage from 50% to 40% of the full damage.
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Fireball’s Crown Tower damage from 40% to 35% of the full damage.
+25/04/2018|On 25/4/2018, the Clan Wars Update, allowed the Fireball to be placed on the river.
+01/10/2018|On 1/10/2018, a Balance Update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+04/08/2020|On 4/8/2020, a Balance Update, decreased the Fireball’s Crown Tower damage from 35% to 30% of the full damage.
+02/08/2022|On 2/8/22, a Balance Update decreased the Fireball's pushback distance to 1 tile (from 1.8 tiles).",6
+90,Arrows,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, decreased the Arrows' damage by 4%.
+19/02/2016|On 19/2/2016, a Balance Update, decreased the Arrows’ Crown Tower damage from 50% to 40% of the full damage.
+13/03/2017|On 13/3/2017, the March 2017 Update, increased the travel speed of the Arrows by 33%.
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Arrows’ Crown Tower damage from 40% to 35% of the full damage.
+25/04/2018|On 25/4/2018, the Clan Wars Update, allowed the Arrows to be placed on the river.
+01/10/2018|On 1/10/2018, a Balance Update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+03/06/2019|On 3/6/2019, a Balance Update, increased the travel speed of the Arrows by 37%.
+26/11/2019|On 26/11/2019, the End of November 2019 Update, increased the Arrows' damage by 23%, and made them shoot three volleys of arrows instead of one, with the total damage split evenly between each volley.
+04/08/2020|On 4/8/2020, a Balance Update, decreased the Arrows' Crown Tower damage from 35% to 30% of the full damage.",9
+91,Rage,4 January 2016,04/01/2016,"29/02/2016|On 29/2/2016, the March 2016 Update, added a falloff effect to Rage, causing troops to lose the bonus if they are out of its effect for 2 seconds, whereas previously troops kept the effect permanently.
+23/03/2016|On 23/3/2016, a Balance Update, increased the Rage's movement and attack speed boost to 40% (from 35%) and decreased its duration by 20%.
+04/07/2016|On 4/7/2016, the Tournaments Update, allowed the Elixir Collector to be affected by Rage.
+19/09/2016|On 19/9/2016, the September 2016 Update, decreased the Rage's Elixir cost to 2 (from 3), its attack speed boost to 30% (from 40%) and its duration by 2 sec.
+01/11/2016|On 1/11/2016, the November 2016 Update, increased the Rage's attack speed boost to 35% (from 30%).
+25/04/2018|On 25/4/2018, the Clan Wars Update, allowed the Rage to be directly placed on the river.
+01/07/2019|On 1/7/2019, the July 2019 Update, removed the Rage from all Draft selections.",7
+92,Rocket,4 January 2016,04/01/2016,"19/02/2016|On 19/2/2016, a Balance Update, decreased the Rocket's Crown Tower damage from 50% to 40% of the full damage.
+12/12/2017|On 12/12/2017, a Balance Update, decreased the Rocket’s Crown Tower damage from 40% to 35% of the full damage.
+25/04/2018|On 25/4/2018, the Clan Wars Update, allowed the Rocket to be placed on the river.
+01/10/2018|On 1/10/2018, a Balance Update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+04/08/2020|On 4/8/2020, a Balance Update, decreased the Rocket’s Crown Tower damage from 35% to 30% of the full damage.",5
+93,Goblin Barrel,4 January 2016,04/01/2016,"11/01/2016|On 11/1/2016, the First Update, decreased the spawned Goblins level by 1. Prior to the balance, a max level Goblin Barrel could spawn level 14 Goblins, which was 2 levels higher than the max level at the time.
+19/02/2016|On 19/2/2016, a Balance Update, decreased the Goblin Barrel's Crown Tower damage from 50% to 40% of the full damage.
+29/02/2016|On 29/2/2016, the March 2016 Update, decreased the sight range of the Goblins.
+21/06/2016|On 21/6/2016, a Balance Update, decreased the Goblin spawn time to 1 second (from 1.2 seconds).
+04/07/2016|On 4/7/2016, the Tournaments Update, decreased the Goblin Barrel's Elixir cost to 3 (from 4), increased its Goblin spawn time to 1.2 seconds (from 1 second) and removed its impact damage.
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Goblins’ damage by 6%.
+02/07/2018|On 2/7/2018, a Balance Update, decreased the Goblins' hitpoints by 1%. This was to fix an inconsistency with Minions that could not take out Goblins in two hits at the same level.
+06/05/2019|On 6/5/2019, a Balance Update, decreased the deploy time of the Goblins released from the Goblin Barrel to 1.1 seconds (from 1.2 seconds).
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update moved the Arena to unlock the Goblin Barrel from Goblin Stadium (Arena 1) to Barbarian Bowl (Arena 3). It also added a card render to the Goblin Barrel's card info screen.",9
+94,Freeze,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update decreased the Freeze's radius to 3 (from 4) and the duration would increase 0.3 seconds per level (from 0.4 seconds).
+18/05/2016|On 18/5/2016, a Balance Update, decreased the Freeze's duration by 1 second.
+04/07/2016|On 4/7/2016, the Tournaments Update, allowed it to stop the Elixir Collector's Elixir generation and reset the Inferno Tower's damage output.
+25/04/2018|On 25/4/2018, the Clan Wars Update, allowed the Freeze to be placed on the river.
+05/12/2018|On 5/12/2018, the December 2018 Update, set the Freeze's duration to 5 seconds for every level and made the spell deal area damage.
+07/01/2019|On 7/1/2019, a Balance Update, reduced the Freeze's Crown Tower damage by 65%, to be consistent with all other damaging spells.
+04/02/2019|On 4/2/2019, a Balance Update, decreased the Freeze's duration to 4 seconds (from 5) and decreased its damage by 6%.
+04/08/2020|On 4/8/2020, a Balance Update, decreased the Freeze's Crown Tower damage from 35% to 30% of the full damage.",8
+95,Mirror,4 January 2016,04/01/2016,"02/02/2016|On 2/2/2016, the February 2016 Update, increased the level of Mirrored Common cards by 4 and Mirrored Rare cards by 2.
+29/02/2016|On 29/2/2016, the March 2016 Update, changed the Mirror's artwork. It was also fixed to correctly cost your previous card +1 Elixir.
+23/03/2016|On 23/3/2016, a Balance Update, decreased the Mirrored Legendary cards level by 1.
+03/05/2016|On 3/5/2016, the May 2016 Update, increased the Mirrored Common and Rare cards level by 1. It also changed the Mirror by making it count as a 1.5 Elixir card when calculating the Average Elixir Cost of a deck. Before the update, it was simply ignored in calculating the average cost as if the deck had only 7 cards.
+19/09/2016|On 19/9/2016, the September 2016 Update, increased all Mirrored cards' level by 1. This allows players with Level 8 Mirror to deploy Level 14 cards, which would be unobtainable otherwise.
+02/11/2016|On 2/11/2016, a maintenance break, decreased the Level 8 Mirror's Mirrored card's level by 1. This was to fix a bug where cards above the max level did not appear.
+15/12/2016|On 15/12/2016, the December 2016 Update, increased the Level 8 Mirror's Mirrored card's level by 1; the bug above was finally fixed.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, changed the Mirror such that, if used in a deck, will never appear as one of the cards in the player's opening hand. It also moved the Arena to unlock this card from Spell Valley (Arena 5) to Electro Valley (Arena 11).
+27/06/2018|On 27/6/2018, an Optional Update, changed the Mirror such that it will never appear as one of the cards in the player's opening hand during Draft battles.
+13/02/2019|On 13/2/2019, an Optional Update, made it so that mirroring Three Musketeers would no longer display the cost of 11 Elixir.
+01/07/2019|On 1/7/2019, the July 2019 Update, removed the Mirror from all Draft selections.
+04/04/2022|On 4/4/22, the 2022 Quarter 1 Update changed the level of the mirrored card to +2, allowing it to spawn Level 16 cards at max level.",12
+96,Lightning,4 January 2016,04/01/2016,"19/02/2016|On 19/2/2016, the Balance Update, decreased the Lightning's Crown Tower damage from 50% to 40% of the full damage.
+19/09/2016|On 19/9/2016, the September 2016 Update, gave the Lightning the ability to stun targets for 0.5 seconds.
+09/10/2017|On 9/10/2017, the Epic Quests Update, reduced Lightning's damage by 3%, and its radius to 3 tiles (from 3.5 tiles).
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Lightning’s Crown Tower damage from 40% to 35% of the full damage.
+25/04/2018|On 25/4/2018, the Clan Wars Update, increased the Lightning’s radius to 3.5 tiles (from 3 tiles). It also allowed the Lightning to be placed on the river.
+03/09/2018|On 3/9/2018, a Balance Update, increased the Lightning's damage by 5%.
+01/10/2018|On 1/10/2018, a Balance Update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+04/08/2020|On 4/8/2020, a Balance Update, decreased the Lightning's Crown Tower damage from 35% to 30% of the full damage.
+19/11/2020|On 19/11/2020, a maintenance break, fixed a bug where using Lightning on an Electro Giant would cause the game to crash.
+30/03/2022|On 30/3/22, the Miner Update gave the Lightning a visual effect that shows even if it does not damage anything.",10
+97,Zap,4 January 2016,04/01/2016,"09/02/2016|On 9/2/2016, the Chest Rewards & Card Balance Update, increased the Zap's damage by 6%.
+19/02/2016|On 19/2/2016, a Balance Update, decreased the Zap’s Crown Tower damage from 50% to 40% of the full damage.
+29/02/2016|On 29/2/2016, the March 2016 Update, added a stun effect to affected targets in the Zap's AoE (Area of Effect) for 1 second and decreased its damage by 6%. The update also changed the description from ""Lightning zaps enemies, dealing damage inside a small radius. Reduced damage to Crown Towers."" to the current description.
+04/07/2016|On 4/7/2016, the Tournaments Update, allowed it to stop the Elixir Collector's Elixir generation and reset the Inferno Tower's damage output.
+24/08/2016|On 24/8/2016, a Balance Update, decreased the Zap's stun from 1 second to 0.5 seconds.
+23/01/2017|On 23/1/2017, a Balance Update, decreased the Zap’s damage by 6%.
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Zap’s Crown Tower damage from 40% to 35% of the full damage.
+25/04/2018|On 25/4/2018, the Clan Wars Update, allowed the Zap to be placed on the river.
+01/10/2018|On 1/10/2018, a Balance Update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+04/08/2020|On 4/8/2020, a Balance Update, decreased the Zap's Crown Tower damage from 35% to 30% of the full damage.",10
+98,Poison,29 February 2016,29/02/2016,"23/03/2016|On 23/3/2016, a Balance Update, increased the Poison's damage by 5%.
+04/07/2016|On 4/7/2016, the Tournaments Update, allowed the Elixir Collector to be affected by the Poison's slowing.
+20/10/2016|On 20/10/2016, a Balance Update, removed the slowing capabilities of the Poison. This also changed the description. It was used to say: ""Covers the target area in a sticky toxin, damaging and slowing down enemy troops and buildings. Yet somehow leaves the grass green and healthy. Go figure!""
+30/11/2016|On 30/11/2016, a Balance Update, increased its damage by 10%.
+13/02/2017|On 13/2/2017, a Balance Update, decreased its duration to 8 seconds (from 10 seconds), but increased its damage per second by 24%.
+12/06/2017|On 12/6/2017, the June 2017 Update allowed multiple Poison spells to stack.
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased the Poison’s Crown Tower damage to 35% of the total damage (from 40%).
+25/04/2018|On 25/4/2018, the Clan Wars Update, allowed the Poison to be placed on the river.
+01/10/2018|On 1/10/2018, a Balance Update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+04/08/2020|On 4/8/2020, a Balance Update, decreased the Poison’s Crown Tower damage to 30% of the full damage (from 35%).
+06/09/2021|On 6/9/21, a Balance Update made it so the Poison slows enemy movement speed by 15%.",11
+99,Graveyard,28 October 2016,28/10/2016,"11/08/2017|On 11/8/2017, a Balance Update, decreased the Graveyard's duration to 9 seconds (from 10 seconds), consequently causing it to spawn 2 fewer Skeletons (15 instead of 17).
+09/10/2017|On 9/10/2017, the Epic Quests Update, increased the Graveyard's duration to 10 seconds (from 9 seconds), reduced its radius to 4 tiles (from 5), made the first Skeleton spawn 0.5 seconds slower, and made the spawn mechanics of the Skeletons less random by making the skeletons spawn on the edge.
+25/04/2018|On 25/4/2018, the Clan Wars Update, allowed the Graveyard to be placed on the river.
+03/11/2020|On 3/11/2020, a Balance Update, decreased the area where Skeletons can potentially spawn inside the radius, with the new range being 3.5 - 4 tiles (from 3 - 4 tiles).
+18/11/2020|On 18/11/2020, the Clan Wars Improvement Update, reverted the previous balance change, making the spawn radius 3 - 4 tiles once again.
+09/12/2020|On 9/12/2020, a Balance Update, increased the delay of the first Skeleton spawn to 2.2 seconds (from 2 seconds).
+04/04/2022|On 4/4/22, the 2022 Quarter 1 Update decreased the Graveyard's duration to 9.5 seconds (from 10 seconds), consequently causing it to spawn 1 less Skeleton (14 instead of 15).",7
+100,The Log,4 July 2016,04/07/2016,"24/08/2016|On 24/8/2016, a Balance Update, decreased The Log's cast time by 66% and its travel speed increased by 20%.
+19/09/2016|On 19/9/2016, the September 2016 Update, allowed The Log to push back all ground troops. This allowed The Log to reset the charge attacks of the Prince and Dark Prince.
+20/10/2016|On 20/10/2016, a Balance Update, increased The Log's rolling speed and distance, as well as increased its damage by 8.5%.
+13/03/2017|On 13/3/2017, the March 2017 Update, decreased The Log's damage by 4% and decrease its rolling distance by 0.5 tiles (to 11.1 tiles from 11.6 tiles). On the same day, a bug was discovered where the Log was not able to be deployed on top of buildings. To compensate for this, in a maintenance break, the rolling distance was restored to 11.6 tiles until the next client update.
+12/06/2017|On 12/6/2017, the June 2017 Update, decreased The Log's rolling distance by 0.5 tiles (to 11.1 tiles from 11.6 tiles). The bug that prevented the Log from being deployed on top of buildings was also fixed.
+12/12/2017|On 12/12/2017, the Electrifying Update, decreased The Log’s Crown Tower damage from 40% to 35% of the full damage.
+25/04/2018|On 25/4/2018, the Clan Wars Update, allowed the Log to be placed on the river if a Crown Tower has been already destroyed.
+01/10/2018|On 1/10/2018, a Balance Update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+04/08/2020|On 4/8/2020, a Balance Update, decreased The Log's rolling distance by 1 tile (to 10.1 tiles, from 11.1 tiles), and decreased its Crown Tower damage from 35% to 30% of the full damage.
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update slightly changed The Log's description, adding the phrase “Reduced damage to Crown Towers.” to it.
+07/06/2022|On 7/6/2022, a Balance Update decreased The Log's Crown Tower damage from 30% to 20% of the full damage.",11
+101,Tornado,11 November 2016,11/11/2016,"15/12/2016|On 15/12/2016, the December 2016 Update, increased its radius by 10% and also increased its pulling power. This update also changed its description. It used to say: ""Drags enemy troops to the center of the Tornado while dealing damage over time. Doesn't affect buildings.""
+13/03/2017|On 13/3/2017, the March 2017 Update, allowed the Tornado to be placed on buildings.
+12/06/2017|On 12/6/2017, a June 2017 Update, decreased the Tornado's duration by 0.5 seconds (to 2.5 seconds from 3 seconds), but allowed multiple Tornado spells to stack.
+25/04/2018|On 25/4/2018, the Clan Wars Update, increased the Tornado‘s damage per second by 21%, but also decreased the duration by 0.5 sec (from 2.5 sec to 2 sec). It also allowed the Tornado to be placed on the river.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, moved the Arena to unlock the Tornado from Builder's Workshop (Arena 6) to Frozen Peak (Arena 8).
+01/10/2018|On 1/10/2018, a Balance Update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+05/05/2020|On 5/5/2020, a Balance Update, decreased the Tornado's duration by 50% (2 secs -> 1 sec) but its pull strength was increased by 65% and its damage per second by 100%. It was also changed to damage buildings. As a result, the ""Doesn't affect buildings."" blurb from its description was removed.",7
+102,Clone,9 December 2016,09/12/2016,"13/03/2017|On 13/3/2017, the March 2017 Update, stopped the Clone from resetting charge attacks of cloned troops. While it will no longer reset charge attacks of the original troops, the clones spawn without being charged, retaining its behavior prior to this change.
+12/06/2017|On 12/6/2017, the June 2017 Update, made the Cloning effect faster.
+25/04/2018|On 25/4/2018, the Clan Wars Update, allowed the Clone to be placed on the river.
+20/06/2018|On 20/6/2018, the Summer 2018 Update, increased the Clone's radius to 4 tiles (from 3 tiles). It also moved the Arena to unlock this card from Frozen Peak (Arena 8) to Electro Valley (Arena 11).
+01/10/2018|On 1/10/2018, a Balance Update, fixed a bug where troops that were spawned after their parent troops died could not be cloned.
+28/01/2019|On 28/1/2019, the January 2019 Update, made the cloned troops spawn behind the original troops instead of to the right.
+15/04/2019|On 15/4/2019, the April 2019 Update, reduced the Clone's radius to 3 tiles (from 4 tiles).
+31/08/2020|On 31/8/2020, the Clan Wars II Update, made it so that cloned troops can no longer be healed.
+01/11/2021|On 1/11/21, a bug where cloned troops that spawn troops spawn non-cloned troops was patched.",9
+103,Earthquake,15 April 2019,15/04/2019,"03/06/2019|On 3/6/2019, a Balance Update, made it so that the Earthquake would appear more often in Clan Wars.
+03/03/2020|On 3/3/2020, a Balance Update, allowed the Earthquake to affect a hidden Tesla.
+05/05/2020|On 5/5/2020, a Balance Update, increased the Earthquake's regular damage by 11%, but decreased its building damage multiplier from a 4X multiplier to a 3X multiplier.
+01/06/2020|On 1/6/2020, a Balance Update, increased the Earthquake's movement speed debuff from 35% to 50%, but removed its troop attack speed debuff and unit spawn speed debuff.
+11/02/2021|On 11/2/2021, a maintenance break decreased the Earthquake's Crown Tower damage by 15%, but increased its damage to buildings by 16%.
+08/04/2022|On 8/4/2022, an Emergency Balance Update decreased the Earthquake's Crown Tower damage from 85% to 65% of the full troop damage.",6
+104,Barbarian Barrel,6 April 2018,06/04/2018,"25/04/2018|On 25/4/2018, the Clan Wars Update, increased the Barbarian Barrel’s range to 7 (from 6.5). It also allowed the Barbarian Barrel to be placed on the river if a Crown Tower has been already destroyed.
+04/06/2018|On 4/6/2018, a Balance Update, increased the Barbarian‘s hit speed to 1.4 sec (from 1.5 sec).
+20/06/2018|On 20/6/2018, the Summer 2018 Update, increased the Barbarian Barrel's damage by 17%, and allow the user to see where the spawned Barbarian will be after it is used. It also moved the Arena to unlock this card from Hog Mountain (Arena 10) to Barbarian Bowl (Arena 3).
+03/09/2018|On 3/9/2018, a Balance Update, decreased the Barbarian Barrel's Elixir cost to 2 (from 3), decreased its range to 5 (from 7), decreased its damage by 9%, and removed its ability to knock back troops.
+01/10/2018|On 1/10/2018, a Balance Update, made the Barbarian Barrel roll faster and deploy the Barbarian quicker. It also fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+03/12/2018|On 3/12/2018, a Balance Update, decreased the Barbarian Barrel’s damage by 4%.
+07/01/2019|On 7/1/2019, a Balance Update, decreased the Barbarian Barrel’s deploy time (the Barbarian will not attack for 0.15 seconds after jumping out of the barrel, allowing other units to be placed close to it so that it retargets onto those).
+04/03/2019|On 4/3/2019, a Balance Update, decreased the Barbarian's hitpoints by 13%.
+03/06/2019|On 3/6/2019, a Balance Update, decreased the Barbarian Barrel's damage by 10.5%.
+01/07/2019|On 1/7/2019, the July 2019 Update, fixed a bug where the Barbarian Barrel's width was actually 3.9 tiles (decrease of 1.3 tiles to correctly match vision of Barbarian Barrel's width: 2.6 tiles).
+05/08/2019|On 5/8/2019, a Balance Update, decreased the Barbarian Barrel's damage by 15%.
+04/11/2019|On 4/11/2019, a Balance Update, increased the Barbarian's Barrel's damage by 8%.
+07/06/2022|On 7/6/22, a Balance Update increased the Barbarian‘s hit speed to 1.3 sec (from 1.4 sec), but it also decreased the Barbarian Barrel's range to 4.5 (from 5).",13
+105,Heal Spirit,2 April 2020,02/04/2020,"09/09/2020|On 9/9/2020, a Balance Update, decreased the Heal Spirit's healing radius to 3.5 tiles (from 4 tiles).
+06/10/2020|On 6/10/2020, a Balance Update, decreased the Heal Spirit's healing effect by 9%.
+09/12/2020|On 9/12/2020, a Balance Update, decreased the Heal Spirit's damage by 69%.
+30/03/2021|On 30/3/21, a Balance Update increased the Heal Spirit's damage by 225%, but reduced its healing radius to 2.5 tiles (from 3.5 tiles).",4
+106,Giant Snowball,20 June 2018,20/06/2018,"01/10/2018|On 1/10/2018, a Balance Update, increased the Giant Snowball's slow duration to 2.5 seconds (from 2 seconds) and damage by 10%. It also fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+03/12/2018|On 3/12/2018, a Balance Update, increased the Giant Snowball’s damage by 14%.
+01/07/2019|On 1/7/2019, the July 2019 Update, reduced the Giant Snowball's radius to 2.5 tiles (from 3 tiles).
+07/10/2019|On 7/10/2019, a Balance Update, reduced the push back of the Giant Snowball to 1.5 tiles (from 1.8 tiles).
+04/08/2020|On 4/8/2020, a Balance Update, decreased the Giant Snowball's Crown Tower damage to 30% of the full damage (from 35%).
+07/06/2021|On 7/6/21, the 2021 Quarter 2 Update slightly changed the Giant Snowball's description, adding the phrase “Reduced damage to Crown Towers.” to it.
+06/09/2021|On 6/9/21, a Balance Update increased the Giant Snowball's pushback distance to 1.8 tiles (from 1.5 tiles).",7
+107,Royal Delivery,6 April 2020,06/04/2020,"05/05/2020|On 5/5/2020, a Balance Update, increased the Delivery's damage by 27%.
+01/06/2020|On 1/6/2020, a Balance Update, decreased the Delivery's damage by 10%.
+04/08/2020|On 4/8/2020, a Balance Update, increased the damage of Royal Recruits by 8%, and also removed the Delivery's knockback. Its description was also updated to reflect this, previously saying ""No need to sign for this package! Dropped from the sky, it damages and knocks back enemy Troops before delivering a Royal Recruit. The empty box is also handy for espionage.""
+31/08/2020|On 31/8/2020, the Clan Wars II Update, changed the Royal Delivery's card info screen.",4
