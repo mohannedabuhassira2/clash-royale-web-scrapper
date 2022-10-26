@@ -1,0 +1,926 @@
+01/2016,"Knight|0|04/01/2016|Knight was released.
+Archers|0|04/01/2016|Archers was released.
+Goblins|0|04/01/2016|Goblins was released.
+Giant|0|04/01/2016|Giant was released.
+P.E.K.K.A|0|04/01/2016|P.e.k.k.a was released.
+Minions|0|04/01/2016|Minions was released.
+Balloon|0|04/01/2016|Balloon was released.
+Witch|0|04/01/2016|Witch was released.
+Witch|1|11/01/2016|The first update, decreased the witch's spawned skeletons level by 1. before this update, a level 13 witch would be able to spawn level 14 skeletons.
+Barbarians|0|04/01/2016|Barbarians was released.
+Golem|0|04/01/2016|Golem was released.
+Skeletons|0|04/01/2016|Skeletons was released.
+Valkyrie|0|04/01/2016|Valkyrie was released.
+Skeleton Army|0|04/01/2016|Skeleton army was released.
+Bomber|0|04/01/2016|Bomber was released.
+Musketeer|0|04/01/2016|Musketeer was released.
+Baby Dragon|0|04/01/2016|Baby dragon was released.
+Prince|0|04/01/2016|Prince was released.
+Prince|1|11/01/2016|The first update, decreased the prince's hitpoints by 4%.
+Wizard|0|04/01/2016|Wizard was released.
+Mini P.E.K.K.A|0|04/01/2016|Mini p.e.k.k.a was released.
+Spear Goblins|0|04/01/2016|Spear goblins was released.
+Giant Skeleton|0|04/01/2016|Giant skeleton was released.
+Hog Rider|0|04/01/2016|Hog rider was released.
+Minion Horde|0|04/01/2016|Minion horde was released.
+Cannon|0|04/01/2016|Cannon was released.
+Goblin Hut|0|04/01/2016|Goblin hut was released.
+Mortar|0|04/01/2016|Mortar was released.
+Mortar|1|11/01/2016|The first update, decreased the mortar's lifetime to 40 seconds (from 60 seconds).
+Inferno Tower|0|04/01/2016|Inferno tower was released.
+Bomb Tower|0|04/01/2016|Bomb tower was released.
+Barbarian Hut|0|04/01/2016|Barbarian hut was released.
+Tesla|0|04/01/2016|Tesla was released.
+Elixir Collector|0|04/01/2016|Elixir collector was released.
+X-Bow|0|04/01/2016|X-bow was released.
+Tombstone|0|04/01/2016|Tombstone was released.
+Fireball|0|04/01/2016|Fireball was released.
+Arrows|0|04/01/2016|Arrows was released.
+Rage|0|04/01/2016|Rage was released.
+Rocket|0|04/01/2016|Rocket was released.
+Goblin Barrel|0|04/01/2016|Goblin barrel was released.
+Goblin Barrel|1|11/01/2016|The first update, decreased the spawned goblins level by 1. prior to the balance, a max level goblin barrel could spawn level 14 goblins, which was 2 levels higher than the max level at the time.
+Freeze|0|04/01/2016|Freeze was released.
+Mirror|0|04/01/2016|Mirror was released.
+Lightning|0|04/01/2016|Lightning was released.
+Zap|0|04/01/2016|Zap was released."
+02/2016,"Knight|1|29/02/2016|The march 2016 update, decreased the sight range of the knight. the knight's card image was also changed.
+Archers|1|29/02/2016|The march 2016 update, decreased the sight range of the archers.
+Goblins|1|29/02/2016|The march 2016 update, decreased the sight range of the goblins.
+Giant|1|09/02/2016|He chest rewards & card balance update, increased the giant's hitpoints by 5%.
+Giant|2|29/02/2016|The march 2016 update, decreased the sight range of the giant.
+P.E.K.K.A|1|02/02/2016|He february 2016 update, decreased the p.e.k.k.a's hitpoints by 13% and decreased the elixir cost to 7 (from 8).
+P.E.K.K.A|2|29/02/2016|The march 2016 update, decreased the sight range of the p.e.k.k.a.
+Minions|1|29/02/2016|The march 2016 update, decreased the sight range of the minions.
+Balloon|1|02/02/2016|He february 2016 update, added the death damage statistic to the balloon's card info screen.
+Balloon|2|29/02/2016|The march 2016 update, decreased the sight range of the balloon.
+Witch|2|02/02/2016|He february 2016 update, fixed a bug where the witch would get stuck if placed in the corner behind a building.
+Witch|3|19/02/2016|A balance update, increased her damage by 3%. additionally, all skeletons' hitpoints and damage were increased by 11%.
+Witch|4|29/02/2016|The march 2016 update, changed the witch so that it would no longer stop its attack if its target dies during the attack animation. it also decreased the sight range of the witch and her skeletons.
+Barbarians|1|02/02/2016|He february 2016 update, decreased the barbarians' hitpoints by 3%.
+Barbarians|2|29/02/2016|The march 2016 update, decreased the sight range of the barbarians.
+Golem|1|02/02/2016|He february 2016 update, increased the golem's hitpoints, attack damage and death damage by 43%, and decreased the same stats on the golemite by 43%. it also added the death damage on the golem's card info screen.
+Golem|2|19/02/2016|A balance update, decreased the golem's and golemite's hitpoints by 5%.
+Golem|3|29/02/2016|The march 2016 update, decreased the sight range of the golem and his golemites.
+Skeletons|1|19/02/2016|The balance update, increased the skeletons' hitpoints and damage by 11%.
+Skeletons|2|29/02/2016|The march 2016 update, decreased the sight range of the skeletons.
+Valkyrie|1|09/02/2016|He chest reward & card balance update, increased the valkyrie's hitpoints and damage by 10%.
+Valkyrie|2|29/02/2016|The march 2016 update, changed the valkyrie so that it would no longer stop its attack if its target dies during the attack animation. it also decreased the sight range of the valkyrie.
+Skeleton Army|1|19/02/2016|A balance update, increased the skeletons' hitpoints and damage by 11%.
+Skeleton Army|2|29/02/2016|The march 2016 update, decreased the sight range of the skeletons.
+Bomber|1|02/02/2016|He february 2016 update, increased the bomber's hit speed to 1.9 seconds (from 2 seconds).
+Bomber|2|29/02/2016|The march 2016 update, changed the bomber so that he would no longer stop his attack if his target dies during the attack animation. it also decreased the sight range of the bomber.
+Musketeer|1|09/02/2016|He chest rewards & card balance update, decreased the musketeer's damage by 25% and her elixir cost to 4 (from 5).
+Musketeer|2|19/02/2016|A balance update, increased the musketeer's damage by 11%.
+Musketeer|3|29/02/2016|The march 2016 update, decreased the sight range of the musketeer.
+Baby Dragon|1|29/02/2016|The march 2016 update, changed the baby dragon so that it would no longer stop its attack if its target dies during the attack animation. it also decreased the sight range of the baby dragon.
+Prince|2|29/02/2016|The march 2016 update, decreased the sight range of the prince.
+Wizard|1|02/02/2016|He february 2016 update, decreased the wizard's damage by 7%.
+Wizard|2|29/02/2016|The march 2016 update, changed the wizard so that he would no longer stop its attack if his target dies during the attack animation. it also decreased the sight range of the wizard.
+Mini P.E.K.K.A|1|09/02/2016|He chest rewards & card balance update, increased the mini p.e.k.k.a's hitpoints by 3%.
+Mini P.E.K.K.A|2|29/02/2016|The march 2016 update, decreased the sight range of the mini p.e.k.k.a.
+Spear Goblins|1|29/02/2016|The march 2016 update, decreased the sight range of the spear goblins.
+Giant Skeleton|1|02/02/2016|He february 2016 update, added the death damage on the giant skeleton's card info screen.
+Giant Skeleton|2|29/02/2016|The march 2016 update, increased the giant skeleton's hitpoints by 11% and bomb timer to 3 seconds (from 1 second). it also decreased the sight range of the giant skeleton.
+Hog Rider|1|29/02/2016|The march 2016 update, decreased the sight range of the hog rider.
+Minion Horde|1|29/02/2016|The march 2016 update, decreased the sight range of the minions.
+Ice Wizard|0|29/02/2016|Ice wizard was released.
+Royal Giant|0|29/02/2016|Royal giant was released.
+Princess|0|29/02/2016|Princess was released.
+Dark Prince|0|29/02/2016|Dark prince was released.
+Three Musketeers|0|29/02/2016|Three musketeers was released.
+Cannon|1|02/02/2016|He february 2016 update, decreased the cannon's elixir cost to 3 (from 6), its range to 6 tiles (from 7 tiles), its lifetime to 40 seconds (from 60 seconds), and decreased its hitpoints by 55%.
+Goblin Hut|1|29/02/2016|The march 2016 update, decreased the sight range of the spear goblins.
+Mortar|2|02/02/2016|He february 2016 update, decreased the mortar's cost to 4 elixir (from 6 elixir), its damage by 40%, its lifetime to 20 seconds (from 40 seconds), and its maximum range decreased to 12 tiles (from 13 tiles).
+Mortar|3|09/02/2016|He chest rewards & card balance update, increased the mortar's lifetime to 30 seconds (from 20 seconds).
+Inferno Tower|1|02/02/2016|He february 2016 update, decreased the inferno tower's lifetime to 45 seconds (from 60 seconds) and reduced its retargeting speed by 50%.
+Inferno Tower|2|19/02/2016|A balance update decreased the inferno tower's hitpoints by 6% and lifetime to 40 seconds (from 45 seconds).
+Bomb Tower|1|02/02/2016|He february 2016 update, increased the bomb tower's hit speed to 1.7 seconds (from 1.8 seconds).
+Bomb Tower|2|09/02/2016|He chest rewards & card balance update, increased the bomb tower's hit speed to 1.6 seconds (from 1.7 seconds).
+Bomb Tower|3|29/02/2016|The march 2016 update, changed the bomb tower so that it would no longer stop its attack if its target dies during the attack animation.
+Barbarian Hut|1|02/02/2016|He february 2016 update, increased the barbarian hut's hitpoints by 10%. however, the same update also decreased the spawned barbarians' hitpoints by 4%.
+Barbarian Hut|2|29/02/2016|The march 2016 update, decreased the sight range of the barbarians.
+Tesla|1|09/02/2016|He chest rewards & card balance update, increased the tesla's damage by 7%.
+Tesla|2|29/02/2016|The march 2016 update, decreased the tesla's hitpoints by 5%.
+Elixir Collector|1|02/02/2016|He february 2016 update, increased the elixir collector's production speed to 9.8 sec (from 9.9 sec). this was because of a bug where it would produce 6 elixir instead of 7.
+X-Bow|1|02/02/2016|He february 2016 update, decreased the x-bow's hitpoints by 15% and removed its ability to target air troops.
+X-Bow|2|09/02/2016|He chest rewards & card balance update, increased the x-bow's deployment time to 5 seconds (from 3 seconds).
+Tombstone|1|09/02/2016|He chest rewards & card balance update, decreased the number of spawned skeletons when destroyed to 4 (from 6).
+Tombstone|2|19/02/2016|A balance update, decreased its lifetime to 40 seconds (from 60 seconds).
+Tombstone|3|29/02/2016|The march 2016 update, decreased the sight range of the skeletons.
+Fireball|1|19/02/2016|A balance update, decreased the fireball’s crown tower damage from 50% to 40% of the full damage.
+Arrows|1|02/02/2016|He february 2016 update, decreased the arrows' damage by 4%.
+Arrows|2|19/02/2016|A balance update, decreased the arrows’ crown tower damage from 50% to 40% of the full damage.
+Rage|1|29/02/2016|The march 2016 update, added a falloff effect to rage, causing troops to lose the bonus if they are out of its effect for 2 seconds, whereas previously troops kept the effect permanently.
+Rocket|1|19/02/2016|A balance update, decreased the rocket's crown tower damage from 50% to 40% of the full damage.
+Goblin Barrel|2|19/02/2016|A balance update, decreased the goblin barrel's crown tower damage from 50% to 40% of the full damage.
+Goblin Barrel|3|29/02/2016|The march 2016 update, decreased the sight range of the goblins.
+Freeze|1|02/02/2016|He february 2016 update decreased the freeze's radius to 3 (from 4) and the duration would increase 0.3 seconds per level (from 0.4 seconds).
+Mirror|1|02/02/2016|He february 2016 update, increased the level of mirrored common cards by 4 and mirrored rare cards by 2.
+Mirror|2|29/02/2016|The march 2016 update, changed the mirror's artwork. it was also fixed to correctly cost your previous card +1 elixir.
+Lightning|1|19/02/2016|The balance update, decreased the lightning's crown tower damage from 50% to 40% of the full damage.
+Zap|1|09/02/2016|He chest rewards & card balance update, increased the zap's damage by 6%.
+Zap|2|19/02/2016|A balance update, decreased the zap’s crown tower damage from 50% to 40% of the full damage.
+Zap|3|29/02/2016|The march 2016 update, added a stun effect to affected targets in the zap's aoe (area of effect) for 1 second and decreased its damage by 6%. the update also changed the description from ""lightning zaps enemies, dealing damage inside a small radius. reduced damage to crown towers."" to the current description.
+Poison|0|29/02/2016|Poison was released."
+03/2016,"Archers|2|23/03/2016|A balance update, made their initial attack quicker (identical to spear goblins).
+Giant|3|23/03/2016|A balance update, increased the giant's damage by 5%.
+Balloon|3|23/03/2016|A balance update, increased the balloon's hitpoints by 5%.
+Witch|5|23/03/2016|A balance update, increased her damage by 5%.
+Prince|3|23/03/2016|A balance update, decreased the prince's charge speed by 13%.
+Ice Wizard|1|23/03/2016|A balance update, increased the ice wizard's damage by 5%.
+Royal Giant|1|23/03/2016|A balance update, increased the royal giant's damage by 20%.
+Princess|1|23/03/2016|A balance update, decreased the princess' hitpoints by 10%. before the update, from level 5, the princess could not be taken out by level 12 arrows.
+Dark Prince|1|23/03/2016|A balance update, decreased the dark prince's charge speed by 13%.
+Three Musketeers|1|23/03/2016|A balance update, decreased the three musketeers' elixir cost to 9 (from 10).
+Cannon|2|23/03/2016|A balance update, decreased the cannon's lifetime to 30 seconds (from 40 seconds).
+Tesla|3|23/03/2016|A balance update, decreased the tesla's hit speed to 0.8 seconds (from 0.7 seconds) and its lifetime to 40 seconds (from 60 seconds).
+X-Bow|3|23/03/2016|A balance update, decreased the x-bow's range to 12 tiles (from 13 tiles).
+Rage|2|23/03/2016|A balance update, increased the rage's movement and attack speed boost to 40% (from 35%) and decreased its duration by 20%.
+Mirror|3|23/03/2016|A balance update, decreased the mirrored legendary cards level by 1.
+Poison|1|23/03/2016|A balance update, increased the poison's damage by 5%."
+04/2016,
+05/2016,"Knight|2|18/05/2016|A balance update, increased the knight's hitpoints by 10%.
+Archers|3|03/05/2016|He may 2016 update, increased the common card level cap to 13 (from 12). the update also fixed the “range bug”, which decreased the archers' range to 5 (from 5.5) but their effective range was unchanged.
+Minions|2|03/05/2016|He may 2016 update, increased the common card level cap to 13 (from 12). the update also fixed the ""range bug"", which decreased the minions' range to 2 tiles (from 2.5 tiles) but their effective range was unchanged.
+Balloon|4|03/05/2016|He may 2016 update, increased the size of the balloon's hitpoint bar to prevent it from being recognized as a low-health troop when encountered.
+Witch|6|03/05/2016|He may 2016 update, fixed the ""range bug"" and decreased the witch's range to 5 tiles (from 5.5 tiles) but her effective range is unchanged. also, before the change witch was able to summon level 13 skeletons while the level cap for the skeletons card was 12. the goblin barrel was able to do the same with the goblins.
+Witch|7|18/05/2016|A balance update, increased the witch's damage by 10%. in addition, the skeletons' hitpoints and damage were increased by 5%.
+Golem|4|18/05/2016|A balance update, increased the golem and golemite's hitpoints by 5%.
+Skeletons|3|18/05/2016|A balance update, increased the skeletons' hitpoints and damage by 5%.
+Valkyrie|3|03/05/2016|He may 2016 update, increased the rare card level cap to 11 (from 10). the update also allowed the valkyrie to be knocked back.
+Skeleton Army|3|18/05/2016|A balance update, increased the skeletons' hitpoints and damage by 5%.
+Bomber|3|03/05/2016|He may 2016 update, increased the common card level cap to 13 (from 12). the update also fixed the ""range bug"", which decreased the bomber's range to 4.5 tiles (from 5 tiles) but his effective range was unchanged.
+Bomber|4|18/05/2016|A balance update, increased the bomber's damage by 10%.
+Musketeer|4|03/05/2016|He may 2016 update, increased the rare card level cap to 11 (from 10). the update also fixed the ""range bug"", which decreased the musketeer's range to 6 (from 6.5) but her effective range was unchanged.
+Baby Dragon|2|03/05/2016|He may 2016 update, fixed the ""range bug"" and decreased the baby dragon's range to 3 (from 3.5), but its effective range remained unchanged.
+Prince|4|03/05/2016|He may 2016 update, fixed the ""range bug"" and decreased the prince's range to melee (from 2.5 tiles), but his effective range remained unchanged.
+Wizard|3|03/05/2016|He may 2016 update, increased the rare card level cap to 11 (from 10). the update also fixed the ""range bug"", which decreased the wizard's range to 5 tiles (from 5.5 tiles) but his effective range is unchanged.
+Mini P.E.K.K.A|3|03/05/2016|He may 2016 update, increased the rare card level cap to 11 (from 10). the mini p.e.k.k.a. was changed to be affected by pushback. additionally, the mini p.e.k.k.a's sound effect when deployed was updated. the sound effect now sounds like “pancakes”, and a tweet by the clash royale official twitter account implied that that was the correct interpretation. it had a real life mini p.e.k.k.a standing next to a giant skeleton, with the caption “who wants pancakes?”.
+Spear Goblins|2|03/05/2016|He may 2016 update, increased the common card level cap to 13 (from 12). the update also fixed the ""range bug"", which decreased the spear goblins' range to 5 tiles (from 5.5 tiles) but their effective range is unchanged.
+Minion Horde|2|03/05/2016|He may 2016 update, increased the common card level cap to 13 (from 12), and fixed the “range bug” and decreased the minions' range to 2 tiles (from 2.5 tiles) but their effective range is unchanged.
+Ice Wizard|2|03/05/2016|He may 2016 update, decreased the legendary card level cap to 5 (from 6) and fixed the ""range bug"" and decreased the ice wizard's range to 5.5 (from 6) but his effective range is unchanged. also, this update changed his description. it used to read, ""this chill caster hails from the far north. he shoots ice shards at enemies, slowing down their movement and attack speed.""
+Royal Giant|2|03/05/2016|He may 2016 update, increased the common card level cap to 13 (from 12), increased the royal giant's range by 1 tile and also changed his description. it used to say, “sighting his massive cannon at enemy buildings, the royal giant comes in like a wrecking ball.” the same update also fixed the “range bug” and decreased the range by 0.5 tiles with no change to effective range, thereby providing a 0.5 tile increase (effectively a 1 tile increase in range).
+Royal Giant|3|18/05/2016|A balance update, decreased the royal giant's damage by 4%.
+Guards|0|03/05/2016|Guards was released.
+Guards|1|18/05/2016|A balance update, increased the guards' hitpoints and damage by 8%.
+Princess|2|03/05/2016|He may 2016 update, decreased the legendary card level cap to 5 (from 6) and fixed the ""range bug"" and decreased the princess' range to 9 (from 9.5) but her effective range is unchanged. the same update also changed her card description. prior to this update, it read ""shoots a volley of flaming arrows halfway across the arena. the princess is afraid of germs, so keep the rabble away from her!""
+Dark Prince|2|03/05/2016|He may 2016 update, changed the dark prince's card description. it used to say, “dealing area damage with each swing and double after charging, the dark prince is a formidable fighter. to harm his squishy core, break his shield first.”
+Three Musketeers|2|03/05/2016|He may 2016 update, increased the rare card level cap to 11 (from 10) and fixed the ""range bug"", decreasing the three musketeers' range to 6 tiles (from 6.5 tiles) but with no change to effective range.
+Lava Hound|0|03/05/2016|Lava hound was released.
+Lava Hound|1|18/05/2016|A balance update, increased the lava hound's hitpoints by 3% and lava pup's hitpoints by 9%.
+Fire Spirit|0|03/05/2016|Fire spirit was released.
+Fire Spirit|1|18/05/2016|A balance update, increased the fire spirits' area damage radius by 25%.
+Miner|0|03/05/2016|Miner was released.
+Miner|1|18/05/2016|A balance update, increased the miner's hitpoints by 6%.
+Sparky|0|03/05/2016|Sparky was released.
+Cannon|3|03/05/2016|He may 2016 update, increased the common card level cap to 13 (from 12). the update also fixed the “range bug”, which decreased the cannon's range to 5.5 tiles (from 6 tiles) but its effective range was unchanged. the cannon's hitpoints were also decreased by 11%.
+Cannon|4|18/05/2016|A balance update, decreased the cannon's hitpoints by 5%.
+Goblin Hut|2|03/05/2016|He may 2016 update, increased the rare card level cap to 11 (from 10). the update also fixed the ""range bug"", which decreased the spear goblins' range to 5 tiles (from 5.5 tiles) but their effective range is unchanged.
+Mortar|4|03/05/2016|He may 2016 update, increased the common card level cap to 13 (from 12), increased the mortar's deployment time to 5 seconds (from 3 seconds) and decreased its damage by 10%. this update also fixed the “range bug” and decreased the mortar's range to 4.5-11 tiles (from 5-12 tiles) but its effective range is unchanged.
+Inferno Tower|3|03/05/2016|He may 2016 update, increased the rare card level cap to 11 (from 10). the update also fixed the “range bug”, which decreased the inferno tower's range to 6 tiles (from 6.5 tiles) but its effective range is unchanged.
+Bomb Tower|4|03/05/2016|He may 2016 update, increased the rare card level cap to 11 (from 10), and decreased the bomb tower's lifetime to 40 sec (from 60 sec). this update also fixed the ""range bug"" and decreased the bomb tower's range to 6 (from 6.5) but its effective range was unchanged.
+Tesla|4|03/05/2016|He may 2016 update, increased the common card level cap to 13 (from 12) and fixed the ""range bug"" and decreased the tesla's range to 5.5 (from 6) but its effective range is unchanged.
+Tesla|5|18/05/2016|A balance update, increased the tesla's hitpoints by 5%.
+Elixir Collector|2|03/05/2016|He may 2016 update, increased the rare card level cap to 11 (from 10) and decreased the elixir collector's hitpoints by 20%.
+Elixir Collector|3|18/05/2016|A balance update, decreased the elixir collector's hitpoints by 9%.
+X-Bow|4|03/05/2016|He may 2016 update, fixed the ""range bug"" and decreased the x-bow's range to 11.5 tiles (from 12 tiles) but its effective range is unchanged.
+Tombstone|4|18/05/2016|A balance update, increased the skeletons' hitpoints and damage by 5%. in addition, the hitpoints of the tombstone were increased by 10%.
+Furnace|0|03/05/2016|Furnace was released.
+Furnace|1|18/05/2016|A balance update, decreased the furnace's elixir cost to 4 (from 5), its hitpoints by 14%, and its lifetime to 40 seconds (from 50 seconds). in addition, the fire spirit's area damage radius was increased by 25%.
+Freeze|2|18/05/2016|A balance update, decreased the freeze's duration by 1 second.
+Mirror|4|03/05/2016|He may 2016 update, increased the mirrored common and rare cards level by 1. it also changed the mirror by making it count as a 1.5 elixir card when calculating the average elixir cost of a deck. before the update, it was simply ignored in calculating the average cost as if the deck had only 7 cards."
+06/2016,"P.E.K.K.A|3|21/06/2016|A balance update, increased the p.e.k.k.a's damage by 8%.
+Witch|8|21/06/2016|A balance update, increased the witch's damage by 17%.
+Skeletons|4|21/06/2016|A balance update, decreased the number of skeletons spawned to 3 (from 4).
+Prince|5|21/06/2016|A balance update, increased the prince's damage by 9%.
+Hog Rider|2|21/06/2016|A balance update, decreased the hog rider's damage by 6%.
+Guards|2|21/06/2016|A balance update, removed the pushback when their shields break.
+Lava Hound|2|21/06/2016|A balance update, increased the lava hound's damage by 28%.
+Cannon|5|21/06/2016|A balance update, decreased the cannon's hitpoints by 8%.
+Mortar|5|21/06/2016|A balance update, decreased the mortar's deployment time to 4 seconds (from 5 seconds).
+Tesla|6|21/06/2016|A balance update, increased the tesla's hitpoints by 8%.
+X-Bow|5|21/06/2016|A balance update, decreased the x-bow's deploy time to 4 seconds (from 5 seconds) and increased its hitpoints by 18%.
+Furnace|2|21/06/2016|A balance update, increased the furnace's lifetime to 50 sec (from 40 sec).
+Goblin Barrel|4|21/06/2016|A balance update, decreased the goblin spawn time to 1 second (from 1.2 seconds)."
+07/2016,"Skeleton Army|4|04/07/2016|He tournaments update, increased the number of skeletons spawned to 21 (from 20).
+Bomber|5|04/07/2016|He tournaments update, increased the bomber's damage by 9%.
+Wizard|4|04/07/2016|He tournaments update, increased the wizard's attack speed to 1.6 seconds (from 1.7 seconds). this update also revealed that the ice wizard is his cousin.
+Giant Skeleton|3|04/07/2016|He tournaments update, increased the giant skeleton's damage by 20%.
+Ice Wizard|3|04/07/2016|He tournaments update, allowed the elixir collector to be affected by the ice wizard's slowing.
+Dark Prince|3|04/07/2016|He tournaments update, increased the dark prince's damage by 8% and made him unaffected by pushback.
+Ice Spirit|0|04/07/2016|Ice spirit was released.
+Miner|2|04/07/2016|He tournaments update, decreased the miner's deploy time to 0.7 seconds (from 1 second). this change was not mentioned in any change notes and was later said to be unintentional by supercell.
+Bowler|0|04/07/2016|Bowler was released.
+Lumberjack|0|04/07/2016|Lumberjack was released.
+Inferno Tower|4|04/07/2016|He tournaments update, increased the inferno tower's hitpoints by 6%. it also gave zap and freeze the ability to reset the damage output.
+Bomb Tower|5|04/07/2016|He tournaments update, increased the bomb tower's hitpoints by 6%.
+Elixir Collector|4|04/07/2016|He tournaments update, made the elixir collector's production rate affected by spell effects (freeze, zap, and rage), plus the ice wizard's slowing.
+Tombstone|5|04/07/2016|He tournaments update, increased the tombstone's hitpoints by 9%.
+Rage|3|04/07/2016|He tournaments update, allowed the elixir collector to be affected by rage.
+Goblin Barrel|5|04/07/2016|He tournaments update, decreased the goblin barrel's elixir cost to 3 (from 4), increased its goblin spawn time to 1.2 seconds (from 1 second) and removed its impact damage.
+Freeze|3|04/07/2016|He tournaments update, allowed it to stop the elixir collector's elixir generation and reset the inferno tower's damage output.
+Zap|4|04/07/2016|He tournaments update, allowed it to stop the elixir collector's elixir generation and reset the inferno tower's damage output.
+Poison|2|04/07/2016|He tournaments update, allowed the elixir collector to be affected by the poison's slowing.
+The Log|0|04/07/2016|The log was released."
+08/2016,"Archers|4|24/08/2016|A balance update, increased the archers' damage by 2%. before this update, level 9 or level 13 archers used to take 3 shots to kill an equal level goblin instead of 2 when they are at the same level.
+P.E.K.K.A|4|24/08/2016|A balance update, increased the p.e.k.k.a's damage by 5%.
+Golem|5|24/08/2016|A balance update, increased the golem's hit and death damage by 5% and hitpoints by 1%. the golemites had their hit and death damage increased by 8% and their hitpoints by 3.2%.
+Baby Dragon|3|24/08/2016|A balance update, increased the baby dragon's hit speed to 1.6 seconds (from 1.8 seconds).
+Prince|6|24/08/2016|A balance update, increased the prince's damage by 2%. this means that a level 13 prince will now be able to defeat level 13 barbarians in 2 hits or 1 charge strike.
+Ice Wizard|4|24/08/2016|A balance update, decreased the ice wizard's hitpoints by 5%.
+Royal Giant|4|24/08/2016|A balance update, decreased the royal giant's hit speed to 1.7 seconds (from 1.5 seconds).
+Princess|3|24/08/2016|A balance update, decreased the princess' area damage radius by 25%. she now has a 2 tile splash instead of a 2.5 tile splash.
+Princess|4|29/08/2016|A minor update, increased the princess' projectile speed. previously, certain ""very fast"" troops could avoid the princess' attack when approaching her directly.
+Dark Prince|4|24/08/2016|A balance update, increased the dark prince's damage by 7.5%.
+Miner|3|24/08/2016|A balance update, increased the miner's deploy time back to 1 second and decreased his hitpoints by 6%.
+Bowler|1|24/08/2016|A balance update, decreased the bowler's elixir cost to 5 (from 6), decreased its hitpoints by 7%, and decreased its damage by 10%.
+Lumberjack|1|24/08/2016|A balance update, changed the lumberjack's speed from fast to very fast, increased his hit speed from 1.1 seconds to 0.7 seconds and decreased his damage by 23%.
+Tombstone|6|24/08/2016|A balance update, increased the tombstone's spawn speed to 2.5 seconds (from 2.9 seconds). between this change and the next, it spawned 16 skeletons instead of 14.
+Zap|5|24/08/2016|A balance update, decreased the zap's stun from 1 second to 0.5 seconds.
+The Log|1|24/08/2016|A balance update, decreased the log's cast time by 66% and its travel speed increased by 20%."
+09/2016,"Archers|5|19/09/2016|The september 2016 update, changed the description slightly. it used to say: “a pair of unarmored ranged attackers. they'll help you with ground and air unit attacks, but you're on your own with coloring your hair.""
+Giant|4|19/09/2016|The september 2016 update, decreased the giant's damage by 5%.
+Bomber|6|19/09/2016|The september 2016 update, decreased the bomber's hitpoints by 2% and increased his damage by 2.5%. this resolved a minor issue where goblins could not defeat an equal level bomber in 3 hits at some levels, e.g. level 7.
+Lumberjack|2|19/09/2016|The september 2016 update, decreased the rage's attack speed boost to 30% (from 40%) and its duration by 2 seconds.
+Inferno Dragon|0|30/09/2016|Inferno dragon was released.
+Mega Minion|0|19/09/2016|Mega minion was released.
+Mega Minion|1|21/09/2016|A maintenance break, added a mega minion offer in the shop, selling 100 mega minion cards.
+Rage|4|19/09/2016|The september 2016 update, decreased the rage's elixir cost to 2 (from 3), its attack speed boost to 30% (from 40%) and its duration by 2 sec.
+Mirror|5|19/09/2016|The september 2016 update, increased all mirrored cards' level by 1. this allows players with level 8 mirror to deploy level 14 cards, which would be unobtainable otherwise.
+Lightning|2|19/09/2016|The september 2016 update, gave the lightning the ability to stun targets for 0.5 seconds.
+The Log|2|19/09/2016|The september 2016 update, allowed the log to push back all ground troops. this allowed the log to reset the charge attacks of the prince and dark prince."
+10/2016,"Giant|5|20/10/2016| a balance update, decreased the giant's hitpoints by 5%.
+Golem|6|20/10/2016| a balance update, allowed its death damage to affect flying troops, but supercell called it a bug fix.
+Skeleton Army|5|20/10/2016| a balance update, decreased the skeleton army's elixir cost to 3 (from 4), increased the skeletons' levels by 5 (to match the tournament standard) and reduced the number of skeletons spawned to 16 (from 21).
+Ice Golem|0|14/10/2016|Ice golem was released.
+Ice Golem|1|20/10/2016| a balance update, allowed his death damage to affect flying troops.
+Elixir Collector|5|20/10/2016| a balance update, increased the elixir collector's elixir cost to 6 (from 5) and increased its lifetime by 10 seconds. this increased lifetime allows it to produce up to 8 elixir.
+Poison|3|20/10/2016| a balance update, removed the slowing capabilities of the poison. this also changed the description. it was used to say: ""covers the target area in a sticky toxin, damaging and slowing down enemy troops and buildings. yet somehow leaves the grass green and healthy. go figure!""
+Graveyard|0|28/10/2016|Graveyard was released.
+The Log|3|20/10/2016| a balance update, increased the log's rolling speed and distance, as well as increased its damage by 8.5%."
+11/2016,"Lava Hound|3|30/11/2016| a balance update, decreased the lava pup's hitpoints by 1%. this was to fix a rounding error where a level 12 princess tower should've been able to kill equivalent level lava pups in two shots.
+Ice Spirit|1|01/11/2016|The november 2016 update, decreased the ice spirit's freeze duration to 1.5 seconds (from 2 seconds).
+Bowler|2|01/11/2016|The november 2016 update, changed the bowler's sound effects.
+Lumberjack|3|01/11/2016|The november 2016 update, increased the rage's attack speed boost to 35% (from 30%).
+Ice Golem|2|01/11/2016|The novermber 2016 update, increased the ice golem's death damage by 74%. the update also changed the description. it used to read ""he's tough, targets buildings and explodes when destroyed, slowing nearby enemies. wears a fashionable collar of coal to match his ears and nails.""
+Mega Minion|2|30/11/2016| a balance update, decreased the mega minion's damage by 6% and its hit speed to 1.4 seconds (from 1.3 seconds).
+Elite Barbarians|0|25/11/2016|Elite barbarians was released.
+Inferno Tower|5|01/11/2016|The november 2016 update, decreased the inferno tower's hitpoints by 6%.
+Elixir Collector|6|30/11/2016| a balance update, increased the elixir collector's production speed to 8.5 seconds (from 9.8 seconds) and decreased its lifetime to 70 seconds (from 80 seconds).
+Tombstone|7|30/11/2016| a balance update, decreased the tombstone's spawn speed back to 2.9 seconds.
+Rage|5|01/11/2016|The november 2016 update, increased the rage's attack speed boost to 35% (from 30%).
+Mirror|6|02/11/2016|A maintenance break, decreased the level 8 mirror's mirrored card's level by 1. this was to fix a bug where cards above the max level did not appear.
+Poison|4|30/11/2016| a balance update, increased its damage by 10%.
+Tornado|0|11/11/2016|Tornado was released."
+12/2016,"Balloon|5|15/12/2016| the december 2016 update, increased the balloon's death damage by 105% and its death damage explosion radius by 50% (from 2 tiles to 3 tiles).
+Bomber|7|15/12/2016| the december 2016 update, increased the bomber's damage by 4%. this lets the bomber one shot equally leveled archers.
+Wizard|5|15/12/2016| the december 2016 update, increased the wizard's hit speed to 1.4 seconds (from 1.6 seconds) but delayed his initial attack by 0.2 seconds.
+Giant Skeleton|4|15/12/2016| the december 2016 update, increased the giant skeleton's damage by 8%.
+Lumberjack|4|15/12/2016| the december 2016 update, increased the lumberjack's hitpoints by 6%.
+Inferno Dragon|1|15/12/2016| the december 2016 update increased the inferno dragon's hitpoints by 5% and decreased its re-targeting time by 0.4 seconds.
+Electro Wizard|0|30/12/2016|Electro wizard was released.
+Elite Barbarians|1|15/12/2016| a balance update, increased the elite barbarians' hit points by 19%, damage by 14% and increased their hit speed to 1.4 seconds (from 1.5 seconds).
+Mortar|6|15/12/2016| the december 2016 update, increased the mortar's area damage radius to 2 tiles (from 1.8 tiles).
+Mirror|7|15/12/2016| the december 2016 update, increased the level 8 mirror's mirrored card's level by 1; the bug above was finally fixed.
+Tornado|1|15/12/2016| the december 2016 update, increased its radius by 10% and also increased its pulling power. this update also changed its description. it used to say: ""drags enemy troops to the center of the tornado while dealing damage over time. doesn't affect buildings.""
+Clone|0|09/12/2016|Clone was released."
+01/2017,"Archers|6|23/01/2017|A balance update, decreased the archers' hitpoints by 4%.
+Wizard|6|23/01/2017|A balance update, increased the wizard's range to 5.5 tiles (from 5 tiles).
+Ice Spirit|2|23/01/2017|A balance update, decreased the ice spirit's damage by 10%.
+Ice Golem|3|23/01/2017|A balance update, decreased his hitpoints by 5%, his death damage radius to 2 tiles (from 3 tiles), and death damage slow duration to 2 seconds (from 3 seconds).
+Mega Minion|3|23/01/2017|A balance update, decreased the mega minion's damage by 4% and its hit speed to 1.5 seconds (from 1.4 seconds).
+Dart Goblin|0|13/01/2017|Dart goblin was released.
+Electro Wizard|1|23/01/2017|A balance update, decreased the electro wizard's spawn damage by 6% and the electro wizard's health was increased by 9%.
+Elite Barbarians|2|23/01/2017|A balance update, decreased the elite barbarians' hit points by 4.4%, damage by 4% and decreased their hit speed to 1.5 seconds (from 1.4 seconds).
+Executioner|0|27/01/2017|Executioner was released.
+Zap|6|23/01/2017|A balance update, decreased the zap’s damage by 6%."
+02/2017,"P.E.K.K.A|5|13/02/2017|A balance update, decreased the p.e.k.k.a's deploy time to 1 second (from 3 seconds).
+Witch|9|13/02/2017|A balance update, increased the witch's damage by 6%.
+Skeletons|5|13/02/2017|A balance update, increased the number of skeletons spawned to 4 (from 3). this also changed the numeral ""three"" to ""four"" in the description.
+Skeleton Army|6|13/02/2017|A balance update, decreased the number of skeletons spawned to 15 (from 16).
+Baby Dragon|4|13/02/2017|A balance update, increased the baby dragon's range to 3.5 tiles (from 3 tiles).
+Dark Prince|5|13/02/2017|A balance update, increased the dark prince's hitpoints by 5%.
+Battle Ram|0|10/02/2017|Battle ram was released.
+Battle Ram|1|02/02/2017| maintenance break, made the battle ram unaffected by pushback. this was done before the battle ram was added in the game, to prepare for the upcoming challenge.
+Goblin Gang|0|24/02/2017|Goblin gang was released.
+Executioner|1|13/02/2017|A balance update, decreased the damage of the executioner by 6%, the range to 4.5 tiles (from 5 tiles), and the axe's radius to 0.9 tiles (from 1 tile). this update also fixed some glitches where the executioner's axe would hit enemies behind him when it came back, would do damage in front of him when the axe was at its furthest, cause enemy attack animations to reset to 0 when it hit small to medium sized enemies and caused him to sometimes throw his axe out of the arena and getting stuck.
+Poison|5|13/02/2017|A balance update, decreased its duration to 8 seconds (from 10 seconds), but increased its damage per second by 24%."
+03/2017,"Archers|7|16/03/2017|A maintenance break, fixed some unexpected behaviour that the archers showed.
+Lumberjack|5|13/03/2017|The march 2017 update, increased the rage's level such that a tournament standard lumberjack drops a tournament standard rage, a maxed lumberjack drops a maxed rage, etc.
+Dart Goblin|1|16/03/2017|A maintenance break, fixed some unexpected behaviour that the dart goblin showed.
+Electro Wizard|2|13/03/2017|The march 2017 update, removed his ability to permanently stun enemy troops.
+Executioner|2|13/03/2017|The march 2017 update, increased the axe's radius to 1 tile (from 0.9 tiles). this update also changed the artwork of the card and fixed all of the bugs of the executioner mentioned above.
+Bandit|0|24/03/2017|Bandit was released.
+Bomb Tower|6|13/03/2017|The march 2017 update, increased the bomb tower's projectile speed by 66%.
+X-Bow|6|16/03/2017|A maintenance break, fixed some unexpected behaviour that the x-bow showed.
+Arrows|3|13/03/2017|The march 2017 update, increased the travel speed of the arrows by 33%.
+The Log|4|13/03/2017|The march 2017 update, decreased the log's damage by 4% and decrease its rolling distance by 0.5 tiles (to 11.1 tiles from 11.6 tiles). on the same day, a bug was discovered where the log was not able to be deployed on top of buildings. to compensate for this, in a maintenance break, the rolling distance was restored to 11.6 tiles until the next client update.
+Tornado|2|13/03/2017|The march 2017 update, allowed the tornado to be placed on buildings.
+Clone|1|13/03/2017|The march 2017 update, stopped the clone from resetting charge attacks of cloned troops. while it will no longer reset charge attacks of the original troops, the clones spawn without being charged, retaining its behavior prior to this change."
+04/2017,"Balloon|6|19/04/2017|A balance update, increased the balloon's death damage delay to 3 seconds (from 1 second).
+Skeleton Army|7|19/04/2017|A balance update, decreased the number of skeletons spawned to 14 (from 15).
+Royal Giant|5|19/04/2017|A balance update, increased the royal giant's deployment time to 2 seconds (from 1 second).
+Lumberjack|6|19/04/2017|A balance update, increased the lumberjack's hitpoints by 4%.
+Electro Wizard|3|19/04/2017|A balance update, decreased his hit speed to 1.8 seconds (from 1.7 seconds).
+Elite Barbarians|3|19/04/2017|A balance update, decreased the elite barbarians' hit points by 4%, and delayed their initial attacks by 0.1 seconds.
+Executioner|3|19/04/2017|A balance update, increased the damage of the executioner by 6%.
+Goblin Hut|3|19/04/2017|A balance update, increased the goblin hut's hitpoints by 5%.
+Furnace|3|19/04/2017|A balance update, decreased the furnace's hitpoints by 5%."
+05/2017,Night Witch|0|31/05/2017|Night witch was released.
+06/2017,"Witch|10|12/06/2017|The june 2017 update, increased the witch's hitpoints by 5%, increased her area damage radius by 10%, decreased spawn speed to 7 seconds (from 7.5 seconds), and slowed the spawn speed of her first wave.
+Skeletons|6|12/06/2017|The june 2017 update, decreased the number of skeletons spawned to 3 (from 4). this changed the numeral ""four"" to ""three"" in the description.
+Inferno Dragon|2|12/06/2017|A june 2017 update, increased the inferno dragon's hitpoints by 7%, and decreased its re-targeting speed by 0.2 seconds.
+Goblin Gang|1|12/06/2017|A june 2017 update, decreased the goblin gang's spear goblin count by 1 (to 2 from 3). this also changed the description to match the number of troops spawned.
+Bandit|1|12/06/2017|The june 2017 update, allowed the bandit to initiate her dash ability quicker.
+Bandit|2|13/06/2017|A maintenance break, increased the bandit's hitpoints by 4%. this was supposed to happen the previous day in the mentioned balance changes, but it did not make it to the game. this got fixed.
+Night Witch|1|12/06/2017|The june 2017 update, decreased the night witch's bats spawned upon death to 3 (from 4), increased bat spawn speed to 6 seconds (from 5 seconds), and made her initial bats spawn slower.
+Bats|1|12/06/2017|The june 2017 update decreased the bat count to 4 (from 5). the bats had not been released at the time of the balance update.
+Poison|6|12/06/2017|The june 2017 update allowed multiple poison spells to stack.
+The Log|5|12/06/2017|The june 2017 update, decreased the log's rolling distance by 0.5 tiles (to 11.1 tiles from 11.6 tiles). the bug that prevented the log from being deployed on top of buildings was also fixed.
+Tornado|3|12/06/2017|A june 2017 update, decreased the tornado's duration by 0.5 seconds (to 2.5 seconds from 3 seconds), but allowed multiple tornado spells to stack.
+Clone|2|12/06/2017|The june 2017 update, made the cloning effect faster."
+07/2017,Bats|0|07/07/2017|Bats was released.
+08/2017,"Mini P.E.K.K.A|4|11/08/2017|A balance update, increased the mini p.e.k.k.a's damage by 4.6%.
+Ice Wizard|5|11/08/2017|A balance update, increased the ice wizard's damage by 10% and decreased his hit speed to 1.7 seconds (from 1.5 seconds).
+Dark Prince|6|11/08/2017|A balance update, increased the dark prince's damage by 6% and increased his hit speed to 1.4 seconds (from 1.5 seconds).
+Battle Ram|2|11/08/2017|A balance update, increased the distance required to initiate charging by 1 tile (to 4 tiles from 3 tiles) and delayed the barbarians' spawning by 0.2 seconds (from 0.8 seconds after the battle ram breaks to 1 second).
+Electro Wizard|4|11/08/2017|A balance update, decreased his hitpoints by 2%. this change was mostly made so that the mini p.e.k.k.a can defeat him in one shot.
+Night Witch|2|11/08/2017|A balance update, decreased the night witch's damage by 9%, her range to 1.65 tiles (from 1.85 tiles), her bat spawn speed to 7 seconds (from 6 seconds) and the number of bats spawned upon death to 2 (from 3).
+Bats|2|11/08/2017|A balance update, increased the bat count to 5 (from 4).
+Cannon Cart|0|05/08/2017|Cannon cart was released.
+Mortar|7|11/08/2017|A balance update, decreased the mortar's deployment time to 3.5 seconds (from 4 seconds).
+X-Bow|7|11/08/2017|A balance update, decreased the x-bow's deploy time to 3.5 seconds (from 4 seconds).
+Graveyard|1|11/08/2017|A balance update, decreased the graveyard's duration to 9 seconds (from 10 seconds), consequently causing it to spawn 2 fewer skeletons (15 instead of 17)."
+09/2017,Mega Knight|0|08/09/2017|Mega knight was released.
+10/2017,"Valkyrie|4|09/10/2017|The epic quests update, increased the valkyrie's damage by 5%.
+Spear Goblins|3|09/10/2017|The epic quests update, increased the spear goblins' hit speed to 1.1 seconds (from 1.3 seconds).
+Guards|3|09/10/2017|The epic quests update, fixed a bug where the inferno tower's and inferno dragon's damage did not reset after breaking the guards' shield. this change was reverted on 11/10/2017, in a maintenance break.
+Dark Prince|7|09/10/2017|The epic quests update, fixed a bug where the inferno tower's and inferno dragon's damage did not reset after breaking the dark prince's shield. this change was reverted on 11/10/2017, in a maintenance break.
+Sparky|1|09/10/2017|The epic quests update, decreased the sparky's damage by 15% but increased her hit speed to 4 seconds (from 5 seconds).
+Inferno Dragon|3|09/10/2017|The epic quests update, fixed a bug where the inferno dragon's damage did not reset after breaking a shield. this change was reverted on 11/10/2017, in a maintenance break.
+Goblin Gang|2|09/10/2017|The epic quests update, increased the spear goblins' hit speed to 1.1 seconds (from 1.3 seconds).
+Electro Wizard|5|09/10/2017|The epic quests update, decreased his damage by 4% and delayed his first attack by 0.2 seconds.
+Bandit|3|09/10/2017|The epic quests update, fixed a bug where she dashed a shorter distance than she normally should have.
+Cannon Cart|1|09/10/2017|The epic quests update, increased the cannon cart's hitpoints and shield hitpoints by 5%. the same update also fixed a bug where troops would stop targeting the cannon cart or get stuck behind a broken cannon cart. in addition, it fixed a bug where the inferno tower's and inferno dragon's damage did not reset after breaking the cannon cart's shield. this change was reverted on 11/10/2017, in a maintenance break.
+Mega Knight|1|09/10/2017|The epic quests update, fixed a bug where the mega knight would jump even if he was less than 4 tiles away from his target.
+Flying Machine|0|06/10/2017|Flying machine was released.
+Goblin Hut|4|09/10/2017|The epic quests update, increased the spear goblins' hit speed to 1.1 seconds (from 1.3 seconds).
+Inferno Tower|6|09/10/2017|The epic quests update, fixed a bug where the inferno tower's damage did not reset after breaking a shield. this change was reverted on 11/10/2017, in a maintenance break.
+Tesla|7|09/10/2017|The epic quests update, increased the tesla's damage by 41% but decreased its hit speed to 1 second (from 0.8 seconds).
+Lightning|3|09/10/2017|The epic quests update, reduced lightning's damage by 3%, and its radius to 3 tiles (from 3.5 tiles).
+Graveyard|2|09/10/2017|The epic quests update, increased the graveyard's duration to 10 seconds (from 9 seconds), reduced its radius to 4 tiles (from 5), made the first skeleton spawn 0.5 seconds slower, and made the spawn mechanics of the skeletons less random by making the skeletons spawn on the edge."
+11/2017,Skeleton Barrel|0|17/11/2017|Skeleton barrel was released.
+12/2017,"Knight|3|12/12/2017| the electrifying update, decreased the knight’s hit speed to 1.2 seconds (from 1.1 seconds).
+Goblins|2|12/12/2017| the electrifying update, decreased the goblins' damage by 6%.
+Prince|7|12/12/2017| the electrifying update, increased the prince’s hitpoints by 5% and his hit speed to 1.4 seconds (from 1.5 seconds).
+Giant Skeleton|5|12/12/2017| the electrifying update, increased the giant skeleton‘s hitpoints by 5%.
+Hog Rider|3|12/12/2017| the electrifying update, decreased the hog rider’s hit speed to 1.6 seconds (from 1.5 seconds) and delayed his first attack by 0.1 seconds.
+Guards|4|12/12/2017| the electrifying update, increased the guards’ hitpoints and damage by 5% and their hit speed to 1.1 seconds (from 1.2 seconds). it also made it so that the inferno tower's and inferno dragon's would now reset after breaking the guards' shield.
+Dark Prince|8|12/12/2017| the electrifying update reverted the dark prince to his state on 9/10/2017. more specifically, the inferno tower's and inferno dragon's damage would now reset after breaking the dark prince's shield.
+Inferno Dragon|4|12/12/2017| the electrifying update, reverted the inferno dragon to its state on 9/10/2017. more specifically, the inferno dragon's damage would now reset after breaking a shield.
+Ice Golem|4|12/12/2017| the electrifying update, decreased the ice golem‘s slow effect duration to 1 second (from 2 seconds)
+Goblin Gang|3|12/12/2017| the electrifying update, decreased the goblins’ damage by 6%.
+Hunter|0|12/12/2017|Hunter was released.
+Zappies|0|12/12/2017|Zappies was released.
+Cannon Cart|2|12/12/2017| the electrifying update reverted the cannon cart to its state on 9/10/2017. more specifically, the inferno tower's and inferno dragon's damage would now reset after breaking the cannon cart's shield.
+Skeleton Barrel|1|12/12/2017| the electrifying update allowed the skeleton barrel to deal death damage.
+Mortar|8|12/12/2017| the electrifying update, fixed a bug where the mortar would not shoot troops close to its blind spot.
+Inferno Tower|7|12/12/2017| the electrifying update, reverted the inferno tower to its state on 9/10/2017. more specifically, the inferno tower's damage would now reset after breaking a shield.
+Elixir Collector|7|12/12/2017| the electrifying update, decreased the elixir collector‘s hitpoints by 13%.
+Fireball|2|12/12/2017| the electrifying update, decreased the fireball’s crown tower damage from 40% to 35% of the full damage.
+Arrows|4|12/12/2017| the electrifying update, decreased the arrows’ crown tower damage from 40% to 35% of the full damage.
+Rocket|2|12/12/2017| a balance update, decreased the rocket’s crown tower damage from 40% to 35% of the full damage.
+Goblin Barrel|6|12/12/2017| the electrifying update, decreased the goblins’ damage by 6%.
+Lightning|4|12/12/2017| the electrifying update, decreased the lightning’s crown tower damage from 40% to 35% of the full damage.
+Zap|7|12/12/2017| the electrifying update, decreased the zap’s crown tower damage from 40% to 35% of the full damage.
+Poison|7|12/12/2017| the electrifying update, decreased the poison’s crown tower damage to 35% of the total damage (from 40%).
+The Log|6|12/12/2017| the electrifying update, decreased the log’s crown tower damage from 40% to 35% of the full damage."
+01/2018,"Mini P.E.K.K.A|5|24/01/2018|A balance update, increased the mini p.e.k.k.a's hitpoints by 7%.
+Lava Hound|4|24/01/2018|A balance update, increased the lava hounds hitpoints by 5%.
+Lumberjack|7|24/01/2018|A balance update, increased the lumberjack´s hitpoints by 7%.
+Hunter|1|24/01/2018|A balance update, decreased the hunter's range to 4 (from 5), and slightly decreased his bullet spread.
+Night Witch|3|24/01/2018|A balance update, made the night witch's initial bats spawn faster but also decreased her bats' hit speed to 1.1 seconds (from 1 second).
+Bats|3|24/01/2018|A balance update, decreased the bats' hit speed to 1.1 seconds (from 1 second).
+Royal Ghost|0|04/01/2018|Royal ghost was released.
+Royal Ghost|1|24/01/2018|A balance update, decreased the royal ghost's damage by 6%, hit speed decreased to 1.8 seconds (from 1.7 seconds), invisibility delay increased to 1.2 seconds (from 0.7 seconds).
+Zappies|1|24/01/2018|A balance update, gave zappies the ability to target air troops.
+Goblin Hut|5|24/01/2018|A balance update, decreased the spawn speed to 5 seconds (from 4.9 seconds). this change makes the goblin hut spawn 1 fewer spear goblin.
+Mortar|9|24/01/2018|A balance update, decreased the minimum range to 3.5 tiles (from 4.5 tiles)."
+02/2018,"Knight|4|12/02/2018|A balance update, decreased the knight's hitpoints by 6%.
+Valkyrie|5|12/02/2018|A balance update, increased the valkyrie's hit speed to 1.4 seconds (from 1.5 seconds).
+Dark Prince|9|12/02/2018|A balance update, increased the dark prince's hitpoints by 5% and increased his hit speed to 1.3 seconds (from 1.4 seconds).
+Inferno Dragon|5|12/02/2018|A balance update, increased the inferno dragon’s re-targeting time.
+Bandit|4|12/02/2018|A balance update, decreased her minimum dash range to 3.5 tiles (from 4 tiles).
+Mega Knight|2|12/02/2018|A balance update, decreased both his spawn and jump damage by 25%, and reduced his deployment radius, such that he will no longer be able to hit beyond the river with his spawn damage.
+Skeleton Barrel|2|12/02/2018|A balance update, decreased the number of spawned skeletons to 6 (from 8)."
+03/2018,Magic Archer|0|02/03/2018|Magic archer was released.
+04/2018,"Knight|5|25/04/2018|The clan wars update, increased the knight’s hitpoints by 3%.
+Witch|11|25/04/2018|The clan wars update, fixed a bug where the witch would switch targets if spawning skeletons pushed her target out of range.
+Spear Goblins|4|25/04/2018|The clan wars update, decreased the spear goblins‘ hit speed to 1.2 seconds (from 1.1 seconds).
+Dark Prince|10|25/04/2018|The clan wars update, decreased the dark prince’s shield hitpoints by 25%.
+Ice Spirit|3|25/04/2018|The clan wars update, decreased the ice spirit's damage by 4% and freeze duration to 1 second (from 1.5 seconds).
+Sparky|2|25/04/2018|The clan wars update, fixed a bug where sparky's hit would reset if she was knocked out of range while charging.
+Dart Goblin|2|25/04/2018|The clan wars update, increased the dart goblin’s damage by 3%. the update also slightly changed his description. it used to read “runs fast, shoots far and chews gum. how does he blow darts with a mouth full of gum? years of didgeridoo lessons.”. this was due to the release of the rascals and their description, “spawns a mischievous trio of rascals! the boy takes the lead, while the girls pelt enemies from behind… with slingshots full of double trouble gum!”
+Goblin Gang|4|25/04/2018|The clan wars update, decreased the spear goblins' hit speed to 1.2 seconds (from 1.1 seconds).
+Hunter|2|25/04/2018|The clan wars update, fixed a bug where the hunter could not hit targets on top of him.
+Cannon Cart|3|25/04/2018|The clan wars update, changed the death animation of the cannon cart. the same update also fixed a bug where the cannon cart was not being targeted after losing its shield.
+Skeleton Barrel|3|25/04/2018|The clan wars update, increased the number of spawned skeletons to 7 (from 6).
+Magic Archer|1|25/04/2018|The clan wars update, increased the magic archer's projectile speed, making him less likely to miss very fast moving troops.
+Goblin Hut|6|25/04/2018|The clan wars update, decreased the spear goblins’ hit speed to 1.2 seconds (from 1.1 seconds).
+Mortar|10|25/04/2018|The clan wars update, changed the mortar's card description. it used to read “defensive building with a long range. shoots exploding boulders that deal area damage. cannot shoot at targets that get very close!”
+Fireball|3|25/04/2018|The clan wars update, allowed the fireball to be placed on the river.
+Arrows|5|25/04/2018|The clan wars update, allowed the arrows to be placed on the river.
+Rage|6|25/04/2018|The clan wars update, allowed the rage to be directly placed on the river.
+Rocket|3|25/04/2018|The clan wars update, allowed the rocket to be placed on the river.
+Freeze|4|25/04/2018|The clan wars update, allowed the freeze to be placed on the river.
+Lightning|5|25/04/2018|The clan wars update, increased the lightning’s radius to 3.5 tiles (from 3 tiles). it also allowed the lightning to be placed on the river.
+Zap|8|25/04/2018|The clan wars update, allowed the zap to be placed on the river.
+Poison|8|25/04/2018|The clan wars update, allowed the poison to be placed on the river.
+Graveyard|3|25/04/2018|The clan wars update, allowed the graveyard to be placed on the river.
+The Log|7|25/04/2018|The clan wars update, allowed the log to be placed on the river if a crown tower has been already destroyed.
+Tornado|4|25/04/2018|The clan wars update, increased the tornado‘s damage per second by 21%, but also decreased the duration by 0.5 sec (from 2.5 sec to 2 sec). it also allowed the tornado to be placed on the river.
+Clone|3|25/04/2018|The clan wars update, allowed the clone to be placed on the river.
+Barbarian Barrel|0|06/04/2018|Barbarian barrel was released.
+Barbarian Barrel|1|25/04/2018|The clan wars update, increased the barbarian barrel’s range to 7 (from 6.5). it also allowed the barbarian barrel to be placed on the river if a crown tower has been already destroyed."
+05/2018,Rascals|0|25/05/2018|Rascals was released.
+06/2018,"Minions|3|20/06/2018|The summer 2018 update, gave the minions a new 0.15 seconds deploy stagger from each other. it also moved the arena to unlock this card from bone pit (arena 2) to training camp.
+Barbarians|3|04/06/2018| balance update, increased the barbarians‘ hit speed to 1.4 seconds (from 1.5 seconds). it also increased the distance between the barbarians upon deployment.
+Valkyrie|6|04/06/2018| balance update, increased the valkyrie‘s hitpoints by 7% and made her first attack faster.
+Prince|8|20/06/2018|The summer 2018 update, increased the distance required for charging to 3.5 tiles (from 2.5 tiles).
+Wizard|7|04/06/2018| balance update, increased the wizard’s damage by 2% and his area damage radius by 25%.
+Spear Goblins|5|04/06/2018| balance update, increased the spear goblins’ damage by 34%, but also increased their hit speed to 1.7 seconds (from 1.2 seconds) and made their first attack slower.
+Hog Rider|4|20/06/2018|The summer 2018 update, moved the arena to unlock the hog rider from p.e.k.k.a's playhouse (arena 4) to goblin stadium (arena 1).
+Minion Horde|3|20/06/2018|The summer 2018 update, gave the minion horde a new 0.15 seconds deploy stagger from each other.
+Dark Prince|11|20/06/2018|The summer 2018 update, increased the distance required for charging to 3.5 tiles (from 2.5 tiles).
+Sparky|3|20/06/2018|The summer 2018 update, moved the arena to unlock the sparky from builder's workshop (arena 6) to electro valley (arena 11).
+Battle Ram|3|04/06/2018| balance update, increased the barbarians' hit speed to 1.4 seconds (from 1.5 seconds) and made the battle ram affected by all forms of pushback.
+Battle Ram|4|20/06/2018|The summer 2018 update, decreased the distance required to charge to 3.5 tiles (from 4 tiles). it also moved the arena to unlock this card from builder's workshop (arena 6) to barbarian bowl (arena 3).
+Ice Golem|5|04/06/2018| balance update, decreased the ice golem's hitpoints by 5%.
+Goblin Gang|5|04/06/2018| balance update, increased the spear goblins’ damage by 34%, but also decreased their hit speed to 1.7 seconds (from 1.2 seconds) and made their first attack slower.
+Royal Ghost|2|04/06/2018| balance update, delayed the royal ghost’s invisibility to 1.6 seconds (from 1.2 seconds).
+Mega Knight|3|04/06/2018| balance update, increased both his spawn and jump damage by 23%, but also decreased his area damage by 7.5%.
+Mega Knight|4|20/06/2018|The summer 2018 update, decreased his minimum jump range to 3.5 tiles (from 4 tiles).
+Royal Hogs|0|20/06/2018|Royal hogs was released.
+Magic Archer|2|20/06/2018|The summer 2018 update, fixed a bug where the magic archer would extend his range and accidentally activate the king tower. it also moved the arena to unlock the magic archer from electro valley (arena 11) to hog mountain (arena 10).
+Cannon|6|20/06/2018|The summer 2018 update, fixed a bug where the cannon would occasionally stop shooting at the edge of its range.
+Goblin Hut|7|04/06/2018| balance update, increased the spear goblins’ damage by 34%, but also decreased their hit speed to 1.7 seconds (from 1.2 seconds), make their first attack slower and decreased the goblin hut’s lifetime to 50 sec (from 60 sec).
+Mortar|11|20/06/2018|The summer 2018 update, fixed a bug where the mortar would occasionally stop shooting at the edge of its range.
+Inferno Tower|8|20/06/2018|The summer 2018 update, fixed a bug where the inferno tower would occasionally stop shooting at the edge of its range.
+Bomb Tower|7|20/06/2018|The summer 2018 update, moved the arena to unlock the bomb tower from bone pit (arena 2) to hog mountain (arena 10). it also fixed a bug where the bomb tower would occasionally stop shooting at the edge of its range.
+Barbarian Hut|3|04/06/2018| balance update, increased the barbarians‘ hit speed to 1.4 seconds (from 1.5 seconds).
+Tesla|8|20/06/2018|The summer 2018 update, moved the arena to unlock the tesla from p.e.k.k.a.'s playhouse (arena 4) to electro valley (arena 11). it also fixed a bug where the tesla would occasionally stop shooting at the edge of its range.
+X-Bow|8|20/06/2018|The summer 2018 update, moved the arena to unlock the x-bow from barbarian bowl (arena 3) to builder's workshop (arena 6). it also fixed a bug where the x-bow would occasionally stop shooting at the edge of its range.
+Mirror|8|20/06/2018|The summer 2018 update, changed the mirror such that, if used in a deck, will never appear as one of the cards in the player's opening hand. it also moved the arena to unlock this card from spell valley (arena 5) to electro valley (arena 11).
+Mirror|9|27/06/2018|An optional update, changed the mirror such that it will never appear as one of the cards in the player's opening hand during draft battles.
+Tornado|5|20/06/2018|The summer 2018 update, moved the arena to unlock the tornado from builder's workshop (arena 6) to frozen peak (arena 8).
+Clone|4|20/06/2018|The summer 2018 update, increased the clone's radius to 4 tiles (from 3 tiles). it also moved the arena to unlock this card from frozen peak (arena 8) to electro valley (arena 11).
+Barbarian Barrel|2|04/06/2018| balance update, increased the barbarian‘s hit speed to 1.4 sec (from 1.5 sec).
+Barbarian Barrel|3|20/06/2018|The summer 2018 update, increased the barbarian barrel's damage by 17%, and allow the user to see where the spawned barbarian will be after it is used. it also moved the arena to unlock this card from hog mountain (arena 10) to barbarian bowl (arena 3).
+Giant Snowball|0|20/06/2018|Giant snowball was released."
+07/2018,"Goblins|3|02/07/2018| balance update, decreased the goblins' hitpoints by 1%. this was to fix an inconsistency with minions that could not take out goblins in two hits at the same level.
+Witch|12|02/07/2018| balance update, increased the witch's hitpoints by 17%, decreased her spawn speed to 5 seconds (from 7 seconds), and decreased her hit speed to 1 second (from 0.7 seconds).
+Bomber|8|02/07/2018| balance update, increased the bomber's range to 5 tiles (from 4.5 tiles).
+Fire Spirit|2|02/07/2018| balance update, increased the fire spirits' area damage by 5%.
+Mega Minion|4|02/07/2018| balance update, decreased the mega minion's hit speed to 1.6 seconds (from 1.5 seconds).
+Goblin Gang|6|02/07/2018| balance update, decreased the goblins' hitpoints by 1%. this was to fix an inconsistency with minions that could not take out goblins in two hits at the same level.
+Royal Recruits|1|27/07/2018|Prior to the card's general release, a maintenance break, increased the royal recruits' elixir cost to 8 (from 6).
+Rascals|1|02/07/2018| balance update, decreased the rascal boy's hitpoints by 5.3% and made the rascal girls' initial attack slower.
+Royal Hogs|1|02/07/2018| balance update, added the royal hogs to clan wars collection day card pool.
+Mortar|12|02/07/2018| balance update, decreased the mortar's area damage by 3.5% and its hitpoints by 4%.
+Furnace|4|02/07/2018| balance update, increased the fire spirits' area damage by 5%.
+Goblin Barrel|7|02/07/2018| balance update, decreased the goblins' hitpoints by 1%. this was to fix an inconsistency with minions that could not take out goblins in two hits at the same level."
+08/2018,"Knight|6|06/08/2018| balance update, increased the knight's damage by 5%.
+Balloon|7|06/08/2018| balance update, allowed the balloon to be knocked back.
+Baby Dragon|5|06/08/2018| balance update, increased the baby dragon's hit speed to 1.5 seconds (from 1.6 seconds) but allow it to be knocked back as well.
+Inferno Dragon|6|06/08/2018| balance update, decreased the inferno dragon's range to 3.5 (from 4) and allowed it to be knocked back.
+Royal Recruits|0|07/08/2018|Royal recruits was released.
+Cannon Cart|4|06/08/2018| balance update, increased the cannon cart's cannon phase lifetime to 30 sec (from 20 sec), accelerated the cannon deploy animation and gave it knock-back immunity.
+Royal Hogs|2|06/08/2018| balance update, made the royal hogs' first attack quicker.
+Bomb Tower|8|06/08/2018| balance update, decreased the bomb tower's elixir cost to 4 (from 5), but also decreased its lifetime to 35 sec (from 40 sec) and its hitpoints by 33%.
+Tesla|9|06/08/2018| balance update, decreased the tesla's lifetime to 35 seconds (from 40 seconds) and increased its hit speed to 1.1 seconds (from 1 second)."
+09/2018,"Witch|13|03/09/2018| balance update, decreased the witch's hitpoints by 3.5%.
+Valkyrie|7|03/09/2018| balance update, decreased the valkyrie's hit speed to 1.6 seconds (from 1.4 seconds).
+Prince|9|03/09/2018| balance update, increased the prince's hitpoints by 5%.
+Bandit|5|05/09/2018|He september 2018 update, changed it so that legendary cards start at level 9 and end at level 13 (from 1 to 5). it also made the bandit immune to damage while dashing, instead of untargetable.
+Royal Recruits|2|03/09/2018| balance update, increased the royal recruits damage by 12%, and slightly changed their spawn formation, allowing the royal recruits to be split to 2-4 or 4-2.
+Zappies|2|03/09/2018| balance update, changed the reload mechanics by slowing down their first attack after moving but preventing them from being stun-locked by other zappies.
+Cannon Cart|5|03/09/2018| balance update, decreased the cannon cart's range to 5 tiles (from 5.5 tiles).
+Royal Hogs|3|03/09/2018| balance update, decreased the royal hogs' hit speed to 1.2 seconds (from 1.1 seconds).
+Goblin Giant|0|05/09/2018|Goblin giant was released.
+Lightning|6|03/09/2018| balance update, increased the lightning's damage by 5%.
+Barbarian Barrel|4|03/09/2018| balance update, decreased the barbarian barrel's elixir cost to 2 (from 3), decreased its range to 5 (from 7), decreased its damage by 9%, and removed its ability to knock back troops."
+10/2018,"Skeleton Army|8|01/10/2018|A balance update, increased the number of skeletons spawned to 15 (from 14).
+Ice Wizard|6|01/10/2018|A balance update, increased the ice wizard's slowdown duration to 2.5 seconds (from 2 seconds). this card won the vote for the 8th card of the balance update.
+Royal Giant|6|01/10/2018|A balance update, decreased the royal giant's range to 5 tiles (from 6.5 tiles), but increased his damage by 60% and decreased the deployment time to 1 second (from 2 seconds).
+Goblin Giant|1|01/10/2018|A balance update, increased the goblin giant's hitpoints by 6%.
+Goblin Hut|8|01/10/2018|A balance update, increased the goblin hut's spawn speed to 4.75 seconds (from 5 seconds). this change made the goblin hut spawn 1 more spear goblin.
+Bomb Tower|9|01/10/2018|A balance update, increased the bomb tower's damage by 5%.
+Fireball|4|01/10/2018|A balance update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+Arrows|6|01/10/2018|A balance update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+Rocket|4|01/10/2018|A balance update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+Lightning|7|01/10/2018|A balance update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+Zap|9|01/10/2018|A balance update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+Poison|9|01/10/2018|A balance update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+The Log|8|01/10/2018|A balance update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+Tornado|6|01/10/2018|A balance update, fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+Clone|5|01/10/2018|A balance update, fixed a bug where troops that were spawned after their parent troops died could not be cloned.
+Barbarian Barrel|5|01/10/2018|A balance update, made the barbarian barrel roll faster and deploy the barbarian quicker. it also fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage.
+Giant Snowball|1|01/10/2018|A balance update, increased the giant snowball's slow duration to 2.5 seconds (from 2 seconds) and damage by 10%. it also fixed a bug where troops that were spawned after their parent troops died would be immune to spell damage."
+11/2018,"Giant|6|05/11/2018|A balance update, decreased the giant's hitpoints by 2%.
+Dart Goblin|3|05/11/2018|A balance update, increased the dart goblin's damage by 4%. this change was voted for by the community.
+Royal Ghost|3|05/11/2018|A balance update, decreased the royal ghost's hitpoints by 9%.
+Cannon Cart|6|05/11/2018|A balance update, decreased the cannon cart's hit speed to 1.3 seconds (from 1.2 seconds).
+Mega Knight|5|05/11/2018|A balance update, increased his hitspeed to 1.7 seconds (from 1.8 seconds).
+Skeleton Barrel|4|05/11/2018|A balance update, increased the skeleton barrel's death damage by 62%.
+Royal Hogs|4|05/11/2018|A balance update, decreased the royal hogs' damage by 6%, and reduced their mass by 50%.
+Magic Archer|3|05/11/2018|A balance update, increased the magic archer's first attack speed to 0.9 seconds (from 0.4 seconds).
+Electro Dragon|0|09/11/2018|Electro dragon was released.
+Inferno Tower|9|05/11/2018|A balance update, increased the inferno tower's hitpoints by 3%.
+Tombstone|8|05/11/2018|A balance update, decreased the tombstone's spawn speed to 3.1 seconds, and reduced the skeletons spawned upon death to 3 (from 4). the card's flavor text was likewise updated."
+12/2018,"Archers|8|03/12/2018|A balance update, increased the archers’ damage by 2.5%, but also decreased their hitpoints by 1%.
+Archers|9|05/12/2018|The december 2018 update, increased the archer's range to 5.5 tiles (from 5 tiles). this change was not mentioned in any change notes and was later said to be unintentional by supercell, and as such it got reverted in 7/12/2018, in a maintenance break.
+Ice Wizard|7|03/12/2018|A balance update, decreased the ice wizard’s hitpoints by 11% but also increased his damage by 10%.
+Sparky|4|05/12/2018|The december 2018 update, increased the sparky's range to 5 tiles (from 4.5 tiles). this change was not mentioned in any change notes and was later said to be unintentional by supercell, and as such it got reverted in 7/12/2018, in a maintenance break.
+Bowler|3|05/12/2018|The december 2018 update, increased the bowler's range to 5.5 tiles (from 5 tiles). this change was not mentioned in any change notes and was later said to be unintentional by supercell, and as such it got reverted in 7/12/2018, in a maintenance break.
+Royal Recruits|3|03/12/2018|A balance update, decreased the royal recruit's elixir cost to 7 (from 8), but also decreased their hit speed to 1.3 seconds (from 1.2 sec).
+Ram Rider|0|25/12/2018|Ram rider was released.
+Electro Dragon|1|03/12/2018|A balance update, decreased the electro dragon’s hitpoints by 5% and made its first attack slower.
+Tesla|10|03/12/2018|A balance update, made the tesla’s first attack faster.
+Elixir Collector|8|05/12/2018|The december 2018 update, changed the elixir collector such that, if used in a deck, will never appear as one of the cards in the player's opening hand. its description was also changed. previously, its description was ""you gotta spend elixir to make elixir!"".
+Freeze|5|05/12/2018|The december 2018 update, set the freeze's duration to 5 seconds for every level and made the spell deal area damage.
+Barbarian Barrel|6|03/12/2018|A balance update, decreased the barbarian barrel’s damage by 4%.
+Giant Snowball|2|03/12/2018|A balance update, increased the giant snowball’s damage by 14%."
+01/2019,"Balloon|8|28/01/2019|The january 2019 update, moved the arena to unlock the balloon from bone pit (arena 2) to builder’s workshop (arena 6).
+Golem|7|07/01/2019| balance update, halved the amount of pushback caused by a golemite's death damage (from 1.8 tiles to 0.9 tiles).
+Valkyrie|8|07/01/2019| balance update, increased the valkyrie's hit speed to 1.5 seconds (from 1.6 seconds).
+Sparky|5|07/01/2019| balance update, reverted the sparky to her state on 5/12/2018. more specifically, the sparky's range was increased to 5 tiles (from 4.5 tiles).
+Battle Ram|5|07/01/2019| balance update, decreased the ram's damage and charge damage by 11%.
+Ram Rider|1|28/01/2019|The january 2019 update, changed the ram rider's card description. it used to read “her bola snares enemy troops while ram heads for the nearest building! rams and hogs don't mingle at parties…”
+Mega Knight|6|28/01/2019|The january 2019 update, moved the arena to unlock the mega knight from hog mountain (arena 10) to royal arena (arena 7).
+Goblin Giant|2|07/01/2019| balance update, increased the goblin giant's hitpoints by 3%, and increased the range of the spear goblins in the backpack to 5.5 tiles (from 5 tiles).
+Magic Archer|4|07/01/2019| balance update, decreased the magic archer's first attack speed to 0.6 seconds (from 0.9 seconds).
+Barbarian Hut|4|07/01/2019| balance update, decreased the barbarian hut's hitpoints by 7%.
+Freeze|6|07/01/2019| balance update, reduced the freeze's crown tower damage by 65%, to be consistent with all other damaging spells.
+Clone|6|28/01/2019|The january 2019 update, made the cloned troops spawn behind the original troops instead of to the right.
+Barbarian Barrel|7|07/01/2019| balance update, decreased the barbarian barrel’s deploy time (the barbarian will not attack for 0.15 seconds after jumping out of the barrel, allowing other units to be placed close to it so that it retargets onto those)."
+02/2019,"Knight|7|04/02/2019| balance update, increased the knight's hitpoints by 2.5%.
+Musketeer|5|04/02/2019| balance update, increased the musketeer's damage by 3%.
+Three Musketeers|3|04/02/2019| balance update, increased the three musketeers' elixir cost to 10 (from 9) but also increased the musketeer's damage by 3%.
+Three Musketeers|4|13/02/2019|An optional update, made it so that mirroring three musketeers would no longer display the cost of 11 elixir.
+Dart Goblin|4|04/02/2019| balance update, decreased the dart goblin's hit speed to 0.7 sec (from 0.65 sec).
+Cannon Cart|7|04/02/2019| balance update, increased the cannon cart's hit speed to 1.2 seconds (from 1.3 seconds).
+Wall Breakers|0|26/02/2019|Wall breakers was released.
+Freeze|7|04/02/2019| balance update, decreased the freeze's duration to 4 seconds (from 5) and decreased its damage by 6%.
+Mirror|10|13/02/2019|An optional update, made it so that mirroring three musketeers would no longer display the cost of 11 elixir."
+03/2019,"Barbarians|4|04/03/2019| balance update, decreased the barbarians' hitpoints by 13%. it also increased the barbarians' count to 5 (from 4) and gave the barbarians a new 0.15 second deploy stagger from each other.
+Battle Ram|6|04/03/2019| balance update, decreased the barbarians' hitpoints by 13%.
+Goblin Gang|7|04/03/2019| balance update, gave the goblin gang a new 0.15 seconds deploy stagger from each other.
+Bats|4|04/03/2019| balance update, gave the bats a new 0.15 seconds deploy stagger from each other.
+Rascals|2|04/03/2019| balance update, gave the rascals a new 0.15 seconds deploy stagger from each other.
+Rascals|3|11/03/2019|A maintenance break changed the deployment of the rascals by making the rascal boy spawn first instead of the rascal girls.
+Wall Breakers|1|04/03/2019| balance update, increased the wall breakers' hit speed to 1.2 seconds (from 1.5 seconds).
+Bomb Tower|10|04/03/2019| balance update, added death damage to the bomb tower (does 2x normal damage).
+Barbarian Hut|5|04/03/2019| balance update, decreased the barbarians' hitpoints by 13%.
+X-Bow|9|04/03/2019| balance update, increased the x-bow's hitpoints by 4%.
+Barbarian Barrel|8|04/03/2019| balance update, decreased the barbarian's hitpoints by 13%."
+04/2019,"Witch|14|01/04/2019| balance update, made the witch spawn 3 additional skeletons upon death.
+Giant Skeleton|6|01/04/2019| balance update, made the giant skeleton’s first attack delay shorter (from 0.5 seconds to 0.3 seconds) and increased his mass from 15 to 18.
+Bandit|6|01/04/2019| balance update, decreased her hitpoints by 4%.
+Ram Rider|2|01/04/2019| balance update, reduced the ram rider's snare movement speed reduction from 100% to 85%.
+Flying Machine|1|01/04/2019| balance update, reduced the flying machine's hit speed to 1.1 seconds (from 1 second).
+Goblin Giant|3|15/04/2019|The april 2019 update, fixed a bug where the goblin giant's spear goblins would not despawn correctly if the goblin giant scored a touchdown, causing the spear goblins to remain intact and score a consecutive touchdown immediately upon the beginning of the next round.
+Goblin Hut|9|01/04/2019| balance update, increased the goblin hut's spawn speed to 4.5 seconds (from 4.75 seconds).
+Goblin Hut|10|15/04/2019|The april 2019 update, changed the goblin hut's card image and also added an extra star level. the card's description flavour text was also changed slightly. it used to read “building that spawns spear goblins. but don't look inside. you don't want to see how they are made.”
+Clone|7|15/04/2019|The april 2019 update, reduced the clone's radius to 3 tiles (from 4 tiles).
+Earthquake|0|15/04/2019|Earthquake was released."
+05/2019,"Bomber|9|06/05/2019| balance update, increased the bomber's hitpoints by 28%.
+Princess|5|06/05/2019| balance update, increased princess' projectile speed by 33%.
+Dark Prince|12|06/05/2019| balance update, increased his range by 20% and increased his area splash radius by 25%. the area splash radius change affects both his normal attack and charging 360º attack.
+Three Musketeers|5|06/05/2019| balance update, decreased the three musketeers' cost to 9 (from 10) but also increased their deploy time to 3 seconds (from 1 second) and added a 0.15 second deploy time between each musketeer.
+Wall Breakers|2|06/05/2019| balance update, increased the wall breakers' damage by 10%, their range by 100%, and re-centered their splash radius to damage nearby troops when attacking. the damage increase was not stated in the balance update video but is mentioned in the official release notes and on the clash royale twitter page.
+Goblin Cage|0|17/05/2019|Goblin cage was released.
+Goblin Barrel|8|06/05/2019| balance update, decreased the deploy time of the goblins released from the goblin barrel to 1.1 seconds (from 1.2 seconds)."
+06/2019,"Elite Barbarians|4|03/06/2019| balance update, increased the elite barbarians' damage by 18%, but increased their hit speed to 1.7 seconds (from 1.5 seconds).
+Rascals|4|03/06/2019| balance update, decreased the rascal boy’s hit speed by 13% (1.3sec → 1.5sec).
+Wall Breakers|3|03/06/2019| balance update, changed the sound and visual effects of the wall breakers.
+Arrows|7|03/06/2019| balance update, increased the travel speed of the arrows by 37%.
+Earthquake|1|03/06/2019| balance update, made it so that the earthquake would appear more often in clan wars.
+Barbarian Barrel|9|03/06/2019| balance update, decreased the barbarian barrel's damage by 10.5%."
+07/2019,"Knight|8|01/07/2019|He july 2019 update, increased the knight's range to 1.2 tiles (from 1 tile), now classified as melee: medium.
+Minions|4|01/07/2019|He july 2019 update, decreased the minions' range to 1.6 tiles (from 2 tiles), now classified as melee: long.
+Valkyrie|9|01/07/2019|He july 2019 update, increased the valkyrie's range to 1.2 tiles (from 1 tile), now classified as melee: medium, and increased its splash radius to 2.4 tiles (from 2 tiles).
+Prince|10|01/07/2019|He july 2019 update, decreased the prince's range to 1.6 tiles (from 1.85 tiles), now classified as melee: long.
+Mini P.E.K.K.A|6|01/07/2019|He july 2019 update, increased the mini p.e.k.k.a's range to 1.2 tiles (from 1.05 tiles), now classified as melee: medium.
+Minion Horde|4|01/07/2019|He july 2019 update, decreased the minions' range to 1.6 tiles (from 2 tiles), now classified as melee: long.
+Dark Prince|13|01/07/2019|He july 2019 update, decreased the dark prince's range to 1.2 tiles (from 1.25 tiles), now classified as melee: medium. this also slightly decreased the splash radius of both his normal attack and charging attack by 5%.
+Miner|4|01/07/2019|He july 2019 update, decreased the miner's range to 1.2 tiles (from 1.3 tiles), now classified as melee: medium.
+Mega Minion|5|01/07/2019|He july 2019 update, decreased the mega minion's range to 1.6 tiles (from 2 tiles), now classified as melee: long.
+Elite Barbarians|5|01/07/2019|He july 2019 update, increased the elite barbarians' range to 1.2 tiles (from 1 tile), now classified as melee: medium.
+Night Witch|4|01/07/2019|He july 2019 update, decreased the night witch's range to 1.6 tiles (from 1.65 tiles), now classified as melee: long.
+Rascals|5|01/07/2019|He july 2019 update, decreased the rascal boy's range to 0.8 tiles (from 1 tile), now classified as melee: short.
+Cannon Cart|8|01/07/2019|He july 2019 update, increased the cannon cart's hitspeed to 1 second (from 1.2 seconds), increased its range to 5.5 tiles (from 5 tiles), and decreased the damage by 17%. it also increased the base hitpoints and shield hitpoints by 1.5%.
+Mega Knight|7|01/07/2019|He july 2019 update, increased the mega knight's range to 1.2 tiles (from 1 tile), now classified as melee: medium.
+Goblin Giant|4|01/07/2019|He july 2019 update, decreased the goblin giant's range to 1.2 tiles (from 1.25 tiles), now classified as melee: medium.
+Cannon|7|01/07/2019|He july 2019 update, increased the cannon's damage by 32% but decreased its hit speed to 1 second (from 0.8 seconds). there was also an unannounced change to cannon's first hit speed, an increase to 1 second (from 0.7 seconds).
+Inferno Tower|10|01/07/2019|He july 2019 update, decreased the inferno tower's lifetime to 30 seconds (from 40 seconds).
+Goblin Cage|1|01/07/2019|He july 2019 update, increased the goblin cage's lifetime to 20 sec (from 15 sec), and also increased the damage of the goblin brawler by 25%. his description was also updated; previously saying ""when the goblin cage is destroyed, a goblin brawler is unleashed into the arena! goblin brawler never skips leg day."" it also added the goblin cage as a trophy road reward.
+Rage|7|01/07/2019|He july 2019 update, removed the rage from all draft selections.
+Mirror|11|01/07/2019|He july 2019 update, removed the mirror from all draft selections.
+Barbarian Barrel|10|01/07/2019|He july 2019 update, fixed a bug where the barbarian barrel's width was actually 3.9 tiles (decrease of 1.3 tiles to correctly match vision of barbarian barrel's width: 2.6 tiles).
+Giant Snowball|3|01/07/2019|He july 2019 update, reduced the giant snowball's radius to 2.5 tiles (from 3 tiles)."
+08/2019,"P.E.K.K.A|6|05/08/2019| balance update, decreased the p.e.k.k.a's hitpoints by 9.5% but increased her range to 1.6 tiles (from 0.7 tiles), now classified as melee: long.
+Valkyrie|10|05/08/2019| balance update, fixed a bug where the valkyrie's range was actually 1.9 tiles (decreased by 0.7 tiles to correctly match melee: medium's 1.2 tiles).
+Lumberjack|8|05/08/2019| balance update, decreased the lumberjack's hit speed to 0.8 seconds (from 0.7 seconds).
+Fisherman|0|05/08/2019|Fisherman was released.
+Magic Archer|5|05/08/2019| balance update, increased the magic archer's damage by 16% but decreased his hit speed to 1.1 seconds (from 1 second).
+Barbarian Barrel|11|05/08/2019| balance update, decreased the barbarian barrel's damage by 15%."
+09/2019,"P.E.K.K.A|7|02/09/2019| balance update, decreased the p.e.k.k.a's range to 1.2 tiles (from 1.6 tiles), now classified as melee: medium.
+Dark Prince|14|02/09/2019| balance update, decreased the dark prince's splash radius to 1.1 tiles (from 1.2 tiles).
+Executioner|4|02/09/2019| balance update, reworked the executioner by increasing his damage by 82% and decreasing his axe return time to 1 second (from 1.5 seconds). however, his range was decreased to be between 3-4.5 tiles (from 4.5-6.5 tiles), and his hitpoints were reduced by 5%.
+Executioner|5|05/09/2019| maintenance break, increased the executioner's damage by 2% and increased his initiation range to 4 tiles from 3 tiles. his axe still only reaches 4.5 tiles far.
+Royal Ghost|4|02/09/2019| balance update, increased the royal ghost's splash radius to 1 tile (from 0.8 tiles).
+Fisherman|1|02/09/2019| balance update, decreased the fisherman's damage by 11% and his elixir cost (from 4 to 3 elixir).
+Fisherman|2|05/09/2019| maintenance break, decreased the fisherman's hitpoints by 5%.
+Goblin Cage|2|02/09/2019| balance update, decreased the goblin brawler's movement speed to fast (from very fast)."
+10/2019,"Witch|15|07/10/2019|A balance update, increased the witch's damage by 220%, reduced her area damage radius by 45%, decreased her health by 12%, increased her attack speed to 1.4 seconds (from 1 second), and removed the 3 skeletons that spawned upon death. her skeleton summoning speed also changed to 7 sec (from 5 sec), and she now spawns skeletons in a plus shape around her. her sound effects also changed slightly.
+Hunter|3|07/10/2019|A balance update, increased the hunter's damage by 2%.
+Executioner|6|01/10/2019|A maintenance break, corrected the executioner's stats.
+Night Witch|5|07/10/2019|A balance update, increased the night witch's number of bats summoned on death to 4 (from 2).
+Wall Breakers|4|07/10/2019|A balance update, lowered the wall breaker's elixir cost to 2 (from 3), their damage was decreased by 10%, and their mass was increased by 100%. the deploy position of the wall breakers was also tweaked slightly, putting them a bit closer together.
+Fisherman|3|07/10/2019|A balance update, decreased the fisherman's hitpoints by 5% and his damage by 6%.
+Giant Snowball|4|07/10/2019|A balance update, reduced the push back of the giant snowball to 1.5 tiles (from 1.8 tiles)."
+11/2019,"Witch|16|04/11/2019|A balance update, removed the witch's area damage, decreased her attack speed from 1.4 to 1.7 seconds and set the first skeleton spawn from 1 second to 3.5 seconds. her mass also increased by 100% so that she could no longer be pushed by skeletons.
+Witch|17|26/11/2019| the end of november 2019 update, added area damage to the witch's attacks, decreased her damage by 49%, and increased her hit speed to 1.1 seconds (from 1.7 seconds).
+Baby Dragon|6|04/11/2019|A balance update, decreased the baby dragon's hitpoints by 4%.
+Executioner|7|04/11/2019|A balance update, increased his axe's maximum flying distance to 5 tiles (from 4.5 tiles), increased the axe's hover time by to 1.2 seconds (from 1 second), and decreased his axe's area damage radius to 0.8 tiles (from 1 tile).
+Executioner|8|26/11/2019| the end of november 2019 update, reverted the executioner's stats to its state in 28/1/2019. more specifically, his hitpoints were increased by 5%, his hit speed was increased to 2.4 seconds (from 2.5 seconds), his sight range was increased to 4.5 tiles (from 4 tiles), his axe's range was increased to 6.5 tiles (from 5 tiles), his axe's radius was increased to 1 tile (from 0.8 tiles), and his damage was decreased by 45%.
+Wall Breakers|5|04/11/2019|A balance update, decreased the wall breakers' damage by 19% and decreased their splash radius from 2 tiles to 1.5 tiles. they also now spawn further apart.
+Royal Hogs|5|04/11/2019|A balance update, moved the arena to unlock this card from hog mountain (arena 10) to royal arena (arena 7).
+Fisherman|4|04/11/2019|A balance update, decreased the fisherman's hook range by 1 tile (from 7 tiles to 6 tiles) and increased his hook charge time by 10% (from 1 second to 1.1 seconds).
+Elixir Golem|0|04/11/2019|Elixir golem was released.
+Arrows|8|26/11/2019| the end of november 2019 update, increased the arrows' damage by 23%, and made them shoot three volleys of arrows instead of one, with the total damage split evenly between each volley.
+Barbarian Barrel|12|04/11/2019|A balance update, increased the barbarian's barrel's damage by 8%."
+12/2019,"Knight|9|02/12/2019|A balance update, increased the knight's hitpoints by 5%.
+Three Musketeers|6|02/12/2019|A balance update, decreased the three musketeers' deploy time to 2 seconds (from 3 seconds) and increased the deploy stagger for each musketeer to 0.5 seconds (from 0.15 seconds).
+Elixir Golem|1|02/12/2019|A balance update, normalized the hit speed of all elixir golem forms to 1.3 seconds. being beneficial to the golem and golemites, but hurting the blob damage per second significantly.
+Battle Healer|1|03/12/2019|A maintenance break, changed the battle healer's card info localization. the card description for the battle healer was also changed slightly. it used to say, “with each attack, she unleashes a powerful healing aura that restores hitpoints to friendly troops. outside of combat she passively heals herself!”"
+01/2020,"Lava Hound|5|07/01/2020| balance update, reworked the lava hound. increasing its range from 2 to 3.5 tiles. the damage of the pups was increased by 70%, but the hit speed interval was reduced by 67% (from 1 second to 1.7 seconds). there was also an unannounced change to lava hound's pathing, allowing it to bypass some building placements it was not able to bypass before.
+Sparky|6|07/01/2020| balance update, removed the sparky from all draft selections. however, she remained in triple draft.
+Night Witch|6|07/01/2020| balance update, increased the time for the night witch's first wave of bats to spawn to 3.5 seconds (from 1.3 seconds) and made her initial attack slower by 17%.
+Fisherman|5|07/01/2020| balance update, increased the fisherman's hook range by 1 tile (from 6 to 7 tiles), but increased his hook charge time (from 1.1 seconds to 1.5 seconds).
+Elixir Golem|2|07/01/2020| balance update, reduced the hitpoints of all elixir golem forms by 6%.
+Battle Healer|0|06/01/2020|Battle healer was released."
+02/2020,"Witch|18|04/02/2020| balance update, decreased the witch's first attack to 0.7 seconds (from 1 second).
+Zappies|3|04/02/2020| balance update, increased the zappies’ damage by 20%, but also decreased their hit speed to 2 sec (from 1.6 sec), increased their initial attack speed to 1 sec (from 1.4 sec) and gave the zappies a new 0.15 seconds deploy stagger from each other.
+Royal Hogs|6|04/02/2020| balance update, increased the royal hogs' damage by 6%.
+Firecracker|0|03/02/2020|Firecracker was released.
+Barbarian Hut|6|04/02/2020| balance update, decreased the barbarian hut’s lifetime to 50 seconds (from 60 seconds), but also increased spawn speed to 12.5 seconds (from 14 seconds), and made this building spawn two barbarians upon destruction. a small change was also made to the card's description."
+03/2020,"Golem|8|03/03/2020| balance update, decreased the golemites' damage by 22.5%, but also increased their death damage by 55%.
+Miner|5|03/03/2020| balance update, decreased the miner's crown tower damage, from 40% to 35% of the full damage.
+Cannon Cart|9|03/03/2020| balance update, increased the cannon cart's damage by 5%.
+Cannon|8|03/03/2020| balance update, increased the cannon's damage by 5%.
+Tesla|11|03/03/2020| balance update, allowed the earthquake to affect the tesla even if it is hidden.
+Earthquake|2|03/03/2020| balance update, allowed the earthquake to affect a hidden tesla."
+04/2020,"Princess|6|07/04/2020| balance update, changed the princess' card render.
+Skeleton Barrel|5|07/04/2020| balance update, increased the skeleton barrel's speed to fast (90) [from medium (60)] but decreased its hitpoints by 15%.
+Magic Archer|6|07/04/2020| balance update, decreased the magic archer's targeting range to 6 tiles (from 7 tiles).
+Goblin Hut|11|07/04/2020| balance update, decreased the goblin hut's lifetime to 40 seconds (from 50 seconds) but also made the building spawn three spear goblins upon destruction.
+Heal Spirit|0|02/04/2020|Heal spirit was released.
+Royal Delivery|0|06/04/2020|Royal delivery was released."
+05/2020,"Baby Dragon|7|05/05/2020| balance update, decreased the baby dragon's hitpoints by 6.5%.
+Mini P.E.K.K.A|7|05/05/2020| balance update, decreased the mini p.e.k.k.a's range from melee: medium to melee: short (1.2 tiles -> 0.8 tiles).
+Magic Archer|7|05/05/2020| balance update, increased the magic archer's targeting range to 7 tiles (from 6 tiles), but also decreased his hitpoints by 10%.
+Battle Healer|2|05/05/2020| balance update, decreased the battle healer's hitpoints by 10%.
+Goblin Hut|12|05/05/2020| balance update, decreased the goblin hut's hitpoints by 35%.
+Barbarian Hut|7|05/05/2020| balance update, decreased the barbarian hut's hitpoints by 19.5%.
+Furnace|5|05/05/2020| balance update, decreased the furnace's hitpoints by 16%.
+Goblin Cage|3|05/05/2020| balance update, increased the goblin brawler's damage by 6%.
+Tornado|7|05/05/2020| balance update, decreased the tornado's duration by 50% (2 secs -> 1 sec) but its pull strength was increased by 65% and its damage per second by 100%. it was also changed to damage buildings. as a result, the ""doesn't affect buildings."" blurb from its description was removed.
+Earthquake|3|05/05/2020| balance update, increased the earthquake's regular damage by 11%, but decreased its building damage multiplier from a 4x multiplier to a 3x multiplier.
+Royal Delivery|1|05/05/2020| balance update, increased the delivery's damage by 27%."
+06/2020,"Archers|10|02/06/2020| balance update, gave the archers a new 0.1 second deploy stagger from each other.
+Goblins|4|02/06/2020| balance update, gave the goblins a new 0.1 second deploy stagger from each other.
+Minions|5|02/06/2020| balance update, decreased the deploy stagger for each minion to 0.1 seconds (from 0.15 seconds).
+Barbarians|5|02/06/2020| balance update, decreased the deploy stagger for each barbarian to 0.1 seconds (from 0.15 seconds).
+Prince|11|01/06/2020| balance update, increased the prince's hitpoints by 3%.
+Spear Goblins|6|02/06/2020| balance update, gave the spear goblins a new 0.1 second deploy stagger from each other.
+Minion Horde|5|02/06/2020| balance update, decreased the deploy stagger for each minion to 0.1 seconds (from 0.15 seconds).
+Guards|5|02/06/2020| balance update, gave the guards a new 0.1 seconds deploy stagger from each other.
+Three Musketeers|7|02/06/2020| balance update, decreased the deploy stagger for each musketeer to 0.1 seconds (from 0.5 seconds).
+Fire Spirit|3|01/06/2020| balance update, gave the fire spirits a new 0.1 seconds deploy stagger from each other.
+Goblin Gang|8|02/06/2020| balance update, decreased the deploy stagger for each goblin to 0.1 seconds (from 0.15 seconds).
+Elite Barbarians|6|02/06/2020| balance update, gave the elite barbarians a new 0.1 seconds deploy stagger from each other.
+Royal Recruits|4|02/06/2020| balance update, gave the royal recruits a new 0.1 second deploy stagger from each other.
+Bats|5|02/06/2020| balance update, decreased the deploy stagger for each bat to 0.1 seconds (from 0.15 seconds).
+Zappies|4|02/06/2020| balance update, decreased the deploy stagger for each zappy to 0.1 seconds (from 0.15 seconds).
+Rascals|6|02/06/2020| balance update, decreased the deploy stagger for each rascal to 0.1 seconds (from 0.15 seconds).
+Wall Breakers|6|01/06/2020| balance update, gave the wall breakers a new 0.1 seconds deploy stagger from each other.
+Royal Hogs|7|02/06/2020| balance update, gave the royal hogs a new 0.1 seconds deploy stagger from each other.
+Bomb Tower|11|01/06/2020| balance update, reduced the bomb tower's lifetime to 25 seconds (from 35 seconds).
+Earthquake|4|01/06/2020| balance update, increased the earthquake's movement speed debuff from 35% to 50%, but removed its troop attack speed debuff and unit spawn speed debuff.
+Royal Delivery|2|01/06/2020| balance update, decreased the delivery's damage by 10%."
+07/2020,"Baby Dragon|8|30/07/2020|A maintenance break, changed the baby dragon's card render.
+Zappies|5|07/07/2020| balance update, increased the zappies' damage by 14%, but decreased their hit speed by 5% (from 2 seconds to 2.1 seconds).
+Fisherman|6|07/07/2020| balance update, decreased the fisherman's hook charge time by 13% (from 1.5 seconds to 1.3 seconds), and increased his hit speed by 13% (from 1.5 seconds to 1.3 seconds).
+Firecracker|1|07/07/2020| balance update, decreased the firecracker's recoil range by 25% (from 2 tiles to 1.5 tiles).
+Skeleton Dragons|0|06/07/2020|Skeleton dragons was released.
+Skeleton Dragons|1|07/07/2020| balance update, decreased the skeleton dragons' damage by 6%."
+08/2020,"Three Musketeers|8|04/08/2020| balance update, added a card render to the three musketeers' card info screen.
+Miner|6|04/08/2020| balance update, decreased the miner's crown tower damage, from 35% to 30% of the full damage.
+Bowler|4|04/08/2020| balance update, decreased the bowler's sight range to 4 tiles (from 5 tiles), increased his projectile range 7.5 tiles (from 6 tiles), and increased his hitpoints by 8%.
+Royal Recruits|5|04/08/2020| balance update, increased the royal recruits damage by 8%.
+Night Witch|7|04/08/2020| balance update, increased the bats' hitspeed to 1.3 seconds (from 1.1 seconds).
+Bats|6|04/08/2020| balance update, increased the bats' hit speed to 1.3 seconds (from 1.1 seconds).
+Fireball|5|04/08/2020| balance update, decreased the fireball’s crown tower damage from 35% to 30% of the full damage.
+Arrows|9|04/08/2020| balance update, decreased the arrows' crown tower damage from 35% to 30% of the full damage.
+Rocket|5|04/08/2020| balance update, decreased the rocket’s crown tower damage from 35% to 30% of the full damage.
+Freeze|8|04/08/2020| balance update, decreased the freeze's crown tower damage from 35% to 30% of the full damage.
+Lightning|8|04/08/2020| balance update, decreased the lightning's crown tower damage from 35% to 30% of the full damage.
+Zap|10|04/08/2020| balance update, decreased the zap's crown tower damage from 35% to 30% of the full damage.
+Poison|10|04/08/2020| balance update, decreased the poison’s crown tower damage to 30% of the full damage (from 35%).
+The Log|9|04/08/2020| balance update, decreased the log's rolling distance by 1 tile (to 10.1 tiles, from 11.1 tiles), and decreased its crown tower damage from 35% to 30% of the full damage.
+Clone|8|31/08/2020|The clan wars ii update, made it so that cloned troops can no longer be healed.
+Giant Snowball|5|04/08/2020| balance update, decreased the giant snowball's crown tower damage to 30% of the full damage (from 35%).
+Royal Delivery|3|04/08/2020| balance update, increased the damage of royal recruits by 8%, and also removed the delivery's knockback. its description was also updated to reflect this, previously saying ""no need to sign for this package! dropped from the sky, it damages and knocks back enemy troops before delivering a royal recruit. the empty box is also handy for espionage.""
+Royal Delivery|4|31/08/2020|The clan wars ii update, changed the royal delivery's card info screen."
+09/2020,"Bomber|10|09/09/2020| balance update, decreased the bomber's hitspeed to 1.8 seconds (from 1.9 seconds).
+Fire Spirit|4|09/09/2020| balance update, increased the fire spirits' area damage radius to 1.7 tiles (from 1.5 tiles).
+Zappies|6|09/09/2020| balance update, decreased the zappies' first attack speed to 0.9 seconds (from 1.1 seconds).
+Furnace|6|09/09/2020| balance update, increased the fire spirits' area damage radius to 1.7 tiles (from 1.5 tiles).
+Heal Spirit|1|09/09/2020| balance update, decreased the heal spirit's healing radius to 3.5 tiles (from 4 tiles)."
+10/2020,"Musketeer|6|06/10/2020|A balance update, decreased the musketeer's first attack speed to 0.8 seconds (from 0.5 seconds).
+Three Musketeers|9|06/10/2020|A balance update, decreased the musketeer's first attack speed to 0.8 seconds (from 0.5 seconds).
+Royal Ghost|5|06/10/2020|A balance update, allowed the royal ghost to hover, meaning it can cross the river and will collide with air troops instead of ground troops.
+Battle Healer|3|06/10/2020|A balance update, allowed the battle healer to hover, meaning it can cross the river and will collide with air troops instead of ground troops.
+Skeleton Dragons|2|06/10/2020|A balance update, decreased the skeleton dragons' hit speed by 12% (from 1.7 sec to 1.9 sec).
+Electro Giant|1|14/10/2020| a maintenance break, increased the electro giant's hitpoints by 12.5%.
+Heal Spirit|2|06/10/2020|A balance update, decreased the heal spirit's healing effect by 9%."
+11/2020,"Mini P.E.K.K.A|8|03/11/2020|A balance update, increased the mini p.e.k.k.a's attack speed to 1.7 seconds (from 1.8 seconds) and its first attack speed to 0.4 seconds (from 0.5 seconds).
+Sparky|7|03/11/2020|A balance update, decreased the sparky's first attack speed to 1 second (from 0.5 seconds).
+Electro Wizard|6|03/11/2020|A balance update, decreased his damage by 3.5%.
+Elite Barbarians|7|03/11/2020|A balance update, decreased the elite barbarians' speed from very fast to fast, decreased their hit speed to 1.5 seconds (from 1.7 seconds), increased their hit points by 14%, and increased their damage by 5.5%. their first attack speed was also reduced to 0.5 seconds (from 0.7 seconds).
+Royal Ghost|6|18/11/2020| the clan wars improvement update, changed the hover mechanic. the royal ghost would no longer pass through buildings, push back air troops, or bounce off the river when knocked back.
+Battle Healer|4|18/11/2020| the clan wars improvement update, changed the hover mechanic. the battle healer would no longer pass through buildings, push back air troops, or bounce off the river when knocked back.
+Electro Spirit|0|02/11/2020|Electro spirit was released.
+Electro Giant|0|02/11/2020|Electro giant was released.
+Electro Giant|2|18/11/2020| the clan wars improvement update, made the electro giant's reflected damage scale with its level. additionally, certain interactions with the reflected damage were changed. for example, each of the hunter's pellets no longer count as individual attacks versus the electro giant. previously, if the hunter hit the electro giant from a point-blank range, the hunter would take reflected damage 10 times and die instantly.
+Electro Giant|3|19/11/2020| a maintenance break, fixed a bug where using lightning on an electro giant would cause the game to crash.
+Tombstone|9|03/11/2020|A balance update, increased the tombstone's hitpoints by 4%.
+Lightning|9|19/11/2020| a maintenance break, fixed a bug where using lightning on an electro giant would cause the game to crash.
+Graveyard|4|03/11/2020|A balance update, decreased the area where skeletons can potentially spawn inside the radius, with the new range being 3.5 - 4 tiles (from 3 - 4 tiles).
+Graveyard|5|18/11/2020| the clan wars improvement update, reverted the previous balance change, making the spawn radius 3 - 4 tiles once again."
+12/2020,"Witch|19|09/12/2020|A balance update, increased the speed of her first skeleton spawn to 1 sec (from 3.5 sec).
+Guards|6|09/12/2020|A balance update, decreased the guards' hit speed to 1 second (from 1.1 seconds) and decreased their hitpoints by 26%.
+Electro Wizard|7|09/12/2020|A balance update, decreased his damage by 2.5%.
+Night Witch|8|09/12/2020|A balance update, increased the bats' first attack speed to 0.6 seconds (from 0.8 seconds).
+Bats|7|09/12/2020|A balance update, decreased the bats' first attack speed to 0.6 seconds (from 0.8 seconds).
+Skeleton Barrel|6|09/12/2020|A balance update, decreased the skeleton barrel's hitpoints by 19%.
+Goblin Giant|5|09/12/2020|A balance update, increased the goblin giant's hit speed to 1.5 seconds (from 1.7 seconds).
+Fisherman|7|09/12/2020|A balance update, decreased the fisherman's hitpoints by 10%.
+Mother Witch|0|07/12/2020|Mother witch was released.
+Barbarian Hut|8|09/12/2020|A balance update, decreased the barbarian hut's hitpoints by 21%.
+X-Bow|10|09/12/2020|A balance update, increased damage by 30%, reduced its hitpoints by 4%, increased its hit speed to 0.3 sec (from 0.25 sec) and its lifetime to 30 seconds (from 40 seconds).
+Graveyard|6|09/12/2020|A balance update, increased the delay of the first skeleton spawn to 2.2 seconds (from 2 seconds).
+Heal Spirit|3|09/12/2020|A balance update, decreased the heal spirit's damage by 69%."
+01/2021,
+02/2021,"Giant|7|03/02/2021|Alance update increased the giant's hitpoints by 4%.
+Earthquake|5|11/02/2021|A maintenance break decreased the earthquake's crown tower damage by 15%, but increased its damage to buildings by 16%."
+03/2021,"Knight|10|30/03/2021|Balance update decreased the knight's hitpoints by 5%.
+Balloon|9|30/03/2021|Balance update decreased the balloon's death damage by 27%.
+Witch|20|30/03/2021|A balance update increased her range to 5.5 tiles (from 5 tiles).
+Bomber|11|30/03/2021|Balance update decreased the bomber's elixir cost to 2 (from 3), decreased his hitpoints by 31%, and decreased his damage by 32%.
+Giant Skeleton|7|30/03/2021|Balance update decreased the giant skeleton's death damage by 54% and increased his attack damage by 29%.
+Three Musketeers|10|30/03/2021|Balance update decreased the three musketeers' deploy time to 1 second (from 2 seconds).
+Elite Barbarians|8|30/03/2021|Balance update decreased the hit speed of elite barbarians to 1.4 seconds (from 1.5 seconds) and their first attack speed to 0.4 seconds (from 0.5 seconds).
+Hunter|4|30/03/2021|Balance update decreased the hunter's first attack speed to 1.1 sec (from 0.7 sec).
+Zappies|7|30/03/2021|Balance update increased the zappies' first attack speed to 1.1 seconds (from 0.9 seconds).
+Cannon Cart|10|30/03/2021|Balance update decreased the cannon cart's movement speed to medium (60) (from fast (90)).
+Mother Witch|1|30/03/2021|Balance update increased her hit speed to 1.1 sec (from 1.2 sec), increased her first attack speed to 0.4 sec (from 0.5 sec) & increased her damage by 14%.
+Bomb Tower|12|30/03/2021|Balance update decreased the bomb tower's death damage by 50%.
+Heal Spirit|4|30/03/2021|Balance update increased the heal spirit's damage by 225%, but reduced its healing radius to 2.5 tiles (from 3.5 tiles)."
+04/2021,"Elite Barbarians|9|07/04/2021|Aintenance break increased the first attack speed of elite barbarians to 0.5 seconds (from 0.4 seconds).
+Archer Queen|1|11/04/2021| maintenance break increased the cloaking cape's cooldown (from 11 seconds to 15 seconds) and decreased its duration (from 3.5 seconds to 3 seconds)."
+05/2021,
+06/2021,"Golem|9|07/06/2021| 2021 quarter 2 update decreased the golem's death damage by 28%. it also moved the arena to unlock the golem from barbarian bowl (arena 3) to hog mountain (arena 10).
+Skeleton Army|9|07/06/2021| 2021 quarter 2 update moved the arena to unlock the skeleton army from training camp (tutorial) to bone pit (arena 2).
+Giant Skeleton|8|07/06/2021| 2021 quarter 2 update gave giant skeleton's bomb the ability to inflict double damage on crown towers. it also moved the arena to unlock the giant skeleton from bone pit (arena 2) to p.e.k.k.a's playhouse (arena 4).
+Ice Wizard|8|07/06/2021|Alance update decreased the ice wizard's hitpoints by 3%.
+Ice Wizard|9|10/06/2021|Maintenance break decreased the ice wizard's hitpoints by 0.1%. an equal level ice wizard will now be one-shot by an equal level fireball.
+Bowler|5|07/06/2021| 2021 quarter 2 update moved the arena to unlock the bowler from frozen peak (arena 8) to rascal's hideout (arena 13).
+Elite Barbarians|10|07/06/2021|Alance update increased the elite barbarians' sight range to 6 tiles (from 5.5 tiles).
+Executioner|9|07/06/2021|He 2021 quarter 2 update moved the arena to unlock the executioner from spooky town (arena 12) to serenity peak (arena 14).
+Rascals|7|07/06/2021| 2021 quarter 2 update decreased the rascal girls' first attack speed to 0.8 sec (from 1 sec). it also moved the arena to unlock the rascals from jungle arena (arena 9) to rascal’s hideout (arena 13).
+Cannon Cart|11|07/06/2021| 2021 quarter 2 update decreased the cannon cart's hit speed in its unshielded form to 0.9 sec (from 1 sec). it also moved the arena to unlock the cannon cart from hog mountain (arena 10) to legendary arena (arena 15).
+Elixir Golem|3|07/06/2021| 2021 quarter 2 update moved the arena to unlock the elixir golem from electro valley (arena 11) to serenity peak (arena 14).
+Cannon|9|07/06/2021|Alance update increased the cannon's hit speed to 0.9 seconds (from 1 second).
+Furnace|7|07/06/2021| 2021 quarter 2 update decreased the time between waves to 7 seconds (from 9 seconds), number of fire spirits spawned each wave to 1 (from 2), and decreased its lifetime to 49 seconds (from 50 seconds). its description was updated to reflect the number for fire spirits spawned per wave (previously saying, ""the“furnace spawns two fire spirits at a time. it also makes great brick-oven pancakes.""). in addition, the fire spirits' hitpoints were increased by 109%, their damage by 6%, their range to 2.5 tiles (from 2 tiles), and their area damage radius to 2.5 tiles (from 1.7 tiles). it also moved the arena to unlock the furnace from spell valley (arena 5) to hog mountain (arena 10).
+Goblin Drill|1|17/06/2021|Ior to the card's general release, a maintenance break added a 1 second delay before the first goblin spawn, adjusted the formation of the goblins which spawned upon the drill's destruction (now spawning more closely together in the center of the drill), and reduced the push effect of the drill's burrowing effect on ground troops.
+Goblin Barrel|9|07/06/2021| 2021 quarter 2 update moved the arena to unlock the goblin barrel from goblin stadium (arena 1) to barbarian bowl (arena 3). it also added a card render to the goblin barrel's card info screen.
+The Log|10|07/06/2021| 2021 quarter 2 update slightly changed the log's description, adding the phrase “reduced damage to crown towers.” to it.
+Giant Snowball|6|07/06/2021| 2021 quarter 2 update slightly changed the giant snowball's description, adding the phrase “reduced damage to crown towers.” to it."
+07/2021,"Fire Spirit|5|06/07/2021| 2021 quarter 2 update reworked the card, decreasing its elixir cost to 1 (from 2), its count to 1 (from 3), increasing its hitpoints by 109%, its damage by 6%, its range to 2.5 tiles (from 2 tiles), and its area damage radius to 2.5 tiles (from 1.7 tiles). its name and description were updated to reflect the count change. its description previously read, “these three fire spirits are on a kamikaze mission to give you a warm hug. it'd be adorable if they weren't on fire.” it also moved the arena to unlock the fire spirit from spell valley (arena 5) to p.e.k.k.a's playhouse (arena 4).
+Goblin Drill|0|11/07/2021|Goblin drill was released."
+08/2021,
+09/2021,"Goblins|5|06/09/2021|Alance update increased the distance between the goblins upon deployment.
+Bomber|12|06/09/2021|Alance update decreased the bomber's attacking range to 4.5 tiles (from 5 tiles).
+Royal Giant|7|06/09/2021|Alance update decreased the royal giant's first attack speed to 0.9 seconds (from 0.7 seconds).
+Guards|7|06/09/2021|Alance update increased the guards' damage by 12%.
+Fire Spirit|6|06/09/2021|Alance update decreased the fire spirit's area damage radius to 2.3 tiles (from 2.5 tiles). it can no longer hit all goblins spawned from the goblin barrel when the goblin barrel is deployed in the center of a princess tower.
+Hunter|5|06/09/2021|Alance update increased the hunter's first attack speed to 0.9 sec (from 1.1 sec).
+Night Witch|9|06/09/2021|Alance update increased the speed of her first bat spawn to 1 second (from 4 seconds), increased her spawn rate to 5 seconds (from 7 seconds), and removed the night witch's death spawn.
+Royal Hogs|8|06/09/2021|Alance update, increased the royal hogs' damage by 6%.
+Mother Witch|2|06/09/2021|Alance update decreased the mother witch's hitpoints by 4%.
+Electro Giant|4|06/09/2021|Alance update decreased the electro giant's hitpoints by 4%.
+Bomb Tower|13|06/09/2021|Alance update increased the bomb tower's lifetime from 25 seconds to 30 seconds.
+Tesla|12|06/09/2021|Alance update decreased the tesla's lifetime to 30 seconds (from 35 seconds).
+Tombstone|10|06/09/2021|Alance update increased the tombstone's death spawn to 4 (from 3). its description also changed slightly to account for the death spawn change.
+Furnace|8|06/09/2021|Alance update decreased the fire spirits' area damage radius to 2.3 tiles (from 2.5 tiles).
+Goblin Drill|2|06/09/2021|Alance update decreased the count of the goblin drill's death spawn to 2 (from 3).
+Poison|11|06/09/2021|Alance update made it so the poison slows enemy movement speed by 15%.
+Giant Snowball|7|06/09/2021|Alance update increased the giant snowball's pushback distance to 1.8 tiles (from 1.5 tiles)."
+10/2021,"Skeleton King|0|27/10/2021|Skeleton king was released.
+Archer Queen|0|27/10/2021|Archer queen was released.
+Golden Knight|0|27/10/2021|Golden knight was released.
+Mother Witch|3|27/10/2021|He 2021 quarter 3 update added the level 14 mother witch.
+Goblin Drill|3|27/10/2021|He 2021 quarter 3 update changed the goblin drill's trail to make it more distinct from the miner's."
+11/2021,"Skeleton King|1|04/11/2021|Maintenance break increased his damage by 14%, area damage radius by 30%, and made him immune to non-log knockback sources.
+Clone|9|01/11/2021|Bug where cloned troops that spawn troops spawn non-cloned troops was patched."
+12/2021,"Ice Wizard|10|07/12/2021|E 2021 quarter 4 update granted the ice wizard spawn damage with a slow effect.
+Fire Spirit|7|07/12/2021|E 2021 quarter 4 update decreased the range of the fire spirit to 2 tiles (from 2.5 tiles).
+Battle Ram|7|07/12/2021|E 2021 quarter 4 update increased the battle ram's damage and charge damage by 8%.
+Dart Goblin|5|07/12/2021|E 2021 quarter 4 update, increased the dart goblin's damage by 9%.
+Executioner|10|07/12/2021|E 2021 balance update increased the hitpoints of the executioner by 5%.
+Rascals|8|07/12/2021|E 2021 quarter 4 update decreased the rascal girls’ hit speed to 1 sec (from 1.1 sec).
+Mother Witch|4|07/12/2021|E 2021 quarter 4 update decreased the hitpoints of the mother witch by 18%.
+Goblin Hut|13|07/12/2021|E 2021 quarter 4 update decreased the goblin hut's hitpoints by 17%, its lifetime to 31 seconds (from 40 seconds) and its spawn speed interval to 4 seconds (from 4.5 seconds).
+Barbarian Hut|9|07/12/2021|E 2021 quarter 4 update reduced the hitpoints of the barbarian hut by 15%, it's lifetime to 40 seconds (from 50 seconds) and it's spawn speed interval to 10 seconds (from 12.5 seconds).
+Tesla|13|07/12/2021|E 2021 quarter 4 update increased the tesla's hit speed interval to 1.2 seconds (from 1.1 seconds).
+Tombstone|11|07/12/2021|E 2021 quarter 4 update decreased the lifetime of the tombstone to 30 seconds (from 40 seconds), increase its spawn speed interval to 3.8 seconds (from 3.1 seconds) and increase the amount of skeletons it spawns per wave to 2 (from 1).
+Furnace|9|07/12/2021|E 2021 quarter 4 update reduced the hitpoints of the furnace by 17%, its lifetime to 33 seconds (from 49 seconds), and its spawn speed interval to 6 seconds (from 7 seconds) while adding a death spawn of one fire spirit. it also decreased the range of the fire spirits to 2 tiles (from 2.5 tiles).
+Goblin Cage|4|07/12/2021|E 2021 quarter 4 update, decreased the hitpoints of the goblin cage's cage by 23%."
+01/2022,
+02/2022,"Balloon|10|03/02/2022|Alance update decreased the balloon's damage by 33% but also decreased its hitspeed to 2 seconds (from 3 seconds).
+Musketeer|7|03/02/2022|Alance update increased the musketeer's hit speed to 1 sec (from 1.1 sec).
+Prince|12|03/02/2022|Alance update decreased the prince's hitpoints by 4% and made him able to jump over the river.
+Mini P.E.K.K.A|9|03/02/2022|Alance update increased the mini p.e.k.k.a's attack speed to 1.6 seconds (from 1.7 seconds)
+Dark Prince|15|03/02/2022| balance update decreased the dark prince's hit points by 3% and gave him the ability to jump the river.
+Three Musketeers|11|03/02/2022|Alance update decreased the musketeer's hit speed to 1 second (from 1.1 seconds).
+Hunter|6|03/02/2022|Alance update increased the hunter's first attack speed to 0.8 sec (from 0.9 sec).
+Ram Rider|3|03/02/2022|Alance update made the ram rider's snare ability no longer affect the spawn speed of witch and night witch.
+Royal Hogs|9|03/02/2022|Alance update, decreased the royal hogs' damage by 3%.
+Archer Queen|2|03/02/2022|Alance update decreased the archer queen's movement speed to slow (from medium) while cloaking cape is active.
+Golden Knight|1|03/02/2022|Alance update decreased the maximum dash range of the golden knight's dash to to 5 tiles (from 6 tiles) and increased the cooldown time of dashing dash to 11 seconds (from 8 seconds).
+Inferno Tower|11|03/02/2022| balance update increased the inferno tower's first hit speed by 25%"
+03/2022,"Mighty Miner|0|30/03/2022|Mighty miner was released.
+Lightning|10|30/03/2022|E miner update gave the lightning a visual effect that shows even if it does not damage anything."
+04/2022,"Archers|11|04/04/2022|Alance update increased the archers' hit speed to 1.1 sec (from 1.2 sec).
+Valkyrie|11|04/04/2022|Alance update decreased the valkyrie's hitpoints by 4%.
+Giant Skeleton|9|04/04/2022| giant skeleton’s hitpoints and attack speed were increased by 7%.
+Ice Spirit|4|04/04/2022| 2022 quarter 1 update increased the ice spirit's freeze duration increased to 1.3 seconds (from 1 second).
+Ram Rider|4|04/04/2022|Alance update reduced the ram rider's snare movement speed reduction from 85% to 70%.
+Mega Knight|8|02/04/2022|Alance update decreased the mega knight's spawn damage by 20%.
+Mighty Miner|1|08/04/2022|Aintenance break reduced the mighty miner's ability cost to 1 from 2 and gave him immunity to knockback.
+Mighty Miner|2|21/04/2022|Maintenance break reduced the bomb exploding speed to 1 sec from 3 sec.
+Archer Queen|3|04/04/2022| april update decreased the archer queen's hit speed buff while cloaked from 200% to 180%.
+Golden Knight|2|04/04/2022|Alance update reverted the maximum dash range of the golden knight's dash to 6 (from 5 tiles) but made it so that the dash would end if a crown tower is hit.
+Electro Giant|5|04/04/2022| 2022 quarter 1 update decreased the electro giant elixir cost to 7 (from 8), but also decreased his hitpoints and damage by 15%.
+Elixir Collector|9|04/04/2022| 2022 quarter 1 update added a 1 elixir death spawn to the elixir collector, decreased its lifetime to 65 sec (from 70 sec) and decreased its production speed to 9 sec (from 8.5 sec).
+Tombstone|12|04/04/2022| 2022 quarter 1 update increase its spawn speed interval to 4 seconds (from 3.8 seconds).
+Mirror|12|04/04/2022| 2022 quarter 1 update changed the level of the mirrored card to +2, allowing it to spawn level 16 cards at max level.
+Graveyard|7|04/04/2022| 2022 quarter 1 update decreased the graveyard's duration to 9.5 seconds (from 10 seconds), consequently causing it to spawn 1 less skeleton (14 instead of 15).
+Earthquake|6|08/04/2022|N emergency balance update decreased the earthquake's crown tower damage from 85% to 65% of the full troop damage."
+05/2022,
+06/2022,"Barbarians|6|07/06/2022|Alance update increased the barbarians‘ hit speed to 1.3 seconds (from 1.4 seconds).
+Battle Ram|8|07/06/2022|Alance update increased the barbarians‘ hit speed to 1.3 sec (from 1.4 sec).
+Night Witch|10|07/06/2022|Alance update increased her hit speed to 1.3 seconds (from 1.5 seconds).
+Royal Ghost|7|07/06/2022|Alance update delayed the royal ghost’s invisibility to 1.8 sec (from 1.6 sec).
+Skeleton King|2|07/06/2022|Alance update decreased the number of skeletons which his soul summoning ability spawns from 20 to 18.
+Mother Witch|5|07/06/2022|Alance update increased her hit speed to 1 sec (from 1.1 sec).
+Electro Giant|6|07/06/2022|Alance update increased the electro giant's hitpoints by 9%.
+Barbarian Hut|10|07/06/2022|Alance update increased the barbarian‘s hit speed to 1.3 seconds (from 1.4 seconds).
+Goblin Drill|4|07/06/2022|Alance update decreased the goblin drill‘s burrowing speed by 25%.
+The Log|11|07/06/2022| balance update decreased the log's crown tower damage from 30% to 20% of the full damage.
+Barbarian Barrel|13|07/06/2022|Alance update increased the barbarian‘s hit speed to 1.3 sec (from 1.4 sec), but it also decreased the barbarian barrel's range to 4.5 (from 5)."
+07/2022,
+08/2022,"Prince|13|02/08/2022|Alance update decreased the distance required for charging to 3 tiles (from 3.5 tiles).
+Fire Spirit|8|02/08/2022|Alance update decreased the fire spirit's area damage by 9%.
+Ice Golem|6|02/08/2022|Alance update increased the ice golem's slow effect duration to 1.5 seconds (from 1 second).
+Executioner|11|02/08/2022|Alance update increased the executioner's axe maximum flying distance to 7.5 tiles (from 6.5 tiles).
+Ram Rider|5|02/08/2022|Alance update decreased the distance required for charging to 3 tiles (from 3.5).
+Mega Knight|9|02/08/2022|Alance update increased his jump charge speed from 1.1 seconds to 0.9 seconds.
+Elixir Golem|4|02/08/2022|Alance update increased the elixir golem's hitpoints by 9%, and the elixir golemite's hitpoints by 6%. it also increased the elixir given by the elixir golem after being killed to 1 elixir (from 0), the elixir given by the elixir golemite after being killed to 0.5 elixir (from 0), and the elixir given by the elixir blob after being killed to 0.5 elixir (from 1). the card description was also changed. it used to read ""splits into two elixir golemites when destroyed, which split into two sentient blobs when defeated. a blob gives your opponent 1 elixir when destroyed!""
+Skeleton King|3|02/08/2022|Alance update decreased the number of skeletons which his soul summoning ability spawns from 18 to 16.
+Golden Knight|3|02/08/2022|Alance update decreased the golden knight's hp by 10%.
+Electro Giant|7|02/08/2022|Alance update decreased the electro giant's reflected tower damage by 33%.
+Furnace|10|02/08/2022|Alance update decreased the fire spirit's area damage by 9%.
+Fireball|6|02/08/2022|Alance update decreased the fireball's pushback distance to 1 tile (from 1.8 tiles)."
+09/2022,Giant Skeleton|10|12/09/2022|Maintenance break decreased the giant skeleton's hp by 5%.
+10/2022,"Goblin Gang|9|04/10/2022|Balance update increased the goblin gang's spear goblin count by 1 (from 2 to 3). this also changed the description to match the number of troops spawned.
+Cannon Cart|12|04/10/2022|Balance update decreased the cannon cart's hp in its unshielded form by 8%.
+Royal Hogs|10|04/10/2022|Balance update decreased the royal hogs' first attack speed to 0.4 seconds (from 0.25 seconds).
+Mighty Miner|3|04/10/2022|Balance update decreased the mighty miner's hp by 8%.
+Elixir Golem|5|04/10/2022|Balance update increased the elixir golem's hit speed to 1.1 seconds (from 1.3 seconds). this affects all forms of the troop (golem, golemite, blob).
+Cannon|10|04/10/2022|Balance update decreased the cannon's hp by 8%.
+Mortar|13|04/10/2022|Balance update decreased the mortar's hp by 7%.
+Barbarian Hut|11|04/10/2022|Balance update decreased the barbarian hut's elixir cost to 6 (from 7), and its spawn speed to 15 seconds (from 11 seconds). it also made it so 3 barbarians will spawn (from 2), decreased its lifetime to 30 seconds (from 40 seconds), and decreased its death spawn barbarians to 1 (from 2)."
