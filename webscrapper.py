@@ -1,5 +1,3 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -7,6 +5,9 @@ import json
 import csv
 import time
 import utils
+
+def camel_to_snake(s):
+    return ''.join(['-'+c.lower() if c.isupper() else c for c in s]).lstrip('-').replace(" ", "")
 
 def get_all_card_names():
     list_of_cards = []
@@ -123,14 +124,78 @@ def write_history_for_all_months(list_of_cards, excel_file):
             csv.writer(month_changes_file).writerow((month, month_changes[:-1]))
         month_changes_file.close()
 
+def fill_output_file_header(output_file):
+    months = utils.month_year_iter(1, 2016, 11, 2022)
+    header = ["", ""]
+    for month in months:
+        header.append(month)
+    csv.writer(output_file).writerow(header)
 
+def fill_cards_in_output_file(cards_changes_file):
+    reader = csv.reader(cards_changes_file)
+    next(reader)
+    for row in reader:
+        card_name = row[1]
+        card_release_date = row[3]
+        all_changes = row[4].split('\n')
+        all_changes.insert(0, "{}|On {},{} was released.".format(card_release_date, card_release_date, card_name))
+        months = utils.month_year_iter(1, 2016, 11, 2022)
+
+        card_name_in_snake_case = ''
+        if card_name == "P.E.K.K.A":
+            card_name_in_snake_case = "pekka"
+        elif card_name == "Mini P.E.K.K.A":
+            card_name_in_snake_case = "mini-pekka"
+        card_name_in_snake_case = camel_to_snake(card_name)
+        card_image_url = "https://cdn.royaleapi.com/static/img/cards-150/{}.png".format(card_name_in_snake_case)
+
+        row = [card_name, card_image_url]
+        map_month_to_num_changes = {}
+        for month in months:
+            map_month_to_num_changes[month] = -1
+
+        num_changes = 0
+        for change in all_changes:
+            if not change:
+                continue
+
+            change_date = change[0:10]
+            change_date_in_month_year = change_date[3:]
+            map_month_to_num_changes[change_date_in_month_year] = num_changes
+            num_changes += 1
+
+        # find the first number != -1
+        first_non_negative_number = 0
+        for month in months:
+            if map_month_to_num_changes[month] != -1:
+                first_non_negative_number = map_month_to_num_changes[month]
+                break
+
+        curr_changes = first_non_negative_number
+        saw_first_non_negative = False
+        for month in months:
+            if curr_changes == first_non_negative_number and map_month_to_num_changes[month] == -1 and not saw_first_non_negative:
+                row.append("")
+            elif map_month_to_num_changes[month] != -1:
+                if map_month_to_num_changes[month] == first_non_negative_number:
+                    saw_first_non_negative = True
+                curr_changes = map_month_to_num_changes[month]
+                row.append(str(curr_changes))
+            else:
+                row.append(str(curr_changes))
+
+        csv.writer(output_file).writerow(row)
+
+'''
 options = Options()
 options.add_argument('-headless')
 driver = webdriver.Chrome(options=options,
                           executable_path="/Users/mohannedabuhassira/Desktop/clash-royale-web-scrapper/chromedriver")
-
+'''
 cards_changes_file = open("cards_balance_changes_history.csv", "r+", newline="")
 list_of_cards = get_all_card_names()
 # scrape_data(list_of_cards, excel_file)
-write_history_for_all_months(list_of_cards, cards_changes_file)
-cards_changes_file.close()
+# write_history_for_all_months(list_of_cards, cards_changes_file)
+output_file = open("output.csv", "r+", newline="")
+fill_output_file_header(output_file)
+fill_cards_in_output_file(cards_changes_file)
